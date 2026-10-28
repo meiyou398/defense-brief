@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://meiyou398.github.io/defense-brief/schema/issue.json",
+  "title": "防务早知道 · 每期简报",
+  "description": "content/YYYY-MM-DD.json 的格式。除 date 和 sections 外都可省略；省略时按开发交接文档「数据格式」里的兜底规则显示。条目编号不写在 JSON 里，构建时按出现顺序从 1 开始编，跨战区连续。",
+  "type": "object",
+  "required": ["date", "sections"],
+  "additionalProperties": false,
+  "properties": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "期日，也是 URL：/2026-10-27/" },
+    "publishedAt": { "type": "string", "format": "date-time", "description": "发稿时间，带时区，如 2026-10-27T08:00:00+08:00。城市时钟条用它计算。缺省按当天 08:00 UTC+8。" },
+    "coverage": { "type": "string", "description": "覆盖时段，如「约 10月26日上午至 10月27日上午（UTC+8）」" },
+    "summary": { "type": "string", "description": "本期主线一段话，用于 RSS 和 meta description" },
+    "highlights": {
+      "type": "array",
+      "maxItems": 6,
+      "description": "今日六件事。缺省取前 6 条的 headline。",
+      "items": {
+        "type": "object",
+        "required": ["lead", "text", "item"],
+        "additionalProperties": false,
+        "properties": {
+          "lead": { "type": "string", "maxLength": 12, "description": "简短要点，加粗显示：2–6 个汉字，或一个英文缩写加 2–3 个汉字（如「AUKUS 核潜艇」）" },
+          "text": { "type": "string", "maxLength": 60, "description": "一句话，不超过 40 字为宜" },
+          "item": { "type": "integer", "minimum": 1, "description": "对应条目编号" }
+        }
+      }
+    },
+    "stats": {
+      "type": "array",
+      "maxItems": 5,
+      "description": "今日数字。缺省时整条隐藏。只用正文里出现过的数字。",
+      "items": {
+        "type": "object",
+        "required": ["value", "label", "item"],
+        "additionalProperties": false,
+        "properties": {
+          "value": { "type": "string", "description": "数字本身，可带 < > ~ 等符号，如 \"<10\"" },
+          "unit": { "type": "string", "description": "单位，如 亿美元、架、吨" },
+          "label": { "type": "string", "maxLength": 14, "description": "说明，不超过 12 字为宜" },
+          "item": { "type": "integer", "minimum": 1 }
+        }
+      }
+    },
+    "featured": {
+      "type": "array",
+      "items": { "type": "integer", "minimum": 1 },
+      "maxItems": 2,
+      "description": "首页「展开读」的 2 个条目编号。缺省取前 2 个一档条目。"
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["title", "items"],
+        "additionalProperties": false,
+        "properties": {
+          "title": { "type": "string", "description": "战区名，对照表见 site.config.json 的 theaters" },
+          "items": { "type": "array", "items": { "$ref": "#/$defs/item" } }
+        }
+      }
+    },
+    "invest": { "type": "array", "items": { "type": "string" }, "description": "投资视角，每条一段" }
+  },
+  "$defs": {
+    "item": {
+      "type": "object",
+      "required": ["text"],
+      "additionalProperties": false,
+      "properties": {
+        "headline": { "type": "string", "maxLength": 32, "description": "标题，不超过 28 字为宜。缺省取正文第一个逗号或句号前的部分。" },
+        "text": { "type": "string", "description": "条目正文" },
+        "entities": { "type": "array", "items": { "type": "string" }, "description": "正文里要加粗的人名、机构、装备、地名，必须与正文原样一致；只加粗第一次出现" },
+        "whyItMatters": { "type": "string", "description": "「为什么重要：」一句话" },
+        "caution": { "type": "string", "description": "「注意：」需要提醒读者的核实问题" },
+        "related": { "type": "array", "items": { "type": "integer", "minimum": 1 }, "description": "相关条目编号" },
+        "domain": { "enum": ["sea", "air", "land", "space", "missile", "industry", "diplomacy"], "description": "领域：海 / 空 / 陆 / 天 / 弹 / 产 / 交" },
+        "location": {
+          "description": "地图位置。null 表示未定位；offMap 表示在地图范围外（目前只有 us = 美国本土）。",
+          "oneOf": [
+            { "type": "null" },
+            {
+              "type": "object",
+              "required": ["name", "lat", "lon"],
+              "additionalProperties": false,
+              "properties": {
+                "name": { "type": "string" },
+                "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+                "lon": { "type": "number", "minimum": -180, "maximum": 180 }
+              }
+            },
+            {
+              "type": "object",
+              "required": ["name", "offMap"],
+              "additionalProperties": false,
+              "properties": {
+                "name": { "type": "string" },
+                "offMap": { "enum": ["us"] }
+              }
+            }
+          ]
+        },
+        "sourceNote": { "type": "string", "description": "来源说明文字" },
+        "links": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "url"],
+            "additionalProperties": false,
+            "properties": { "name": { "type": "string" }, "url": { "type": "string", "format": "uri" } }
+          }
+        },
+        "tierText": { "type": "string", "description": "可信度原文，如「一档事实（议会报告）+ 二档专业解读」" },
+        "tier": { "type": "integer", "minimum": 1, "maximum": 4, "description": "主分档。缺省时从 tierText 解析第一个「一档 / 二档 / 三档 / 四档」" }
+      }
+    }
+  }
+}

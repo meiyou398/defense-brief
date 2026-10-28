@@ -1,0 +1,19 @@
+{
+  "name": "defense-brief",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node tools/serve.mjs",
+    "test": "node --test",
+    "verify": "node tools/verify.mjs",
+    "map": "node tools/make-map.mjs --res 110m"
+  },
+  "dependencies": {
+    "d3-geo": "3.1.1",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  }
+}

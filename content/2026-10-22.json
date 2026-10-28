@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-22",
+  "coverage": "约 10月21日凌晨至 10月22日上午（UTC+8）",
+  "summary": "德国联邦国防军把俄方破坏威胁评到次高档，并怀疑温斯托夫空军基地附近无人机曾以德军本身为目标；NATO 启动本年度最后一轮 Neptune Strike 航母打击演练；欧洲多国酝酿把反无人机权限下放给关键基础设施运营商。印太方面，台海军机架次回落到“未侦获”，同时有约 24 艘琼三沙渔大型民兵船轮换开赴南沙/黄岩，澳印尼演训首次在海外发射海马斯。产业侧则有“幽灵鲨”首次公开水面放飞 ALTIUS、超级大黄蜂同机挂 AIM-174B 与 AIM-260、美空军报告 2035 年需 1,509 架作战战斗机，以及 DIU 无人机竞赛二期最大初始订单各 8,000 架。",
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "据德国公营媒体 WDR 与《南德意志报》报道，联邦国防军内部密评把俄方破坏威胁升至次高档（“substantial”），并警告德军本土设施本身可能成为目标。此前安保重点多在乌军培训点、海军基地与船厂；新评估称已无法把脆弱点地理上圈定，安全形势全面恶化，短期内可能出现具体行动。9月温斯托夫空军基地附近发现疑似坠毁无人机，数米外有装炸药的罐子；联邦刑侦局技术分析称该机可能已在附近搁置约两年，构造类似 8月初莱比锡/哈雷机场那次未遂袭击所用无人机。军方区分两案：莱比锡针对乌军运输机、对德军是间接威胁，温斯托夫则很可能以联邦国防军为目标。评估还称俄用无人机造成物理伤害或致死效果，已跨过原先预期的“红线”。",
+          "links": [
+            {
+              "name": "Defense News（引 WDR/SZ）",
+              "url": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/"
+            }
+          ],
+          "tierText": "二档（德媒引密评 + 军方发言人确认风险档）",
+          "location": {
+            "name": "德国",
+            "lat": 52.52,
+            "lon": 13.4
+          },
+          "domain": "land"
+        },
+        {
+          "text": "NATO 于周五启动本年度第四次也是最后一次强化戒备行动 Neptune Strike 26-4，由 STRIKFORNATO 牵头，至 11月5日，覆盖北欧、中欧与南欧三大联合作战区，17 国、逾 20 艘舰与约 40 架飞机、约 50 项协同活动。英航母打击群含“威尔士亲王”号与“无畏”号，在挪威海及高北活动，F-35B 已赴波罗的海与芬兰做模拟对地打击；意航母“加富尔”号在地中海与法空军 MRTT 加油配合远程打击演练；土“安纳托利亚”号无人舰编队在亚得里亚/爱奥尼亚海域活动，并在阿尔巴尼亚沿岸做两栖登陆演示，舰上有 3 架 TB-3 无人机与陆战营。",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/10/21/nato-kicks-off-neptune-strike-across-european-waters"
+            }
+          ],
+          "tierText": "一档（NATO/各国军方发布经专业媒体）",
+          "location": null,
+          "domain": "sea"
+        },
+        {
+          "text": "路透社采访 30 多名高管与官员后称，欧洲越来越多公用事业与关键基础设施运营商希望获准自行反制无人机；法国议会 8月已立法，允许获批的关键设施运营方及承包商在指定设施附近探测、干扰并击落无人机，目标是 2027 年前把扩大后的“生死攸关”敏感站点清单配齐反无人机手段，政府测试点已编目 3 家系统集成商与 17 套反无人机系统。波兰已在能源设施周边设禁飞区并授权指定安保单位摧毁、瘫痪或接管闯入无人机；奥地利 9月宣布类似放权计划；德国仍属警察职能，内政部称正审议如何让运营商与第三方合法参与主动反制。法律不确定（谁下令、附带损害责任）仍慢于技术成熟度。",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones/"
+            }
+          ],
+          "tierText": "二档",
+          "location": null,
+          "domain": "air"
+        },
+        {
+          "text": "ISW 续报：乌军仍受 SpaceX 低轨卫通（星链/星盾）“运动中速度限制”制约，影响对俄活塞与喷气式攻击无人机的拦截与打击。另有分析称，俄方对标星链的“Rassvet（黎明）”网络已在前线上空运行。星盾限速争议见昨日简报。",
+          "links": [
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2112730962148601997"
+            },
+            {
+              "name": "Bendett X",
+              "url": "https://x.com/sambendett/status/2112893122221081045"
+            }
+          ],
+          "tierText": "三档线索，待核原文",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "space"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾“国防部”称，截至 10月22日早上 6 点（UTC+8），侦获解放军军舰 6 艘、公务船 7 艘；本时段未侦获解放军军机，故未提供航迹图。相较前一日 29 架次（越线 23），空中活动显著回落。",
+          "links": [
+            {
+              "name": "MoND X",
+              "url": "https://x.com/MoNDefense/status/2113073031342125445"
+            }
+          ],
+          "tierText": "一档数字，台方官方口径",
+          "location": {
+            "name": "台湾周边",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "SeaLight（经 Andrew Erickson 转发）称南海出现大规模民兵轮换：24 艘大型“琼三沙渔”船离开海南三港西南驶向南沙与黄岩岛方向，同时有 8 艘自黄岩方向驶回海南。AMTI 另报：台湾海巡称在东沙限制水域截获一艘关闭 AIS 的中国海警船，今年已在该岛附近驱离中国船只 15 次；中国海警称 10月21日对菲律宾赴仁爱礁补给任务实施了监视（马尼拉此前指责 9月补给遭阻挠）。",
+          "links": [
+            {
+              "name": "Erickson / SeaLight X",
+              "url": "https://x.com/AndrewSErickson/status/2113048326689935502"
+            },
+            {
+              "name": "AMTI X（东沙）",
+              "url": "https://x.com/AsiaMTI/status/2113035098492633368"
+            },
+            {
+              "name": "AMTI X（仁爱礁）",
+              "url": "https://x.com/AsiaMTI/status/2113019999040208903"
+            }
+          ],
+          "tierText": "二档",
+          "location": {
+            "name": "南海",
+            "lat": 12.0,
+            "lon": 114.0
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "澳印尼双边演训 Keris Woomera（10月12–20日，爪哇东部一带）结束，约 1,000 名澳军参加，澳国防部称其为今年 ADF 最大规模海外训练。官方点名多项“首次”：海马斯首次部署并在海外开火；皇家澳大利亚空军第 4 中队飞机自二战以来首次进入东南亚；澳印尼首次开展网络一体化训练。2月两国刚签共同安全条约；同月澳军还在新加坡参加五国联防 Bersama Lima，并派护卫舰与 P-8A 赴日本 Keen Sword。",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia/"
+            }
+          ],
+          "tierText": "一档/二档（澳国防部公告）",
+          "location": {
+            "name": "爪哇东部",
+            "lat": -7.6,
+            "lon": 112.7
+          },
+          "domain": "land"
+        },
+        {
+          "text": "Anduril 新视频首次展示“幽灵鲨”XL-AUV 水面放飞空中无人机：艇体顶部舱门打开后升起 12 管倾斜发射架（另一侧同型发射架未升起），从水面发射一架 ALTIUS 类无人机；画面还出现此前未见的两根可收放桅杆。按此构型单次出航可携约 24 架空中效应器；澳方此前已公布布雷（最多 12 枚）、海床补给舱与空中效应三类载荷。同日 Ocius 称两艘柴油混动型 Bluebottle Hybrid 首次参加美军主导的 AUKUS 第二支柱演训 Maritime Big Play Pacific，搭载 ThayerMahan Outpost 声学情报载荷。",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/sea/ghost-shark-uncrewed-submarine-shown-launching-aerial-drones-for-the-first-time"
+            },
+            {
+              "name": "Naval News（Bluebottle）",
+              "url": "https://www.navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific/"
+            }
+          ],
+          "tierText": "一档/二档（厂商视频 + 官方/专业媒体）",
+          "location": {
+            "name": "澳大利亚",
+            "lat": -25.3,
+            "lon": 133.8
+          },
+          "domain": "sea"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "ISW/CTP《伊朗更新》10月21日称：过去约两周伊朗可能使用了更精确的系统攻击霍尔木兹海峡商船，与其 10月5日“伊朗正提升对水道航运打击能力”的判断一致；反复命中机舱需要足够精度，暗示可能在用带红外末制导的无人机或巡航导弹等反舰手段。报道援引彭博等称伊朗加大对商船机舱的打击。ISW 网站因 PHP 漏洞修补仍离线，更新主要经 X/邮件发出。",
+          "links": [
+            {
+              "name": "ISW X / Iran Update",
+              "url": "https://x.com/TheStudyofWar/status/2113078992446120412"
+            }
+          ],
+          "tierText": "二档，ISW 有政策立场；网站离线",
+          "location": {
+            "name": "霍尔木兹海峡",
+            "lat": 26.57,
+            "lon": 56.25
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "ISW《朝鲜半岛更新》称：朝鲜很可能已提升其核三位一体海基腿的作战有效性；若再把核能力武器部署到常规潜艇舰队，升级风险会上升。朝方称 10月14日从改装罗密欧级导弹潜艇“英雄金君玉”号试射两枚潜射巡航导弹，官媒称其为“战略”型（即核能力）；该艇 2023年9月下水，有 10 个垂直发射筒，此次是朝方首次公开宣布该艇发射 SLCM，也是 2024年1月以来首次 SLCM 试验。",
+          "links": [
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2113005715019202857"
+            }
+          ],
+          "tierText": "二档，ISW 有政策立场，依据朝方官媒与公开试射",
+          "location": {
+            "name": "朝鲜",
+            "lat": 39.04,
+            "lon": 125.76
+          },
+          "domain": "missile"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "美海军 VX-31 一架 F/A-18F 超级大黄蜂 10月14日在加州里奇克雷斯特上空被拍到同时挂载 AIM-174B 与 AIM-260（JATM），并带中线 IRST21 红外搜索跟踪吊舱——公开记录中两者首次同机出现（挂载为带蓝带的惰性弹）。AIM-174B 源自标准-6 族、侧重超远程打加油机/预警机等高价值空中目标，部分已抵前沿驻日中队；AIM-260 旨在以相近外形提供远超 AIM-120 的超视距能力，并可内埋于 F-22/F-35。TWZ 称后续还将加入据报射程逾 250 海里的两级 AIM-424 Malice。",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/air/navy-f-a-18-super-hornet-spotted-carrying-new-aim-174b-and-aim-260-long-range-missiles-together"
+            },
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/10/aim-174b-aim-260a-super-hornet/"
+            }
+          ],
+          "tierText": "二档（公开照片 + 专业媒体）",
+          "location": {
+            "name": "加州里奇克雷斯特",
+            "offMap": "us"
+          },
+          "domain": "air"
+        },
+        {
+          "text": "美空军 10月16日提交国会的兵力结构报告称，2035 年需要 1,509 架作战编制战斗机：F-35 约占 40%（现约 30%），F-22 及其后继 F-47 合计约 20%（一对一替换），F-15 与 F-16 平分其余约 40%；不含 A-10，也不计入协同作战飞机（CCA，计划 2032 年前 500 架）。副参谋长（计划与项目）Tabor 称数字按战区司令“中等风险”需求测算，会随事态与技术调整；达标取决于国会拨款与洛马、波音产能。2027 财年申请 38 架 F-35 + 24 架 F-15EX（共 62，低于长期宣称的年购 72）；新造 F-16（暂称 F-16G）“并非紧急优先”。",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/"
+            }
+          ],
+          "tierText": "一档/二档（军方官员吹风）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "air"
+        },
+        {
+          "text": "美陆军第 8 战区保障司令部司令在 AUSA 称，太平洋方向要给现有两栖/登陆与保障船队加装自主能力，并采购最多约 100 艘专用无人水面艇；8月已用 Sea Machines SM300 在 9 天内把商业船 HOS Resolution 改成可自主航行做试验。其前任 6月曾提出大型 USV 可载 8–10 个标准集装箱、前沿部署于韩日菲澳新等港口做持续投送。陆军还在演训中试用乌克兰 Magura 系列（含放飞四旋翼）与美制 Saronic Corsair、Havoc Rampage 等。",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific"
+            }
+          ],
+          "tierText": "二档（将官公开讲话经专业媒体）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "美国国防创新单元（DIU）称无人机主导计划 Gauntlet II 订单推进中：Perennial Autonomy 获 Deep Strike 任务最高奖，Neros 获 CQB 最高奖，两者最大初始订单各 8,000 架。陆战队宣布自 10月1日起 Maven Smart System（政府所有、Palantir 开发）企业许可覆盖全军含预备役、可在适用网络上开户；此前仅限特定单位且主要走 SIPR。五角大楼称 Epic Fury 开打前 96 小时内曾用 Maven 识别并打击逾 2,000 个伊朗目标，系统日处理约 600 万页文本。另：以色列 Elbit 收购温哥华 International Submarine Engineering（ISE，称已向 20 多国交付逾 250 艘水下航行器），金额“对 Elbit 不重大”，意在把 AUV 并入其海鸥 USV 等跨域无人体系。",
+          "links": [
+            {
+              "name": "Bendett / DIU X",
+              "url": "https://x.com/sambendett/status/2112902914578522229"
+            },
+            {
+              "name": "Defense News（Maven）",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/10/21/marine-corps-makes-maven-available-service-wide/"
+            },
+            {
+              "name": "Breaking Defense（Elbit）",
+              "url": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems/"
+            }
+          ],
+          "tierText": "二档（公司稿）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "industry"
+        },
+        {
+          "text": "War on the Rocks《战争齿轮》专栏称，小无人机从特种装备变成大规模消耗武器后，电池应像燃油与弹药一样被当作作战续航瓶颈。Benchmark Mineral Intelligence 估 2025 年防务电池应用约 4.3 GWh，无人机占防务电池需求 39%；DoD 无人机主导计划拟从 2026 年数万架廉价单向攻击机迈向 2027 年逾 20 万架，并优先去中国供应链。文章建议三管齐下：按任务建立可轮换的战略电池储备、扶植美欧盟国电芯与材料产能、用新化学体系（锂硫等）降低对单一供应链敞口；并提醒 2024 财年 NDAA 第 154 条自 2027年10月1日起禁止采购 CATL、比亚迪等中国厂商电池。",
+          "links": [
+            {
+              "name": "War on the Rocks",
+              "url": "https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/"
+            }
+          ],
+          "tierText": "二档（智库分析）",
+          "location": null,
+          "domain": "industry"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "反无人机从军警专属走向“设施自保”：法国已立法、波兰已授权、德奥在审议。获认证的干扰/拦截系统、传感融合与责任险/合规软件，可能形成面向公用事业与交通枢纽的民用 C-UAS 市场（这是推断）。",
+    "水下平台的价值继续向“载荷 + 跨域发射”倾斜：幽灵鲨视频确认 12×2 管 ALTIUS 构型与通信桅杆；Elbit 买 ISE 明确要 UAV–USV–AUV 一体。模块化发射架、潜射/艇射巡飞弹与声学载荷（Outpost 类）比艇壳本身更易形成重复订单（这是推断）。",
+    "空战弹药与有人机数量同步加码：AIM-174B/260 同机、空军要 1,509 架作战机、CCA 另计 500。远程空空弹、IRST 吊舱与 F-35/F-15EX 多年度采购的可见度在上升；新造 F-16 则被官方标成非紧急（这是推断）。",
+    "低成本无人机制造进入“万架级”初始订单：Gauntlet II 头部两家各至多 8,000 架，叠加 WOTR 对电池储备与去中国电芯的政策压力，电芯、电管、充电与非中供应链电芯厂商的战略溢价可能上升（这是推断）。",
+    "陆军“自己的海军”要自主化并买最多约 100 艘 USV，与海军中型 USV 订单、澳 AUKUS 无人演训同向。物流型大 USV、自主改装套件（Sea Machines 类）和港到岛岸投送，可能是太平洋保障短板的商业切口（这是推断）。"
+  ]
+}

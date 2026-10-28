@@ -1,0 +1,368 @@
+{
+  "date": "2026-10-23",
+  "coverage": "约 10月22日上午至 10月23日上午（UTC+8）",
+  "summary": "特朗普致电马斯克后乌军“星盾”限速部分解除但仍不稳定；北约采购局向乌克兰开放；丹麦首次采购远程打击导弹。印太方面，卫星图显示空警-3000（空警-20）可能已进入批产，中国海警在黄岩岛的存在今年再翻倍。中东方面，霍尔木兹海峡 10 月商船遇袭数创开战以来新高。产业侧则有 F-35 十年 850 架框架协议、太空军地月空间 RFI、MDA 给 Long Wall 低成本中段拦截弹 7,500 万美元，以及 DIU 120 天反无人机武装无人艇冲刺。",
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "据《华尔街日报》报道，特朗普致电马斯克，要求解除 SpaceX 对乌军军用版星链（星盾）的限速，通话后周四系统运行“更接近正常”。Kofman 随后称情况“明显改善但高速下仍不稳定”，当晚又说时速 160 公里以上的单位仍会掉线、改善“不一致且不稳定”；Massicot 发长帖解释限速如何影响乌军无人机拦截与打击。",
+          "sourceNote": "Michael Kofman （X，转引 WSJ）",
+          "links": [
+            {
+              "name": "Kofman 帖",
+              "url": "https://x.com/KofmanMichael/status/2113406908606345323"
+            },
+            {
+              "name": "Massicot 帖",
+              "url": "https://x.com/MassDara/status/2113378683109200292"
+            }
+          ],
+          "tierText": "二档专业解读（WSJ 报道为事实层；“仍不稳定”为分析人士转述一线消息，未独立证实）",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "space"
+        },
+        {
+          "text": "英国《金融时报》报道，北约支援与采购局（NSPA）将允许乌克兰通过其集中采购渠道购买武器、弹药和装备，可能更快更便宜。NSPA 官员 Jacqueline Borsboom 公开确认这会给乌方“更结构化的框架”。背景是美乌关系因美俄柴油出口协议恶化。",
+          "sourceNote": "Defense News （援引 FT）",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "卢森堡",
+            "lat": 49.61,
+            "lon": 6.13
+          },
+          "domain": "diplomacy"
+        },
+        {
+          "text": "丹麦宣布采购两型远程精确打击导弹：F-35 挂载的康斯伯格 JSM 空射导弹，以及美国初创公司 Covenant 的 Anthem 陆射巡航导弹，用于遭攻击后的反击能力；数量、交付时间和价格未公布。丹麦须在 2030 年前向北约提供远程打击能力。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "丹麦",
+            "lat": 55.68,
+            "lon": 12.57
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "英国下院国防委员会“高北防务”报告称皇家海军存在“严重反潜缺口”：现役可执行反潜任务的 23 型护卫舰只有 5 艘，而需求是 8 艘，带拖曳声呐的护卫舰数量未来三年可能都停在 5 艘。委员会建议 23 型在 26 型一对一接替前不再退役，并质疑英国能否在 2030 年前持续承担高北任务。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds/"
+            }
+          ],
+          "tierText": "一档事实（议会官方报告）",
+          "location": {
+            "name": "英国",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "domain": "sea"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "Vantor 10月4–5日卫星图显示，西飞阎良厂区同时出现 4 架空警-3000（又称空警-20，基于运-20B）：3 架在西飞、1 架在中国飞行试验研究院。米切尔研究所 Dahm 判断已进入批产；Rupprecht 起初更谨慎（可能只是 4 架原型机同场），随后在 X 上表示认同批产判断，并指出图中另有 23 架未交付的运-20B。",
+          "sourceNote": "TWZ; Andreas Rupprecht （X）",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/air/four-kj-3000-radar-jets-at-chinese-factory-point-to-serial-production"
+            },
+            {
+              "name": "Rupprecht 帖",
+              "url": "https://x.com/RupprechtDeino/status/2113272791978119627"
+            }
+          ],
+          "tierText": "一档事实（卫星图）+ 二档专业解读（批产判断）",
+          "location": {
+            "name": "西安阎良",
+            "lat": 34.66,
+            "lon": 109.23
+          },
+          "domain": "air"
+        },
+        {
+          "text": "AMTI 船舶追踪数据显示，中国海警在黄岩岛的存在 2026 年再度翻倍，达历史最高，并导致与菲律宾执法船的危险对峙。另外，中国海警称其“许可并监管”了菲方 10月21日对仁爱礁“马德雷山”号的补给；现有报道未显示新的碰撞或拦阻。",
+          "sourceNote": "CSIS AMTI （X）; Thomas Shugart 每日更新 （援引 Reuters）",
+          "links": [
+            {
+              "name": "AMTI 黄岩岛",
+              "url": "https://x.com/AsiaMTI/status/2113374845321007135"
+            },
+            {
+              "name": "AMTI 仁爱礁",
+              "url": "https://x.com/AsiaMTI/status/2113442786598863081"
+            }
+          ],
+          "tierText": "一档事实（AMTI 追踪数据）；“许可监管”为中方说法，三档有立场",
+          "location": {
+            "name": "黄岩岛",
+            "lat": 15.15,
+            "lon": 117.76
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "台湾国防部：截至 10月23日 6 时，台湾周边侦获共军舰 3 艘、公务船 7 艘，未侦获共机。日本统合幕僚监部：10月22日一架俄罗斯伊尔-20 情报收集机从大陆方向飞入日本海，至岛根县近海后折返，空自北部航空方面队等紧急起飞。",
+          "sourceNote": "Taiwan MND （X）; Japan Joint Staff 新闻稿 PDF",
+          "links": [
+            {
+              "name": "台湾国防部",
+              "url": "https://x.com/MoNDefense/status/2113435244653408694"
+            },
+            {
+              "name": "统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261022_01.pdf"
+            }
+          ],
+          "tierText": "一档事实（官方数据；台湾国防部为一方官方口径）",
+          "location": {
+            "name": "台湾周边",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "domain": "sea"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "据国际海事组织数据，10 月迄今霍尔木兹海峡已有 27 起商船遇袭，为 2 月底美伊开战以来单月最高（3 月为 22 起）。劳氏日报数据显示 10月5–11日仍有 104 艘非伊朗关联船只通过（前一周 126 艘），仍比 8 月周均高 31%；当周 12 起袭击中 6 起发生在 10月11日。华盛顿近东政策研究所 Raydan 认为伊朗不针对特定船只，而是以少量打击维持高风险，并在为未来冲突保存实力。",
+          "sourceNote": "USNI News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://news.usni.org/2026/10/22/october-marks-highest-number-of-strait-of-hormuz-attacks"
+            }
+          ],
+          "tierText": "一档事实（IMO/劳氏数据）+ 二档解读",
+          "location": {
+            "name": "霍尔木兹海峡",
+            "lat": 26.57,
+            "lon": 56.25
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "Planet Labs 9 月下旬高分辨率卫星图显示，伊朗山体内的“鹰-44”地下空军基地今年至少挨了三轮空袭，但仍在重建：新完工一段滑行道，残骸已清理，跑道上的阻塞物被移除，部分支援建筑仍受损。而五角大楼称伊朗空军已所剩无几。",
+          "sourceNote": "TWZ",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war"
+            }
+          ],
+          "tierText": "一档事实（商业卫星图）+ 二档解读",
+          "location": {
+            "name": "伊朗",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "domain": "air"
+        },
+        {
+          "text": "红海/也门方向：ISW 称胡塞武装 10月22日几乎肯定夺取了连接塔伊兹城郊与塔伊兹省中部战线的一段主要公路；ACLED 数据显示本月胡塞打击与未遂打击单周增加一倍以上，美国已下令非紧急人员撤离沙特。O'Brien 评论称美以正在为恢复对伊朗大规模轰炸造势，美方另派一艘航母前往印度洋。",
+          "sourceNote": "ISW （X）; ACLED （X）; Phillips O'Brien （Substack）",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2113406086866731124"
+            },
+            {
+              "name": "ACLED",
+              "url": "https://x.com/ACLEDINFO/status/2113239179777995121"
+            },
+            {
+              "name": "O'Brien",
+              "url": "https://phillipspobrien.substack.com/p/midweek-update32-us-and-israeli-bombing"
+            }
+          ],
+          "tierText": "ACLED 一档事实；ISW 二档（有政策立场）；O'Brien 三档有立场（评论/定调）",
+          "location": {
+            "name": "塔伊兹",
+            "lat": 13.58,
+            "lon": 44.02
+          },
+          "domain": "land"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "五角大楼与洛马达成 10 年 F-35 生产与保障框架，至少 850 架给美军，含外国订单，年产维持 156 架；洛马自筹至少 70 亿美元投入扩产与供应链。框架尚非正式合同，仍需国会多年度采购授权、拨款，以及价格和交付条款谈判；总价未公布。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "industry"
+        },
+        {
+          "text": "太空军先进项目采办主官 Purdy 少将称，地月空间已被国防部长和参联会主席公开定为“作战域”，太空军近期将发布两份 RFI，征集可商购的地月任务技术和让航天器在地月间自主运行的 AI 软件，要求 2029 财年底前可部署。他点名中国此前向地月拉格朗日点附近大椭圆轨道和环月轨道发射 30 颗立方星。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon/"
+            }
+          ],
+          "tierText": "一档事实（官方表态）",
+          "location": null,
+          "domain": "space"
+        },
+        {
+          "text": "导弹防御局（MDA）授予 Long Wall（前 ABL Space Systems）7,500 万美元，完成其自筹研制的 Cyclops 低成本中段拦截弹测试；该弹为液体燃料、可装集装箱陆基或舰载发射，大量使用商用货架件和 3D 打印。合同期内公司还将再自掏 7,500 万美元。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing/"
+            }
+          ],
+          "tierText": "一档事实（公司公告）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "五角大楼与 DIU 10月19日启动 120 天冲刺，采购可投入实战的反空/反水面武装无人水面艇，集成地狱火、JAGM、APKWS、毒刺等现有导弹，在 3 海里以外打击 1–3 类无人机、直升机和快艇，并希望能打更大的 5 类飞机。DIU 称低成本威胁让交换比“严重偏向对手”。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs/"
+            }
+          ],
+          "tierText": "一档事实（官方招标）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "Zone 5 首次公开陆射版 Block 40“锈匕首”（Rusty Dagger）低成本巡航导弹照片；该弹最初为空射并出口乌克兰，现已入选美陆军和海军各自项目。陆军主导的低成本集装箱导弹（LCCM）项目计划自 2027 年起三年采购逾 1 万枚低成本巡航导弹，Zone 5、Anduril、CoAspire、Leidos 已获框架协议。",
+          "sourceNote": "TWZ",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.twz.com/sea/ground-launched-rusty-dagger-low-cost-cruise-missile-seen-for-the-first-time"
+            }
+          ],
+          "tierText": "一档事实（公司提供照片与项目信息）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "missile"
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "items": [
+        {
+          "text": "美战略司令部年度核演习“全球雷霆”已开始，紧接北约“坚定正午”战术核演习结束（Kristensen）。",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://x.com/nukestrat/status/2113378197119045703"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "美陆军发布寻源公告，寻找 155 毫米榴弹炮身管新制造商：36 个月内月产最多 10 根，首批 40 根报价，11月23日截止；目前大口径身管只在老旧的沃特弗利特兵工厂生产。",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "沃特弗利特",
+            "offMap": "us"
+          },
+          "domain": "industry"
+        },
+        {
+          "text": "ACLED：朝鲜巡逻队本月多次越过军事分界线南侧，边境工事施工持续，冲突升级风险上升。",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://x.com/ACLEDINFO/status/2113314443232739465"
+            }
+          ],
+          "tierText": "二档专业解读",
+          "location": {
+            "name": "朝韩军事分界线",
+            "lat": 38.0,
+            "lon": 127.0
+          },
+          "domain": "land"
+        },
+        {
+          "text": "线索：Alex Luck 转发论坛图片，称 910 型试验舰搭载新型大口径舰炮（推测 155 毫米），至少两艘 910 型（955/956）见过。",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://x.com/AlexLuck9/status/2113417886333390939"
+            }
+          ],
+          "tierText": "四档仅线索",
+          "location": null,
+          "domain": "sea"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "低成本“量产型”弹药与拦截弹正在拿到真金白银：LCCM 三年逾 1 万枚巡航导弹、MDA 给 Long Wall 的集装箱式中段拦截弹、DIU 120 天武装无人艇冲刺。受益环节是小型涡喷/液体发动机、集装箱发射装置、商用级导引头和快速总装能力。",
+    "F-35 十年 156 架/年的框架加上洛马自筹 70 亿美元，提升了二三级供应商（结构件、电子、发动机部件）的订单可见度，但正式落地仍取决于国会授权。",
+    "欧洲远程打击需求外溢到初创公司：丹麦选了 Covenant 的 Anthem，说明欧洲买家愿意采购美国新兴厂商的陆射巡航导弹，而不只是传统巨头。",
+    "星盾限速风波说明单一商业卫星通信供应商的政治风险；乌克兰与欧洲对替代或主权卫星通信、抗干扰终端的需求可能更急迫。地月空间 RFI 则为小型航天器和自主运行软件打开新的国防采购口子。",
+    "155 毫米身管只有一个工厂、空警-3000 疑似批产加上 23 架未交付运-20B，都说明中美在大型平台和基础军工产能上的差距与补短板方向。"
+  ]
+}

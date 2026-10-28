@@ -1,0 +1,151 @@
+{
+  "title": "防务早知道",
+  "subtitle": "军事 / 防务每日简报",
+  "description": "每天一份军事与防务简报：俄乌、印太、中东、太空与国防产业。每条注明来源和可信度。",
+  "baseUrl": "https://dibao.news/",
+  "disclaimer": "内容整理自公开来源，仅供参考，不构成投资建议。",
+  "tiers": {
+    "1": {
+      "name": "一档",
+      "short": "官方 / 一手事实",
+      "long": "政府、军方、议会和企业的正式发布，合同与招标文件，可以直接核对的数据或卫星图像。"
+    },
+    "2": {
+      "name": "二档",
+      "short": "有来源的专业解读",
+      "long": "专业媒体和智库基于明确信源的报道与分析。"
+    },
+    "3": {
+      "name": "三档",
+      "short": "有立场的评论",
+      "long": "带有明显立场或来自利益相关方的说法，需要对照其他来源阅读。"
+    },
+    "4": {
+      "name": "四档",
+      "short": "仅线索、未证实",
+      "long": "社交媒体图片、匿名爆料等未经核实的信息，只作为值得关注的线索。"
+    }
+  },
+  "theaters": [
+    {
+      "title": "俄乌 / 欧洲",
+      "id": "europe",
+      "code": "EUROPE",
+      "short": "俄乌 / 欧洲"
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "id": "indo-pacific",
+      "code": "INDO-PACIFIC",
+      "short": "印太 / 台海"
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "id": "middle-east",
+      "code": "MIDDLE EAST",
+      "short": "中东 / 导弹 / 核"
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "id": "space-industry",
+      "code": "SPACE · UAS · INDUSTRY",
+      "short": "太空 / 产业"
+    },
+    {
+      "title": "其他",
+      "id": "other",
+      "code": "OTHER",
+      "short": "其他"
+    }
+  ],
+  "domains": [
+    {
+      "id": "sea",
+      "label": "海上",
+      "char": "海"
+    },
+    {
+      "id": "air",
+      "label": "空中",
+      "char": "空"
+    },
+    {
+      "id": "land",
+      "label": "陆地",
+      "char": "陆"
+    },
+    {
+      "id": "space",
+      "label": "太空",
+      "char": "天"
+    },
+    {
+      "id": "missile",
+      "label": "导弹与核",
+      "char": "弹"
+    },
+    {
+      "id": "industry",
+      "label": "产业",
+      "char": "产"
+    },
+    {
+      "id": "diplomacy",
+      "label": "外交",
+      "char": "交"
+    }
+  ],
+  "clocks": [
+    {
+      "city": "华盛顿",
+      "tz": "America/New_York"
+    },
+    {
+      "city": "布鲁塞尔",
+      "tz": "Europe/Brussels"
+    },
+    {
+      "city": "基辅",
+      "tz": "Europe/Kyiv"
+    },
+    {
+      "city": "德黑兰",
+      "tz": "Asia/Tehran"
+    },
+    {
+      "city": "北京",
+      "tz": "Asia/Shanghai"
+    },
+    {
+      "city": "台北",
+      "tz": "Asia/Taipei"
+    }
+  ],
+  "offMap": {
+    "us": "美国本土"
+  },
+  "map": {
+    "projection": "geoNaturalEarth1",
+    "width": 900,
+    "height": 640,
+    "fitPoints": [
+      [
+        -15,
+        -38
+      ],
+      [
+        155,
+        70
+      ],
+      [
+        -15,
+        70
+      ],
+      [
+        155,
+        -38
+      ]
+    ],
+    "basemap": "assets/map-h.svg"
+  }
+}

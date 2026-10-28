@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "sourceUrl": "http://127.0.0.1:4173/defense-brief/",
+  "lighthouseVersion": "13.6.0",
+  "browser": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+  "formFactor": "mobile",
+  "screenEmulation": {
+    "mobile": true,
+    "width": 412,
+    "height": 823,
+    "deviceScaleFactor": 1.75,
+    "disabled": false
+  },
+  "throttling": {
+    "rttMs": 150,
+    "throughputKbps": 1638.4,
+    "requestLatencyMs": 562.5,
+    "downloadThroughputKbps": 1474.5600000000002,
+    "uploadThroughputKbps": 675,
+    "cpuSlowdownMultiplier": 4
+  },
+  "scores": {
+    "performance": 100,
+    "accessibility": 96,
+    "seo": 100
+  },
+  "metrics": {
+    "LCPms": 1222,
+    "FCPms": 1222,
+    "TBTms": 0,
+    "CLS": 0.0037340990747967533
+  },
+  "browserChecks": {
+    "passed": 68,
+    "total": 68,
+    "errors": []
+  },
+  "sizes": {
+    "index.html": {
+      "raw": 55210,
+      "gzip": 11460
+    },
+    "assets/site.css": {
+      "raw": 36526,
+      "gzip": 7261
+    },
+    "assets/app.js": {
+      "raw": 14963,
+      "gzip": 4458
+    },
+    "assets/map-h.svg": {
+      "raw": 62918,
+      "gzip": 24399
+    }
+  },
+  "remaining": [
+    "严格 CLS=0 未达到：Google Fonts display=swap 冷加载时字形微位移。",
+    "Lighthouse target-size 提示欧洲密集标记触区重叠；9 个标记真实触摸均通过，并有完整地图列表作为替代入口。"
+  ],
+  "buildRuntime": "v20.20.2"
+}

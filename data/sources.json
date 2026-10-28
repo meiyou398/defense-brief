@@ -1,0 +1,1168 @@
+{
+  "updatedAt": "2026-10-28",
+  "intro": "本页列出防务早知道日常跟踪的公开信源。每条新闻在正文里按以下四档标注可信度；同一信源在不同条目中可能因内容性质（官方公告 vs. 评论）而分档不同，下表为默认档位。",
+  "tiers": [
+    {
+      "tier": 1,
+      "label": "事实",
+      "description": "官方通报、一手数据、卫星图像、开源情报团队的核实结果（如 Oryx 损失清单、日本统合幕僚监部通报）。"
+    },
+    {
+      "tier": 2,
+      "label": "专业解读",
+      "description": "有来源支撑的专业媒体报道和智库研究员分析；机构若有明确政策立场会单独注明。"
+    },
+    {
+      "tier": 3,
+      "label": "有立场",
+      "description": "观点鲜明的评论与叙事框架（如 Freedman、O'Brien），以及官方宣传口径，只用来看态度，不作事实依据。"
+    },
+    {
+      "tier": 4,
+      "label": "仅线索",
+      "description": "未经证实的快讯聚合账号，只用来发现线索，必须找到一档/二档来源才会写进简报。"
+    }
+  ],
+  "rules": [
+    "分层使用：事实看 Oryx、卫星图像、开源情报团队和官方数据；解读看智库研究员；叙事框架看 Freedman、O'Brien 等评论者。",
+    "标注偏向：ISW 有明确政策立场；各国军方/政府账号均为该国官方口径（台湾国防部、INDSR 为台方；美军为美方；交战方战果为各自声称）；中国军号、外交部为官方宣传/表态；Rybar 为俄方立场，DeepStateMap 为乌方背景。",
+    "不收录无署名、无出处的“战报”类账号。",
+    "关注硬科技：无人机、卫星与太空/反太空、先进制造、造船和军工采购条目会重点标出投资相关性。"
+  ],
+  "groups": [
+    {
+      "id": "g0",
+      "title": "官方通报·美国",
+      "sources": [
+        {
+          "name": "美国国防部（战争部）新闻稿 RSS",
+          "url": "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=10",
+          "tier": 1,
+          "lang": "英文",
+          "description": "官方新闻稿、政策与人事公告；网页从采集端 403，改用 RSS",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国国防部 每日合同公告",
+          "url": "https://www.defense.gov/News/Contracts/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "每日公布 750 万美元以上合同授予；采集用 RSS（ContentType=400&Site=945）",
+          "note": "偏向/备注：军工采购硬数据"
+        },
+        {
+          "name": "美国战争部 @DeptofWar",
+          "url": "https://x.com/DeptofWar",
+          "tier": 1,
+          "lang": "英文",
+          "description": "国防部官方 X 账号",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国空军 新闻 RSS / @usairforce",
+          "url": "https://www.af.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1",
+          "tier": 1,
+          "lang": "英文",
+          "description": "空军官方新闻；X：@usairforce",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国太空军 新闻 RSS / @USSpaceForce",
+          "url": "https://www.spaceforce.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1060",
+          "tier": 1,
+          "lang": "英文",
+          "description": "太空军官方新闻；X：@USSpaceForce",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国海军 @USNavy",
+          "url": "https://x.com/USNavy",
+          "tier": 1,
+          "lang": "英文",
+          "description": "海军官方账号；navy.mil 从采集端 403",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国陆军 @USArmy",
+          "url": "https://x.com/USArmy",
+          "tier": 1,
+          "lang": "英文",
+          "description": "陆军官方账号；army.mil 从采集端 403",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国太平洋舰队 @USPacificFleet",
+          "url": "https://x.com/USPacificFleet",
+          "tier": 1,
+          "lang": "英文",
+          "description": "太平洋舰队官方账号",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国第七舰队 @US7thFleet",
+          "url": "https://x.com/US7thFleet",
+          "tier": 1,
+          "lang": "英文",
+          "description": "第七舰队官方账号，含台海、南海过航通报",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国中央司令部 @CENTCOM",
+          "url": "https://x.com/CENTCOM",
+          "tier": 1,
+          "lang": "英文",
+          "description": "中东战区官方通报（其 RSS 停更，用 X）",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国欧洲司令部 @US_EUCOM",
+          "url": "https://x.com/US_EUCOM",
+          "tier": 1,
+          "lang": "英文",
+          "description": "欧洲战区官方账号",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国国防情报局 @DefenseIntel",
+          "url": "https://x.com/DefenseIntel",
+          "tier": 1,
+          "lang": "英文",
+          "description": "DIA 官方账号",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国国防安全合作署 DSCA 军售公告 RSS",
+          "url": "https://www.dsca.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1509",
+          "tier": 1,
+          "lang": "英文",
+          "description": "对外军售（FMS）国会通知",
+          "note": "偏向/备注：军售硬数据"
+        },
+        {
+          "name": "DVIDS 美军影像与新闻",
+          "url": "https://www.dvidshub.net/rss/news",
+          "tier": 1,
+          "lang": "英文",
+          "description": "美军官方图片、视频与新闻稿汇总",
+          "note": "偏向/备注：美方官方口径"
+        },
+        {
+          "name": "美国政府问责局 GAO 报告 RSS / @USGAO",
+          "url": "https://www.gao.gov/rss/reports.xml",
+          "tier": 1,
+          "lang": "英文",
+          "description": "国会审计报告，含武器项目成本与进度",
+          "note": "偏向/备注：官方审计数据"
+        },
+        {
+          "name": "CRS 国会研究处报告（EveryCRSReport 镜像）",
+          "url": "https://www.everycrsreport.com/rss.xml",
+          "tier": 2,
+          "lang": "英文",
+          "description": "国会研究报告；官方站 crsreports.congress.gov 从采集端 403",
+          "note": "偏向/备注：所引数据可作一档"
+        },
+        {
+          "name": "O'Rourke：海军兵力结构与造船计划 RL32665",
+          "url": "https://www.everycrsreport.com/reports/RL32665.html",
+          "tier": 2,
+          "lang": "英文",
+          "description": "Ronald O'Rourke 长期更新的美海军造船系列报告",
+          "note": "偏向/备注：数据部分可作一档"
+        },
+        {
+          "name": "O'Rourke：中国海军现代化 RL33153",
+          "url": "https://www.everycrsreport.com/reports/RL33153.html",
+          "tier": 2,
+          "lang": "英文",
+          "description": "Ronald O'Rourke 长期更新的中国海军现代化报告",
+          "note": "偏向/备注：数据部分可作一档"
+        },
+        {
+          "name": "美国防部 中国军力报告 2025",
+          "url": "https://media.defense.gov/2025/Dec/23/2003849070/-1/-1/1/ANNUAL-REPORT-TO-CONGRESS-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2025.PDF",
+          "tier": 2,
+          "lang": "英文",
+          "description": "年度《涉华军事与安全发展报告》，2025 年 12 月 23 日发布",
+          "note": "偏向/备注：美方官方口径"
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "title": "官方通报·欧洲、北约与俄乌",
+      "sources": [
+        {
+          "name": "北约新闻中心 / @NATO",
+          "url": "https://www.nato.int/cps/en/natohq/news.htm",
+          "tier": 1,
+          "lang": "英文",
+          "description": "北约官方新闻与声明；X：@NATO",
+          "note": "偏向/备注：北约官方口径"
+        },
+        {
+          "name": "北约盟军最高司令部 @SHAPE_NATO",
+          "url": "https://x.com/SHAPE_NATO",
+          "tier": 1,
+          "lang": "英文",
+          "description": "SHAPE 官方账号",
+          "note": "偏向/备注：北约官方口径"
+        },
+        {
+          "name": "北约海上司令部 @NATO_MARCOM",
+          "url": "https://x.com/NATO_MARCOM",
+          "tier": 1,
+          "lang": "英文",
+          "description": "北约海上行动通报",
+          "note": "偏向/备注：北约官方口径"
+        },
+        {
+          "name": "英国国防部 新闻 Atom / @DefenceHQ",
+          "url": "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
+          "tier": 1,
+          "lang": "英文",
+          "description": "英国防部官方公告；X：@DefenceHQ",
+          "note": "偏向/备注：英方官方口径"
+        },
+        {
+          "name": "欧洲防务局 EDA / @EUDefenceAgency",
+          "url": "https://eda.europa.eu/news-and-events/news",
+          "tier": 1,
+          "lang": "英文",
+          "description": "欧盟防务能力与采购项目新闻",
+          "note": "偏向/备注：欧盟官方口径"
+        },
+        {
+          "name": "法国军队部 新闻",
+          "url": "https://www.defense.gouv.fr/actualites",
+          "tier": 1,
+          "lang": "法文",
+          "description": "法国国防部官方新闻",
+          "note": "偏向/备注：法方官方口径"
+        },
+        {
+          "name": "德国联邦国防军 新闻",
+          "url": "https://www.bundeswehr.de/de/aktuelles",
+          "tier": 1,
+          "lang": "德文",
+          "description": "德国联邦国防军官方新闻",
+          "note": "偏向/备注：德方官方口径"
+        },
+        {
+          "name": "乌克兰国防部 新闻 / @DefenceU",
+          "url": "https://mod.gov.ua/en/news",
+          "tier": 1,
+          "lang": "英文",
+          "description": "乌国防部官方新闻；X：@DefenceU",
+          "note": "偏向/备注：乌方官方口径"
+        },
+        {
+          "name": "乌克兰武装部队总参谋部 @GeneralStaffUA",
+          "url": "https://x.com/GeneralStaffUA",
+          "tier": 3,
+          "lang": "乌/英文",
+          "description": "每日战况通报；另见 Facebook GeneralStaff.ua",
+          "note": "偏向/备注：乌方官方口径；对俄损失数字属乌方声称"
+        },
+        {
+          "name": "俄罗斯国防部 @mod_russia",
+          "url": "https://x.com/mod_russia",
+          "tier": 3,
+          "lang": "俄文",
+          "description": "俄国防部官方账号；mil.ru 从采集端无法访问",
+          "note": "偏向/备注：俄方官方口径；战果属俄方声称"
+        },
+        {
+          "name": "国际原子能机构 IAEA 要闻 RSS / @iaeaorg",
+          "url": "https://www.iaea.org/feeds/topnews",
+          "tier": 1,
+          "lang": "英文",
+          "description": "含扎波罗热等核设施安全通报",
+          "note": "偏向/备注：国际组织官方"
+        },
+        {
+          "name": "基尔研究所 乌克兰援助追踪",
+          "url": "https://www.ifw-kiel.de/topics/war-against-ukraine/ukraine-support-tracker/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "各国对乌军事、财政援助承诺与交付数据库；X：@kielinstitute",
+          "note": "偏向/备注：数据"
+        },
+        {
+          "name": "Mediazona / BBC 俄语部 俄军阵亡名单",
+          "url": "https://en.zona.media/article/2022/05/20/casualties_eng",
+          "tier": 1,
+          "lang": "英/俄文",
+          "description": "按公开讣告逐一核实的俄军阵亡人员名单；X：@mediazona_en",
+          "note": "偏向/备注：只算核实到的人数，是下限"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "官方通报·亚太与中东",
+      "sources": [
+        {
+          "name": "日本统合幕僚监部 新闻发布",
+          "url": "https://www.mod.go.jp/js/press/index.html",
+          "tier": 1,
+          "lang": "日文",
+          "description": "紧急升空次数、解放军和俄军舰机过航通报，附航迹图。",
+          "note": "偏向/备注：日方官方口径"
+        },
+        {
+          "name": "日本统合幕僚监部 @JapanJointStaff",
+          "url": "https://x.com/JapanJointStaff",
+          "tier": 1,
+          "lang": "日文",
+          "description": "统合幕僚监部官方 X，与网页通报同步。",
+          "note": "偏向/备注：日方官方口径"
+        },
+        {
+          "name": "日本防卫省 @ModJapan_en",
+          "url": "https://x.com/ModJapan_en",
+          "tier": 1,
+          "lang": "英文",
+          "description": "日本防卫省英文账号，政策发布与防卫白皮书。",
+          "note": "偏向/备注：日方官方口径"
+        },
+        {
+          "name": "台湾国防部 @MoNDefense",
+          "url": "https://x.com/MoNDefense",
+          "tier": 1,
+          "lang": "中文/英文",
+          "description": "每日台湾周边共机、共舰架次和公务船数量。",
+          "note": "偏向/备注：台方官方口径，数字为其统计"
+        },
+        {
+          "name": "日本防卫省 新闻发布（日文）",
+          "url": "https://www.mod.go.jp/j/press/news/index.html",
+          "tier": 1,
+          "lang": "日文",
+          "description": "防卫省官方公告",
+          "note": "偏向/备注：日方官方口径"
+        },
+        {
+          "name": "韩国国防部 @ROK_MND",
+          "url": "https://x.com/ROK_MND",
+          "tier": 1,
+          "lang": "韩文",
+          "description": "韩国防部官方账号；mnd.go.kr、韩联参网站从采集端无法访问",
+          "note": "偏向/备注：韩方官方口径"
+        },
+        {
+          "name": "菲律宾武装部队 AFP / @TeamAFP",
+          "url": "https://www.afp.mil.ph/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "菲军官方公告；X：@TeamAFP",
+          "note": "偏向/备注：菲方官方口径"
+        },
+        {
+          "name": "菲律宾海岸警卫队 @coastguardph",
+          "url": "https://x.com/coastguardph",
+          "tier": 1,
+          "lang": "英文",
+          "description": "南海对峙事件通报",
+          "note": "偏向/备注：菲方官方口径"
+        },
+        {
+          "name": "印度国防部 @SpokespersonMoD / PIB 国防新闻",
+          "url": "https://pib.gov.in/Allrel.aspx",
+          "tier": 1,
+          "lang": "英文",
+          "description": "印度国防部公共关系局官方发布",
+          "note": "偏向/备注：印方官方口径"
+        },
+        {
+          "name": "以色列国防军 IDF / @IDF",
+          "url": "https://www.idf.il/en/",
+          "tier": 3,
+          "lang": "英文",
+          "description": "IDF 官方通报；X：@IDF",
+          "note": "偏向/备注：以方官方口径；战果属以方声称"
+        },
+        {
+          "name": "英国海上贸易行动 UKMTO / @UK_MTO",
+          "url": "https://www.ukmto.org/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "红海、亚丁湾、霍尔木兹等航道船舶安全事件通报",
+          "note": "偏向/备注：航运安全一手通报"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "中文信源·大陆官方/数据",
+      "sources": [
+        {
+          "name": "东部战区 官方微博",
+          "url": "https://weibo.com/7483054836",
+          "tier": 1,
+          "lang": "中文",
+          "description": "台海演习公告、区域示意图首发；另有“东部战区”微信公众号",
+          "note": "偏向/备注：演习公告作一档，表态作三档；采集端难直接抓取"
+        },
+        {
+          "name": "国防部发布（国防部新闻局官方微博）",
+          "url": "https://weibo.com/u/5611549371",
+          "tier": 1,
+          "lang": "中文",
+          "description": "例行记者会、涉军问题回应",
+          "note": "偏向/备注：演习/活动公告作一档，表态作三档"
+        },
+        {
+          "name": "国防部 例行记者会",
+          "url": "http://www.mod.gov.cn/gfbw/xwfyr/index.html",
+          "tier": 1,
+          "lang": "中文",
+          "description": "国防部新闻发言人发布与答问实录",
+          "note": "偏向/备注：演习/活动公告作一档，表态作三档；网站从采集端无法访问"
+        },
+        {
+          "name": "外交部发言人表态 / @MFA_China",
+          "url": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/",
+          "tier": 3,
+          "lang": "中文",
+          "description": "外交部发言人对涉军、涉台、南海问题表态",
+          "note": "偏向/备注：官方口径"
+        },
+        {
+          "name": "军队采购网",
+          "url": "https://www.plap.mil.cn/",
+          "tier": 1,
+          "lang": "中文",
+          "description": "军队物资、工程、服务采购公告",
+          "note": "偏向/备注：采购硬数据；网站从采集端无法访问"
+        },
+        {
+          "name": "全军武器装备采购信息网",
+          "url": "https://www.weain.mil.cn/",
+          "tier": 1,
+          "lang": "中文",
+          "description": "武器装备采购需求与公告",
+          "note": "偏向/备注：采购硬数据；网站从采集端无法访问"
+        },
+        {
+          "name": "南海战略态势感知计划 SCSPI / @SCS_PI",
+          "url": "https://www.scspi.org/",
+          "tier": 2,
+          "lang": "中/英文",
+          "description": "南海舰机动态、卫星图像与航迹追踪；X：@SCS_PI",
+          "note": "偏向/备注：北京大学背景；图像与航迹可作一档"
+        },
+        {
+          "name": "中国军号 @ChinaMilBugle",
+          "url": "https://x.com/ChinaMilBugle",
+          "tier": 3,
+          "lang": "中/英文",
+          "description": "解放军官方宣传账号，用于观察官方姿态和说法。",
+          "note": "偏向/备注：官方宣传"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "中文信源·台湾",
+      "sources": [
+        {
+          "name": "揭仲 个人网站",
+          "url": "https://chiehchung.info/",
+          "tier": 2,
+          "lang": "中文",
+          "description": "台湾防务学者，解读解放军动态与台海军事态势。",
+          "note": "偏向/备注：台湾 INDSR 视角"
+        },
+        {
+          "name": "台湾国防安全研究院 INDSR",
+          "url": "https://www.indsr.org.tw/",
+          "tier": 2,
+          "lang": "中文",
+          "description": "台湾官方智库，发布中共军政、两岸与太空安全研究。",
+          "note": "偏向/备注：台方官方智库口径"
+        },
+        {
+          "name": "台湾国防部 即時軍事動態",
+          "url": "https://www.mnd.gov.tw/PublishTable.aspx?Types=即時軍事動態&title=國防消息",
+          "tier": 1,
+          "lang": "中文",
+          "description": "每日解放军台海周边舰机动态通报",
+          "note": "偏向/备注：台方官方口径"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "英文防务媒体",
+      "sources": [
+        {
+          "name": "The War Zone (TWZ)",
+          "url": "https://www.twz.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "武器装备与作战动态深度报道，含每周航母位置追踪。"
+        },
+        {
+          "name": "Breaking Defense",
+          "url": "https://breakingdefense.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "美国防采购、预算、太空与产业新闻。",
+          "note": "偏向/备注：官方公告类报道可作一档"
+        },
+        {
+          "name": "Defense News",
+          "url": "https://www.defensenews.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "全球军工产业、合同和各国防务政策。",
+          "note": "偏向/备注：官方公告类报道可作一档"
+        },
+        {
+          "name": "USNI News",
+          "url": "https://news.usni.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "美国海军学会新闻（Sam LaGrone、H I Sutton），舰队追踪与官方文件全文。",
+          "note": "偏向/备注：官方文件原文可作一档"
+        },
+        {
+          "name": "Naval News",
+          "url": "https://www.navalnews.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "全球海军装备、造船与展会新品。",
+          "note": "偏向/备注：厂商性能数据为宣称"
+        },
+        {
+          "name": "War on the Rocks",
+          "url": "https://warontherocks.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "战略与军事政策评论，作者多为军方和智库人士。",
+          "note": "偏向/备注：评论文章观点各异"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "智库与研究机构",
+      "sources": [
+        {
+          "name": "战争研究所 ISW @TheStudyofWar",
+          "url": "https://x.com/TheStudyofWar",
+          "tier": 2,
+          "lang": "英文",
+          "description": "俄乌战场每日评估和伊朗更新。",
+          "note": "偏向/备注：有明确政策立场"
+        },
+        {
+          "name": "英国皇家联合军种研究所 RUSI",
+          "url": "https://www.rusi.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "英国防务智库，陆战、空战与欧洲安全研究。"
+        },
+        {
+          "name": "CSIS ChinaPower",
+          "url": "https://chinapower.csis.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "中国军力与国力数据化研究。"
+        },
+        {
+          "name": "CSIS 亚洲海事透明倡议 AMTI",
+          "url": "https://amti.csis.org/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "南海卫星图像与岛礁、海警动态。",
+          "note": "偏向/备注：卫星图像为事实，文字解读为二档"
+        },
+        {
+          "name": "国际战略研究所 IISS",
+          "url": "https://www.iiss.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "《军事平衡》与导弹、军力评估。"
+        },
+        {
+          "name": "美海军战争学院 中国海事研究所 CMSI @ChinaMaritime",
+          "url": "https://x.com/ChinaMaritime",
+          "tier": 2,
+          "lang": "英文",
+          "description": "解放军海军、海警与造船研究。",
+          "note": "偏向/备注：美军方研究机构"
+        },
+        {
+          "name": "美空军大学 中国航空航天研究所 CASI",
+          "url": "https://www.airuniversity.af.edu/CASI/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "解放军空军、火箭军与航天研究及资料翻译。",
+          "note": "偏向/备注：美军方研究机构"
+        },
+        {
+          "name": "斯德哥尔摩国际和平研究所 SIPRI",
+          "url": "https://www.sipri.org/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "军费、军贸和核武库数据库。",
+          "note": "偏向/备注：数据为事实，评论为二档"
+        },
+        {
+          "name": "ACLED",
+          "url": "https://acleddata.com/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "全球冲突事件数据库。"
+        },
+        {
+          "name": "美国科学家联合会 FAS",
+          "url": "https://fas.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "Hans Kristensen 团队的各国核力量评估。"
+        },
+        {
+          "name": "Arms Control Wonk",
+          "url": "https://www.armscontrolwonk.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "Jeffrey Lewis 等人的导弹、核设施和卫星图像分析。"
+        },
+        {
+          "name": "38 North",
+          "url": "https://www.38north.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "朝鲜军事与核设施卫星图像分析。",
+          "note": "偏向/备注：卫星图像部分可作一档"
+        },
+        {
+          "name": "詹姆斯敦基金会 Jamestown",
+          "url": "https://jamestown.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "中俄军事与对俄制裁、供应链调查。"
+        },
+        {
+          "name": "全球台湾研究中心 GTI",
+          "url": "https://www.globaltaiwan.org/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "台海安全与台湾防务政策研究。",
+          "note": "偏向/备注：立场偏向台湾"
+        },
+        {
+          "name": "洛伊研究所 The Interpreter",
+          "url": "https://www.lowyinstitute.org/the-interpreter",
+          "tier": 2,
+          "lang": "英文",
+          "description": "澳大利亚视角的印太安全评论。"
+        },
+        {
+          "name": "Dennis J. Blasko（Lowy 作者页）",
+          "url": "https://www.lowyinstitute.org/people/dennis-j-blasko",
+          "tier": 2,
+          "lang": "英文",
+          "description": "美陆军退役中校、前驻华武官，解放军陆军研究；著有 The Chinese Army Today"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "开源情报与数据",
+      "sources": [
+        {
+          "name": "Oryx",
+          "url": "https://www.oryxspioenkop.com/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "按照片逐件核实的装备损失清单。",
+          "note": "偏向/备注：只计有图证的损失，是下限"
+        },
+        {
+          "name": "Black Bird Group @Black_BirdGroup",
+          "url": "https://x.com/Black_BirdGroup",
+          "tier": 2,
+          "lang": "英文",
+          "description": "芬兰开源情报团队，俄乌前线态势图。",
+          "note": "偏向/备注：前线地图含分析判断"
+        },
+        {
+          "name": "GeoConfirmed / @GeoConfirmed",
+          "url": "https://geoconfirmed.org/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "志愿者团队的冲突视频地理定位与核实地图"
+        },
+        {
+          "name": "Damien Symon @detresfa_",
+          "url": "https://x.com/detresfa_",
+          "tier": 1,
+          "lang": "英文",
+          "description": "卫星图像分析（The Intel Lab）",
+          "note": "偏向/备注：卫星图像"
+        },
+        {
+          "name": "MT Anderson @MT_Anderson",
+          "url": "https://x.com/MT_Anderson",
+          "tier": 1,
+          "lang": "英文",
+          "description": "卫星图像分析",
+          "note": "偏向/备注：卫星图像"
+        },
+        {
+          "name": "H I Sutton / Covert Shores",
+          "url": "https://www.hisutton.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "潜艇与非常规海战分析、示意图；RSS：hisutton.com/feed.xml；也为 USNI News 撰稿",
+          "note": "偏向/备注：X @CovertShores 目前查不到，只收网站"
+        },
+        {
+          "name": "SeaLight / Ray Powell @GordianKnotRay",
+          "url": "https://www.sealight.live/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "南海灰色地带海上活动追踪（斯坦福 Gordian Knot 中心项目）",
+          "note": "偏向/备注：美方视角"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "太空与商业航天",
+      "sources": [
+        {
+          "name": "Jonathan McDowell @planet4589",
+          "url": "https://x.com/planet4589",
+          "tier": 1,
+          "lang": "英文",
+          "description": "天体物理学家，维护全球卫星和发射目录。"
+        },
+        {
+          "name": "Brian Weeden @brianweeden",
+          "url": "https://x.com/brianweeden",
+          "tier": 2,
+          "lang": "英文",
+          "description": "太空安全与反太空能力研究。"
+        },
+        {
+          "name": "Andrew Jones @AJ_FI / SpaceNews",
+          "url": "https://spacenews.com/author/andrew-jones/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "SpaceNews 中国航天记者；RSS：spacenews.com/author/andrew-jones/feed/"
+        },
+        {
+          "name": "Quilty Space / @QuiltySpace",
+          "url": "https://www.quiltyspace.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "航天产业商业情报",
+          "note": "偏向/备注：行业研究机构"
+        },
+        {
+          "name": "CSIS 太空威胁评估",
+          "url": "https://aerospace.csis.org/space-threat-assessment/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "CSIS 航空航天安全项目年度报告"
+        },
+        {
+          "name": "Secure World Foundation 全球反太空能力 / @SWFoundation",
+          "url": "https://swfound.org/counterspace/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "各国反太空能力年度开源评估"
+        },
+        {
+          "name": "Space-Track 卫星编目",
+          "url": "https://www.space-track.org/",
+          "tier": 1,
+          "lang": "英文",
+          "description": "美国太空司令部公开的在轨目标编目数据（需注册）",
+          "note": "偏向/备注：官方数据"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "专栏与 Newsletter",
+      "sources": [
+        {
+          "name": "Phillips O'Brien（Substack）",
+          "url": "https://phillipspobrien.substack.com/",
+          "tier": 3,
+          "lang": "英文",
+          "description": "圣安德鲁斯大学战略学教授，每周俄乌与美国政策评论。",
+          "note": "偏向/备注：亲乌框架"
+        },
+        {
+          "name": "Lawrence Freedman（Comment is Freed）",
+          "url": "https://samf.substack.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "伦敦国王学院战争研究名誉教授，战略评论。",
+          "note": "偏向/备注：战略评论，非事实源"
+        },
+        {
+          "name": "Mick Ryan（Futura Doctrina）",
+          "url": "https://mickryan.substack.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "澳大利亚退役少将，战争形态与军事改革分析。"
+        },
+        {
+          "name": "Thomas Shugart（Substack）",
+          "url": "https://thomasshugart.substack.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "前美海军潜艇军官，中国造船与海军力量对比。"
+        },
+        {
+          "name": "ChinaTalk（Jordan Schneider）",
+          "url": "https://www.chinatalk.media/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "中国科技与政策 Newsletter 和播客；RSS：chinatalk.media/feed；X：@jordanschneider"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "播客",
+      "sources": [
+        {
+          "name": "The Russia Contingency（Michael Kofman）",
+          "url": "https://warontherocks.com/premium/therussiacontingency/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "War on the Rocks 双周播客，俄军与俄乌战争分析",
+          "note": "偏向/备注：会员内容"
+        },
+        {
+          "name": "Geopolitics Decanted（Dmitri Alperovitch）",
+          "url": "https://geopoliticsdecanted.com/",
+          "tier": 2,
+          "lang": "英文",
+          "description": "Silverado 出品的地缘政治播客；RSS：geopoliticsdecanted.com/feed；X：@GeopolDecanted"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "YouTube",
+      "sources": [
+        {
+          "name": "Perun",
+          "url": "https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q",
+          "tier": 2,
+          "lang": "英文",
+          "description": "防务经济、军工产能与战争后勤长篇分析。"
+        },
+        {
+          "name": "The Chieftain",
+          "url": "https://www.youtube.com/channel/UCp4j9Y9L6jie44iZroCb99A",
+          "tier": 2,
+          "lang": "英文",
+          "description": "装甲车辆历史与技术。"
+        },
+        {
+          "name": "Military History Visualized",
+          "url": "https://www.youtube.com/channel/UCK09g6gYGMvU-0x1VCF1hgA",
+          "tier": 2,
+          "lang": "英文",
+          "description": "军事史与条令的可视化讲解。"
+        },
+        {
+          "name": "Drachinifel",
+          "url": "https://www.youtube.com/channel/UC4mftUX7apmV1vsVXZh7RTw",
+          "tier": 2,
+          "lang": "英文",
+          "description": "海军史与舰艇设计。"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "X 分析员",
+      "sources": [
+        {
+          "name": "Michael Kofman @KofmanMichael",
+          "url": "https://x.com/KofmanMichael",
+          "tier": 2,
+          "lang": "英文",
+          "description": "卡内基基金会，俄军与俄乌战场评估。"
+        },
+        {
+          "name": "Rob Lee @RALee85",
+          "url": "https://x.com/RALee85",
+          "tier": 2,
+          "lang": "英文",
+          "description": "外交政策研究所，俄军与前线视频整理。"
+        },
+        {
+          "name": "Dara Massicot @MassDara",
+          "url": "https://x.com/MassDara",
+          "tier": 2,
+          "lang": "英文",
+          "description": "卡内基基金会，俄军体制与战力。"
+        },
+        {
+          "name": "Jack Watling @Jack_Watling",
+          "url": "https://x.com/Jack_Watling",
+          "tier": 2,
+          "lang": "英文",
+          "description": "RUSI 陆战研究员。"
+        },
+        {
+          "name": "Justin Bronk @Justin_Br0nk",
+          "url": "https://x.com/Justin_Br0nk",
+          "tier": 2,
+          "lang": "英文",
+          "description": "RUSI 空中力量研究员。"
+        },
+        {
+          "name": "Emil Kastehelmi @emilkastehelmi",
+          "url": "https://x.com/emilkastehelmi",
+          "tier": 2,
+          "lang": "英文",
+          "description": "Black Bird Group 芬兰分析员，前线地图与战局判断。"
+        },
+        {
+          "name": "Phillips O'Brien @PhillipsPOBrien",
+          "url": "https://x.com/PhillipsPOBrien",
+          "tier": 3,
+          "lang": "英文",
+          "description": "同上专栏作者的 X 账号。",
+          "note": "偏向/备注：亲乌框架"
+        },
+        {
+          "name": "Andreas Rupprecht @RupprechtDeino",
+          "url": "https://x.com/RupprechtDeino",
+          "tier": 2,
+          "lang": "英文",
+          "description": "解放军空军与海军装备图片整理。",
+          "note": "偏向/备注：图片多来自中文网络，需交叉核实"
+        },
+        {
+          "name": "Henri Kenhmann @HenriKenhmann",
+          "url": "https://x.com/HenriKenhmann",
+          "tier": 2,
+          "lang": "英文/法文",
+          "description": "East Pendulum 作者，中国军事技术与装备。"
+        },
+        {
+          "name": "Decker Eveleth @dex_eve",
+          "url": "https://x.com/dex_eve",
+          "tier": 2,
+          "lang": "英文",
+          "description": "CNA 核与威慑分析员，用卫星图像研究导弹与火箭军设施",
+          "note": "偏向/备注：需与其他来源交叉核实"
+        },
+        {
+          "name": "Andrew Erickson @AndrewSErickson",
+          "url": "https://x.com/AndrewSErickson",
+          "tier": 2,
+          "lang": "英文",
+          "description": "美海军战争学院教授，中国海上力量。"
+        },
+        {
+          "name": "Sam LaGrone @samlagrone",
+          "url": "https://x.com/samlagrone",
+          "tier": 2,
+          "lang": "英文",
+          "description": "USNI News 主编，美海军部署与舰队动态。"
+        },
+        {
+          "name": "Fabian Hinz @fab_hinz",
+          "url": "https://x.com/fab_hinz",
+          "tier": 2,
+          "lang": "英文",
+          "description": "IISS 研究员，中东与伊朗导弹、无人机。"
+        },
+        {
+          "name": "Jeffrey Lewis @ArmsControlWonk",
+          "url": "https://x.com/ArmsControlWonk",
+          "tier": 2,
+          "lang": "英文",
+          "description": "核不扩散与导弹试验、卫星图像分析。"
+        },
+        {
+          "name": "Hans Kristensen @nukestrat",
+          "url": "https://x.com/nukestrat",
+          "tier": 2,
+          "lang": "英文",
+          "description": "FAS 核信息项目主任，各国核武库估算。"
+        },
+        {
+          "name": "Ankit Panda @nktpnd",
+          "url": "https://x.com/nktpnd",
+          "tier": 2,
+          "lang": "英文",
+          "description": "卡内基基金会，核政策与朝鲜导弹。"
+        },
+        {
+          "name": "Michael Knights @Mikeknightsiraq",
+          "url": "https://x.com/Mikeknightsiraq",
+          "tier": 2,
+          "lang": "英文",
+          "description": "华盛顿近东政策研究所，伊拉克民兵与伊朗代理人。"
+        },
+        {
+          "name": "Samuel Bendett @sambendett",
+          "url": "https://x.com/sambendett",
+          "tier": 2,
+          "lang": "英文",
+          "description": "俄罗斯无人系统与军事 AI。"
+        },
+        {
+          "name": "Alex Luck @AlexLuck9",
+          "url": "https://x.com/AlexLuck9",
+          "tier": 2,
+          "lang": "英文",
+          "description": "海军记者，印太海军与造船动态。"
+        },
+        {
+          "name": "M. Taylor Fravel @fravel",
+          "url": "https://x.com/fravel",
+          "tier": 2,
+          "lang": "英文",
+          "description": "MIT 安全研究项目主任，研究中国军事战略"
+        },
+        {
+          "name": "Collin Koh @CollinSLKoh",
+          "url": "https://x.com/CollinSLKoh",
+          "tier": 2,
+          "lang": "英文",
+          "description": "印太与东南亚海军研究"
+        },
+        {
+          "name": "Shashank Joshi @shashj",
+          "url": "https://x.com/shashj",
+          "tier": 2,
+          "lang": "英文",
+          "description": "《经济学人》华盛顿分社社长，前防务编辑"
+        },
+        {
+          "name": "Mohammed Al-Basha @BashaReport",
+          "url": "https://x.com/BashaReport",
+          "tier": 2,
+          "lang": "英文",
+          "description": "也门与红海局势风险咨询，RUSI 合作研究员"
+        },
+        {
+          "name": "Jay Tarriela @jaytaryela",
+          "url": "https://x.com/jaytaryela",
+          "tier": 3,
+          "lang": "英文",
+          "description": "菲律宾海警南海事务发言人",
+          "note": "偏向/备注：菲方官方口径"
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": "X 机构账号",
+      "sources": [
+        {
+          "name": "RUSI @RUSI_org",
+          "url": "https://x.com/RUSI_org",
+          "tier": 2,
+          "lang": "英文",
+          "description": "RUSI 官方账号，研究报告发布。"
+        },
+        {
+          "name": "CSIS ChinaPower @ChinaPowerCSIS",
+          "url": "https://x.com/ChinaPowerCSIS",
+          "tier": 2,
+          "lang": "英文",
+          "description": "ChinaPower 项目官方账号。"
+        },
+        {
+          "name": "AMTI @AsiaMTI",
+          "url": "https://x.com/AsiaMTI",
+          "tier": 1,
+          "lang": "英文",
+          "description": "AMTI 官方账号，南海图像速报。",
+          "note": "偏向/备注：图像为事实"
+        },
+        {
+          "name": "CASI @CASI_Research",
+          "url": "https://x.com/CASI_Research",
+          "tier": 2,
+          "lang": "英文",
+          "description": "美空军大学中国航空航天研究所官方账号。"
+        },
+        {
+          "name": "IISS @IISS_org",
+          "url": "https://x.com/IISS_org",
+          "tier": 2,
+          "lang": "英文",
+          "description": "IISS 官方账号。"
+        },
+        {
+          "name": "SIPRI @SIPRIorg",
+          "url": "https://x.com/SIPRIorg",
+          "tier": 1,
+          "lang": "英文",
+          "description": "SIPRI 官方账号，数据发布。",
+          "note": "偏向/备注：数据为事实"
+        },
+        {
+          "name": "ACLED @ACLEDINFO",
+          "url": "https://x.com/ACLEDINFO",
+          "tier": 1,
+          "lang": "英文",
+          "description": "ACLED 官方账号。"
+        },
+        {
+          "name": "38 North @38NorthNK",
+          "url": "https://x.com/38NorthNK",
+          "tier": 2,
+          "lang": "英文",
+          "description": "38 North 官方账号。"
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": "Telegram 与交战方视角",
+      "sources": [
+        {
+          "name": "Rybar（Telegram）",
+          "url": "https://t.me/s/rybar",
+          "tier": 4,
+          "lang": "俄文",
+          "description": "俄方军事博主频道，前线地图与战报",
+          "note": "偏向/备注：俄方立场，只作线索"
+        },
+        {
+          "name": "DeepStateMap",
+          "url": "https://deepstatemap.live/",
+          "tier": 2,
+          "lang": "乌/英文",
+          "description": "乌克兰前线控制区地图",
+          "note": "偏向/备注：乌方背景"
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": "仅作线索",
+      "sources": [
+        {
+          "name": "OSINTtechnical @Osinttechnical",
+          "url": "https://x.com/Osinttechnical",
+          "tier": 4,
+          "lang": "英文",
+          "description": "战场视频与快讯聚合，更新快。",
+          "note": "偏向/备注：未经证实，从不作为事实来源"
+        }
+      ]
+    }
+  ]
+}

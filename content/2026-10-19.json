@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-19",
+  "coverage": "约 10月18日上午 9:30 至 10月19日上午 9:30（新加坡时间）",
+  "summary": "周末后媒体与智库恢复更新，重点是乌军对圣彼得堡的大规模无人机袭击、中国第二艘疑似大型无人潜航器母船，以及防空拦截弹与星链限速的持续影响。",
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌军对圣彼得堡发动据称是迄今最大规模无人机袭击：俄方称一夜间击落逾 1000 架无人机；圣彼得堡石油码头、鲁奇（Ruchyi）油库起火，Ozon 物流中心和 VK 数据中心也被击中；州长称至少 1 死、多人受伤，普尔科沃机场一度关闭，列宁格勒州约 2 万人断电。美媒称乌方在特朗普要求停止打击俄能源设施后仍发动这次袭击。",
+          "links": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c3eweygrjzd7o"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d"
+            },
+            {
+              "name": "Christopher Miller X",
+              "url": "https://x.com/ChristopherJM/status/2111782046196502976"
+            },
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2111968957703782572"
+            }
+          ],
+          "tierText": "二档，ISW 有政策立场",
+          "location": {
+            "name": "圣彼得堡",
+            "lat": 59.94,
+            "lon": 30.31
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "泽连斯基对记者说，美国中期选举前是“危险日子”；他称自己最近的设想是“我们不打俄柴油，你们给我们爱国者导弹保护设施”，但美方只要乌方停手。Rob Lee 标注该表态值得关注。",
+          "links": [
+            {
+              "name": "Rob Lee X",
+              "url": "https://x.com/RALee85/status/2111913371415306466"
+            }
+          ],
+          "tierText": "二档（当事人表态经分析师转发）",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "diplomacy"
+        },
+        {
+          "text": "截至 10月18日，乌军能否用星链/Starshield 拦截俄喷气式无人机仍不清楚；ISW 再次把限速列为当日俄乌战报要点。Mick Ryan 同日周报称，10月17日泽连斯基仍说 161 km/h 上限未解除，前线中程打击和拦截任务继续受损。",
+          "links": [
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2111968957703782572"
+            },
+            {
+              "name": "Mick Ryan Substack",
+              "url": "https://mickryan.substack.com/p/diesel-starlink-and-the-price-of"
+            }
+          ],
+          "tierText": "二档（汇总公开报道）",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "space"
+        },
+        {
+          "text": "Rob Lee 指出，俄“红宝石”（Rubicon）中心首次公开 Geran-4 Seeker 打击视频，说明俄方喷气式单向攻击机正把带导引头的型号用于实战展示。",
+          "links": [
+            {
+              "name": "Rob Lee X",
+              "url": "https://x.com/RALee85/status/2111972596002783495"
+            }
+          ],
+          "tierText": "二档（部队/项目视频经分析师核实转发）",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "立场框架：O'Brien 周末更新称美俄已从“非正式盟友”变为“正式盟友”，星链限速是最关键证据，并强调乌方重新打击俄炼油与圣彼得堡设施；Mick Ryan 则从印太视角写，柴油豁免、能源停火空谈和星链限速会让东京、台北、堪培拉、北京同样读出美国对盟友的可预期性下降。二者都是强烈立场文，事实部分需回看上面条目。",
+          "links": [
+            {
+              "name": "O'Brien Substack",
+              "url": "https://phillipspobrien.substack.com/p/weekend-update-207-the-us-russia"
+            },
+            {
+              "name": "Mick Ryan Substack",
+              "url": "https://mickryan.substack.com/p/diesel-starlink-and-the-price-of"
+            }
+          ],
+          "tierText": "三档偏解读",
+          "location": null,
+          "domain": "diplomacy"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾“国防部”称，截至 10月19日早上 6 点的 24 小时内，台湾周边有解放军军机 5 架次、军舰 6 艘、公务船 9 艘，5 架次中有 3 架越过海峡中线，进入北部、中部和西南部防空识别区。军机数量较前一日（2 架次）回升。",
+          "links": [
+            {
+              "name": "MND X",
+              "url": "https://x.com/MoNDefense/status/2111985685158625762"
+            }
+          ],
+          "tierText": "一档数字，但属台方官方口径",
+          "location": {
+            "name": "台湾周边",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "广州出现第二艘疑似大型无人潜航器（UUV）母船：TWZ 与 Naval News（Alex Luck）根据社媒影像和卫星档案称，该船约 150 米、由 COMEC（原广船国际）建造，尾部 6 根起吊桅杆、带艉部坞舱；沪东中华那艘更大、约超 200 米、有 12 根桅杆。两船设计不同但用途疑似相近，美海军尚无同类大型 UUV 母船在役。Luck 提醒影像真伪需持续核对，AI 检测工具暂判为真。",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/sea/second-chinese-submarine-drone-mothership-emerges"
+            },
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/10/second-possible-chinese-uuv-mothership-appears-in-guangzhou/"
+            },
+            {
+              "name": "Alex Luck X",
+              "url": "https://x.com/AlexLuck9/status/2111960912370507985"
+            }
+          ],
+          "tierText": "二档（公开影像 + 专业船舰分析，影像仍待更多证实）",
+          "location": {
+            "name": "广州",
+            "lat": 23.1,
+            "lon": 113.45
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "IISS 称，自 6 月以来中国在台湾以东海域明显加大海警、海上监视、渔业与科考等活动，认为这是灰色地带策略的重要升级，意在建立常态化存在。帖文未附完整报告链接，细节以 IISS 后续正式稿为准。",
+          "links": [
+            {
+              "name": "IISS X",
+              "url": "https://x.com/IISS_org/status/2111789659692957990"
+            }
+          ],
+          "tierText": "二档（智库判断，细节待完整报告）",
+          "location": {
+            "name": "台湾以东",
+            "lat": 23.5,
+            "lon": 124.5
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "解放军装备线索：Rupprecht 发布 Y-20A 发动机试飞平台挂载国产 CJ-1000A 涡扇的清晰照片；另有社媒称干船坞内出现 004 核航母“大西洋式”飞剪艏分段，属未经官方确认的船厂观察。",
+          "links": [
+            {
+              "name": "Rupprecht Deino X（Y-20A）",
+              "url": "https://x.com/RupprechtDeino/status/2111836519208022253"
+            },
+            {
+              "name": "Rupprecht Deino X（004 艏部分段 / CVN bow module）",
+              "url": "https://x.com/RupprechtDeino/status/2111703264194347235"
+            }
+          ],
+          "tierText": "四档偏线索",
+          "location": null,
+          "domain": "industry"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "ISW 称，胡塞武装在沙特领空击落一架沙特轻型攻击直升机，该机当时可能在也门焦夫省附近为政府军提供近距空中支援或侦察，正值也门政府军与胡塞交火升温。",
+          "links": [
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2111922956251042248"
+            }
+          ],
+          "tierText": "二档，ISW 有政策立场",
+          "location": {
+            "name": "也门焦夫",
+            "lat": 16.2,
+            "lon": 44.8
+          },
+          "domain": "air"
+        },
+        {
+          "text": "IISS 卫星影像分析称，美以此前对伊朗两处航天发射场造成明显破坏：一处属伊朗航天局，一处属伊斯兰革命卫队。具体损毁程度以 Joseph Dempsey 的影像解读为准（X 帖未展开全文）。",
+          "links": [
+            {
+              "name": "IISS X",
+              "url": "https://x.com/IISS_org/status/2111729008119345164"
+            }
+          ],
+          "tierText": "二档（智库卫星解读）",
+          "location": {
+            "name": "塞姆南",
+            "lat": 35.23,
+            "lon": 53.92
+          },
+          "domain": "space"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "安德里尔（Anduril）欧洲副总裁对路透说，新公布的 Steelfin 地对空拦截弹系列未来有可能在欧洲、尤其是波兰生产，作为爱国者等现役系统的更廉价补充；Steelfin 计划 2027 年试飞。公司已在与波兰国营军工集团 PGZ 谈 Barracuda-500 巡航导弹本地化，并称“主权有成本”，国产化会拖进度。",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/"
+            }
+          ],
+          "tierText": "二档（高管表态 + 路透）",
+          "location": {
+            "name": "波兰",
+            "lat": 52.23,
+            "lon": 21.01
+          },
+          "domain": "air"
+        },
+        {
+          "text": "Perun 发布与 Michael Kofman 对谈长视频《2026 年俄军的演进：强项与短板》，窗口内有新专业解读产出；适合作为俄军编制、无人机与消耗战能力的二档背景，而非当日事件源。",
+          "links": [
+            {
+              "name": "Perun YouTube",
+              "url": "https://www.youtube.com/watch?v=cvBFMOiBBsE"
+            }
+          ],
+          "tierText": "二档（专业对谈）",
+          "location": null,
+          "domain": "land"
+        },
+        {
+          "text": "IISS 称无人地面车（UGV）能力、自主性和用途在扩大，全球市场预期约 134 亿美元；与前线已见的 UGV 运炸药、后勤等用法相互印证，但具体厂商与采购合同未在该帖展开。",
+          "links": [
+            {
+              "name": "IISS X",
+              "url": "https://x.com/IISS_org/status/2111755423250370898"
+            }
+          ],
+          "tierText": "二档",
+          "location": null,
+          "domain": "land"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "中国大型 UUV 母船从“一艘试验船”变成“至少两型并行”：COMEC/广船与沪东几乎同期推出不同尺寸方案，说明解放军把大型无人潜航器投送当作可规模化能力，而不是单舰演示。深海感知、水下通信、大型 UUV 本体和母船改装/新造船都可能受益（这是推断）。",
+    "欧洲廉价防空拦截弹国产化在加速：安德里尔把 Steelfin 和已在谈的 Barracuda 波兰产线绑在一起讲，指向“爱国者不够用 → 量产型拦截弹 + 本地化”这条采购主线；拦截弹、导引头、近程防空雷达和反无人机系统仍是硬科技投资重点（这是推断）。",
+    "卫通单点风险没有消失：ISW 到 10月18日仍写星链/Starshield 能否支撑喷气式无人机拦截“不清楚”，与前几日的限速报道一致。多星座卫通、抗干扰数据链和不绑定单一商业星座的终端，会继续被盟友采购议程抬高（这是推断）。",
+    "航天与数据中心成为可打击目标的叙事在延续：IISS 展示伊朗发射场损毁、圣彼得堡 VK/Ozon 设施被无人机打到，说明商业数字基础设施和航天地面段都已进入常规远程打击清单；分散部署、加固和备份恢复能力的需求可能上升（这是推断）。"
+  ]
+}

@@ -1,0 +1,11 @@
+import { layout } from './layout.mjs';
+import { hero, briefCards, statStrip, itemCard, investment } from './components.mjs';
+import { mapWidget } from './map.mjs';
+import { escapeHtml as e } from '../lib/urls.mjs';
+
+export function issuePage(ctx, issue, previous = null, next = null) {
+  const nav = ctx.latest ? '' : `<nav class="issue-nav wrap" aria-label="期次导航">${previous ? `<a href="${ctx.url(`${previous.date}/`)}">← 上一期 <span>${previous.date}</span></a>` : '<span>已到最早一期</span>'}${next ? `<a href="${ctx.url(`${next.date}/`)}">下一期 <span>${next.date}</span> →</a>` : '<span>已是最新一期</span>'}</nav>`;
+  const preview = `<div data-brief-only>${statStrip(issue)}<section class="section map-section" aria-labelledby="map-heading"><div class="wrap"><div class="section-heading"><h2 id="map-heading">今日地图</h2><a href="${ctx.url(ctx.latest ? 'map/' : `${issue.date}/map/`)}">打开完整地图 →</a></div>${mapWidget(ctx, issue, { preview: true })}</div></section>${issue.featured.length ? `<section class="section featured-section" aria-labelledby="featured-heading"><div class="wrap"><div class="section-heading"><h2 id="featured-heading">展开读</h2><a href="#full">全部 ${issue.items.length} 条 →</a></div><div class="featured-grid">${issue.featured.map(item => itemCard(item, issue)).join('')}</div><a class="mobile-full-link" href="#full">看完整版 · ${issue.items.length} 条 →</a></div></section>` : ''}</div>`;
+  const full = `<section class="section full-section" data-full-only id="full" aria-labelledby="full-heading"><div class="wrap"><div class="section-heading"><h2 id="full-heading">本期全部要闻</h2><span class="section-note">${issue.items.length} 条 · 约 ${issue.readingMinutes} 分钟</span></div><div class="full-items">${issue.groups.map(group => `<section class="theater-group" aria-labelledby="theater-${e(group.id)}"><h2 class="theater-heading" id="theater-${e(group.id)}">${e(group.title)}<span>${group.items.length} 条</span></h2>${group.items.map(item => itemCard(item, issue, { full: true })).join('')}</section>`).join('')}</div></div></section>`;
+  return layout(ctx, { title: `防务早知道｜${issue.month}月${+issue.day}日 ${issue.weekday}`, description: issue.summary, canonical: ctx.latest ? '' : `${issue.date}/`, issue, content: `<main id="main">${nav}${hero(issue)}${briefCards(issue)}${preview}${full}${investment(issue)}</main>` });
+}

@@ -1,0 +1,396 @@
+{
+  "base": "http://127.0.0.1:4173/defense-brief/",
+  "results": [
+    {
+      "name": "default brief",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "preview nine markers/default01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mode full/scroll preserve",
+      "pass": true,
+      "detail": {
+        "before": 200,
+        "after": 200
+      }
+    },
+    {
+      "name": "mode persists reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "switch brief",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "browser back restores full",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "hash n09 full/highlight/scroll",
+      "pass": true,
+      "detail": {
+        "x": 260,
+        "y": 48.390625,
+        "width": 760,
+        "height": 321.421875
+      }
+    },
+    {
+      "name": "hash n09 focuses article",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "highlight clears after2s",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "full content link scrolls to full section",
+      "pass": true,
+      "detail": {
+        "x": 0,
+        "y": 23.75,
+        "width": 1280,
+        "height": 4805.46875
+      }
+    },
+    {
+      "name": "async fonts enabled after initial frames",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "map nine markers/default01",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "marker selects row",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "row selects marker/popup",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "offmap row selected/no popup",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Esc clears selection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "background clears selection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "sea six/full query",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "excluded markers disabled/dimmed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "theater/domain intersection",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "filters restore reload",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "same filter toggles off",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "empty intersection state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "clear filters restores all",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "shared query initializes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "popstate restores filters",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom1.5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "zoom2 and disabled upper bound",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "popup stays in stage",
+      "pass": true,
+      "detail": {
+        "s": {
+          "left": 26,
+          "right": 854,
+          "top": 138,
+          "bottom": 726.796875
+        },
+        "p": {
+          "left": 383.171875,
+          "right": 643.171875,
+          "top": 252.28125,
+          "bottom": 382.28125
+        }
+      }
+    },
+    {
+      "name": "zoom1 resets transform/origin",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "font loadingdone repositions popup",
+      "pass": true,
+      "detail": {
+        "oldTop": "114.292px",
+        "newTop": "88.2916px",
+        "fontMetrics": {
+          "height": 182,
+          "padding": "64px",
+          "inlinePadding": "64px",
+          "scripts": [
+            "http://127.0.0.1:4173/defense-brief/assets/app.js"
+          ]
+        }
+      }
+    },
+    {
+      "name": "resize repositions popup within stage",
+      "pass": true,
+      "detail": {
+        "s": {
+          "left": 26,
+          "right": 974,
+          "top": 184.1875,
+          "bottom": 858.3125
+        },
+        "p": {
+          "left": 431.46875,
+          "right": 691.46875,
+          "top": 324.34375,
+          "bottom": 454.34375
+        }
+      }
+    },
+    {
+      "name": "marker tab numeric order",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "marker keyboard Enter",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "marker keyboard Space",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "right-edge popup flips left",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive body phrase searchable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive q URL",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive q restores",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Unicode normalized search",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive location searchable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive numeric fact searchable",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive empty state",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "archive clear restores11",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "deep404 HTTP status",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "deep404 CSS status200",
+      "pass": true,
+      "detail": "http://127.0.0.1:4173/defense-brief/assets/site.css"
+    },
+    {
+      "name": "deep404 homepage href resolves",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "deep404 return home click",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile default detail/no popup",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile marker detail",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile offmap detail",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 4",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 6",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 8",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 11",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile true touch marker center 13",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile hash full",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile sea six",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mobile map no horizontal overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "noJS full14 visible",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "noJS all14 feed/nine markers",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "localStorage denied still switches",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no browser JS errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": []
+}

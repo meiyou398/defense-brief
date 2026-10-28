@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-20",
+  "coverage": "约 10月19日上午 9:30 至 10月20日上午 9:30（新加坡时间）",
+  "summary": "窗口内主线是俄军对乌克兰能源网的又一轮大规模导弹/无人机打击、美方拖延爱国者拦截弹交付的报道，以及俄军卫星对疑似支援乌克兰的 ICEYE 商业雷达星做近距离非合作交会；印太侧则有台海活动回升、日本统幕公布解放军无人机穿宫古/与那国航线，以及台海巡无人艇与澳洲中程防空招标。",
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "俄军在 10月18–19 日夜间对乌发动新一轮大规模空袭：泽连斯基称至少 10 余处能源设施受损、约 55 万户断电；乌空军称一夜有弹道导弹（泽连斯基称 16 枚，主要打基辅及周边）、伊斯坎德尔-K 巡航导弹，以及含 59 架喷气型在内的约 269 架“沙赫德”类攻击无人机和诱饵机，防空击落/压制 243 架无人机和 4 枚巡航导弹。基辅独立报称至少 4 死、55 伤；哈尔科夫州一处公园遭无人机袭击，当地称含儿童在内多人死亡。泽连斯基并称此次弹道导弹来袭未获伙伴国提前预警。",
+          "links": [
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/3-killed-53-injured-in-russian-attacks-across-ukraine-over-past-day-as-550-000-households-lose-power/"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-b041f78e5d037a0f3377b7108eac1dc7"
+            },
+            {
+              "name": "Rob Lee X",
+              "url": "https://x.com/RALee85/status/2112133691484803232"
+            },
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2112354914470941030"
+            }
+          ],
+          "tierText": "二档，ISW 有政策立场",
+          "location": {
+            "name": "基辅",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "乌方与《华盛顿邮报》等报道称，特朗普政府尚未批准向乌克兰移交急需的拦截弹；基辅独立报引述多名匿名乌官员称国防部长赫格塞思压着已由盟国通过北约 PURL 付款的爱国者导弹合同不签字，泽连斯基称“政治协议在工作层未落实”、美方每月只交约 12 枚爱国者拦截弹。美方官员否认“不实”；北约称 PURL 含防空在内仍在交付，但可能有延误。ISW 同日要点也写乌方继续报告美援中断。",
+          "links": [
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/its-significant-ukraine-fears-us-is-withholding-allied-funded-air-defense-supplies-to-pressure-kyiv/"
+            },
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/politics/2026/10/19/amid-deteriorating-relations-washington-holds-up-patriots-kyiv/"
+            },
+            {
+              "name": "Kofman X",
+              "url": "https://x.com/KofmanMichael/status/2112225372419018990"
+            },
+            {
+              "name": "Rob Lee X",
+              "url": "https://x.com/RALee85/status/2112315583542784074"
+            },
+            {
+              "name": "ISW X",
+              "url": "https://x.com/TheStudyofWar/status/2112354914470941030"
+            }
+          ],
+          "tierText": "二档，ISW 有政策立场",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "diplomacy"
+        },
+        {
+          "text": "星盾/Starshield 限速仍未解除：Kofman 10月19日写仍被限到约 160 km/h，实际还可能更低且不稳定；乌“中部”集群司令比列茨基称城市因终端限速处于部分裸防状态。这与前几日 ISW/泽连斯基关于喷气式无人机拦截受损的说法一致。",
+          "links": [
+            {
+              "name": "Kofman X",
+              "url": "https://x.com/KofmanMichael/status/2112167662789030368"
+            },
+            {
+              "name": "Diana Butsko / Rob Lee RT",
+              "url": "https://x.com/RALee85/status/2112282144429191346"
+            }
+          ],
+          "tierText": "二档（前线指挥官与专业分析师）",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "space"
+        },
+        {
+          "text": "乌军展示重型无人机战地后送：Rob Lee 称第 30 机械化旅一名伤员由 Gurzuf Defense 重型升力无人机组送离，并得到第 92 突击旅、第 14 机械化旅与第 10 军协助；TWZ 同日综述称空中无人机正被用于从战场接运伤员。分析师提醒和平时期伤亡容忍度更低，伤情护理、抗干扰与回收风险仍是推广障碍。",
+          "links": [
+            {
+              "name": "Rob Lee X",
+              "url": "https://x.com/RALee85/status/2112152238772916425"
+            },
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/air/aerial-drones-appear-to-be-picking-up-wounded-off-the-battlefield-in-ukraine"
+            }
+          ],
+          "tierText": "二档（部队视频 + 专业媒体）",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "land"
+        },
+        {
+          "text": "立场框架：Mick Ryan 新文《乌克兰为我们做了什么？》回应特朗普“我们给了很多，他们什么也没给”的说法，列举无人系统战法输出、廉价拦截/中远程打击与数字指控合作、以及民主国家可借用的消耗战经验；O'Brien 同日继续强调美方在施压乌割地。二者均为强烈立场文，事实请回看上面条目。",
+          "links": [
+            {
+              "name": "Mick Ryan Substack",
+              "url": "https://mickryan.substack.com/p/what-has-ukraine-done-for-us"
+            },
+            {
+              "name": "O'Brien X",
+              "url": "https://x.com/PhillipsPOBrien/status/2112166567332982912"
+            }
+          ],
+          "tierText": "三档，亲乌框架",
+          "location": null,
+          "domain": "diplomacy"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾“国防部”称，截至 10月20日早上 6 点（UTC+8）的 24 小时内，台湾周边有解放军军机 14 架次、军舰 7 艘、公务船 7 艘，14 架次中有 8 架越过海峡中线，进入北部、中部、西南部和东部防空识别区。军机数量较前一日（5 架次）明显回升。",
+          "links": [
+            {
+              "name": "MND X",
+              "url": "https://x.com/MoNDefense/status/2112348071569039871"
+            }
+          ],
+          "tierText": "一档数字，但属台方官方口径",
+          "location": {
+            "name": "台湾周边",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "日本统合幕僚监部 10月19日集中公布：当日解放军 BZK-005 侦察无人机、Y-9 情报机经冲绳本岛—宫古岛之间进出太平洋，TB-001 侦察/攻击无人机经与那国—台湾之间出海并飞至奄美大岛附近后折返，航空自卫队西南方面队战斗机紧急起飞应对；另有 10月16–18 日多批次解放军驱逐舰、护卫舰、补给舰与东调级情报舰经宫古水道、大隅海峡进出太平洋，以及 10月17日俄伊尔-20 情报机飞日本海至京都冲。统幕 X 并确认 10月16–18 日有疑似领空侵犯应对起飞；日美 Keen Sword 27 陆上实兵演习亦已开训。",
+          "links": [
+            {
+              "name": "统幕 PDF（BZK-005/Y-9/TB-001）",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261019_06.pdf"
+            },
+            {
+              "name": "统幕新闻页",
+              "url": "https://www.mod.go.jp/js/press/index.html"
+            },
+            {
+              "name": "JapanJointStaff X",
+              "url": "https://x.com/JapanJointStaff/status/2112110262266569113"
+            }
+          ],
+          "tierText": "一档（日本官方）",
+          "location": {
+            "name": "冲绳—宫古之间",
+            "lat": 25.5,
+            "lon": 126.5
+          },
+          "domain": "air"
+        },
+        {
+          "text": "台湾海巡署将采购美国 MARTAC Devil Ray T24 无人水面艇：Naval News 引公司新闻稿称数量未公布，但属美台共生产安排——部分在佛罗里达合作厂造、其余由台方合作商 Confucian 在台湾建造，并有中科院（NCSIST）参与；T24 长约 8.4 米、爆发航速可超 50 节，被海巡称为首个 USV 项目。",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/10/taiwan-coast-guard-to-acquire-martac-devil-ray-t24-usvs/"
+            }
+          ],
+          "tierText": "二档（公司稿 + 专业海军媒体）",
+          "location": {
+            "name": "台湾",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "澳洲国防部推进陆基中程防空：Defense News 称 Project Land 6504 已于 10月13日发产业征询，目标为现成、经实战验证的中程对空系统，要求能拦末端弹道导弹与亚音速空射威胁，并与 ADF 指控集成；欧、以、韩、土、美厂商均在关注，但资金仍受 AUKUS 核潜艇挤压。",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense/"
+            },
+            {
+              "name": "Alex Luck X",
+              "url": "https://x.com/AlexLuck9/status/2112148967299612726"
+            }
+          ],
+          "tierText": "二档",
+          "location": {
+            "name": "澳大利亚",
+            "lat": -25.3,
+            "lon": 133.8
+          },
+          "domain": "air"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "俄军卫星 Kosmos-2612 对美籍商业 SAR 星 ICEYE-X36 实施窗口内高度异常的非合作交会：LeoLabs 称 10月15–19 日该星从数百公里外受控接近，前后换位、近距徘徊，最近约 500 米（公开轨道数据有称可能更近至约 26 米）；Jonathan McDowell 称 10月18 日后已拉开至超 100 公里。多家分析指这是迄今观测到最复杂、最危险的非合作近距操作之一，目标星被广泛认为向乌克兰提供 SAR 图像；ICEYE 美国分部称在密切跟踪、星座设计强调韧性。未见已确认的物理干扰。",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers/"
+            },
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal"
+            },
+            {
+              "name": "planet4589 X",
+              "url": "https://x.com/planet4589/status/2112232575653888317"
+            }
+          ],
+          "tierText": "一档/二档（商业 SSA + 专业媒体）",
+          "location": null,
+          "domain": "space"
+        },
+        {
+          "text": "五角大楼与 BAE 签框架协议，每年最多采购 2.5 万套 APKWS 精确制导套件（把 2.75 英寸火箭改成激光制导），并规划把产能扩到每年 3.5 万套供盟国 FMS；仍需国会批准拨款，金额未公布。APKWS 正被用作比空空导弹更便宜的反无人机拦截手段。",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/"
+            }
+          ],
+          "tierText": "二档（官方/企业公告经专业媒体）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "industry"
+        },
+        {
+          "text": "德国放弃向澳洲波音直接快速采购 MQ-28 Ghost Bat：TWZ/Politico 称柏林已通知公司不推进原计划在 2020 年代末列装的直接采购，改走更长竞争；Rheinmetall 此前与波音澳洲合作的集成路径因此受挫，德国有人机协同作战飞机（CCA）时间表可能拖入下一年代。",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/air/germany-drops-boeing-mq-28-ghost-bat-rapid-procurement-plan"
+            }
+          ],
+          "tierText": "二档",
+          "location": {
+            "name": "德国",
+            "lat": 52.52,
+            "lon": 13.4
+          },
+          "domain": "air"
+        },
+        {
+          "text": "美国海军陆战队将第 2 师第 10 团第 1 营改番号为首个中程导弹营，专职操作 NMESIS（海军陆战队远征舰艇拦截系统，双联装海军打击导弹，对海约 130 海里）；太平洋方向第 3、第 12 滨海团此前已在第一岛链演练部署。Force Design 仍把该系统定位为远征前进基地拒止与自卫火力。",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/10/19/u-s-marine-corps-stands-up-first-nmesis-anti-ship-missile-battalion"
+            }
+          ],
+          "tierText": "一档/二档（军种发布 + USNI）",
+          "location": {
+            "name": "美国本土",
+            "offMap": "us"
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "HD 现代与安德里尔在加州海域演示把 VAone 无人艇平台与 Lattice 任务软件打通；丹麦另向挪威增购海军打击导弹升级护卫舰，波兰 A26 潜艇 Orka 项目确定由 Jeumont Electric 供应低特征电动推进。印太与欧洲无人水面艇、岸基反舰与潜艇供应链同日有实质合同/演示进展。",
+          "links": [
+            {
+              "name": "Naval News（Hyundai/Anduril）",
+              "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy/"
+            },
+            {
+              "name": "Naval News（Denmark NSM）",
+              "url": "https://www.navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg/"
+            },
+            {
+              "name": "Naval News（Poland A26）",
+              "url": "https://www.navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines/"
+            }
+          ],
+          "tierText": "二档",
+          "location": {
+            "name": "加州近海",
+            "offMap": "us"
+          },
+          "domain": "sea"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "轨道对抗从“跟踪军用侦察星”扩到“近距盯梢支援乌克兰的商业 SAR 星”：Kosmos-2612/ICEYE-X36 事件抬高商业 SSA、在轨态势感知、快速变轨/补给、抗近距干扰与星座冗余的需求；对依赖单一商业成像源的用户是明确风险提示（这是推断）。",
+    "反无人机与廉价制导弹药继续放量：五角大楼把 APKWS 年产能锁到 2.5–3.5 万套并点名反无人用途，与乌战场拦截弹短缺叙事同向；激光制导火箭套件、近程防空与反无人传感仍是硬科技采购主线（这是推断）。",
+    "印太无人水面艇与岸基反舰在落地：台海巡 T24 共生产、现代–安德里尔 Lattice 演示、陆战队首个 NMESIS 营，说明“可分散部署的海上拒止”正从概念进编制与采购；USV 船体、自主软件、岸基反舰导弹与共生产本地化都可能受益（这是推断）。",
+    "盟友中远程防空与 CCA 节奏分化：澳洲开标中程陆基防空，德国却推迟 Ghost Bat 快速采购——说明“导弹防守缺口”比“协同无人僚机”更急；防空导弹/雷达集成商的确定性可能高于下一代 CCA 平台商（这是推断）。",
+    "卫通与预警单点依赖仍未缓解：爱国者交付拖延、弹道导弹预警中断与 Starshield 限速同日出现，强化欧洲/印太对主权星座、多源预警和可本地生产拦截弹的长期溢价（这是推断）。"
+  ]
+}

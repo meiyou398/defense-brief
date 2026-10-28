@@ -1,0 +1,356 @@
+{
+  "date": "2026-10-25",
+  "coverage": "约 10月24日上午至 10月25日上午（UTC+8）",
+  "summary": "乌克兰国防部与泽连斯基确认星盾/星链高速限制已解除（测得 400 km/h 以上仍稳定）；乌军对俄能源与导弹配套工业的纵深打击导致克里米亚大面积停电，并与俄就奥莱什基有限停火（10月27日）初步对齐。中东方面，美国国家情报总监克莱顿警告伊朗已进入对美区域目标“晚期筹划”，胡塞持续打击沙特机场与管道。印太侧有日美菲南海海上协同活动，以及广州疑似第二艘无人潜航母舰辅助船新图。",
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰官方确认星盾与星链高速限制已解除：国防部监测系统与泽连斯基称 10月24日晨起可在超过 161 km/h（约 100 mph）甚至 400 km/h 以上保持稳定连接；Kofman、MassDara、ISW 同日跟进。马斯克则声称乌克兰曾把星链用在进攻性战斗无人机上，前国防部流程知情者 Sternenko 予以否认；特朗普称已与马斯克通话，未披露细节。",
+          "sourceNote": "ISW; Zelenskyy; Michael Kofman; Dara Massicot; Rob Lee",
+          "links": [
+            {
+              "name": "ISW 10/24",
+              "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-24-2026/"
+            },
+            {
+              "name": "泽连斯基",
+              "url": "https://x.com/ZelenskyyUa/status/2113990281322221932"
+            },
+            {
+              "name": "Kofman",
+              "url": "https://x.com/KofmanMichael/status/2113969895084118344"
+            }
+          ],
+          "tierText": "一档事实（官方确认）；马斯克指控为三档有立场",
+          "location": {
+            "name": "乌克兰",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "domain": "space"
+        },
+        {
+          "text": "乌军 10月23–24日夜间纵深打击俄能源与导弹配套设施：总参谋部确认打击奥廖尔 Proton-Electrotex 主厂房（为伊斯坎德尔、S-71、“铠甲”提供光电部件），萨马拉托利亚蒂 Tolyattikauchuk 石化厂与鄂木斯克 Omskiy Kauchuk 起火；另打击克拉斯诺达尔边疆区塔曼变电站，切断通往克里米亚的俄“能源桥”，克里米亚、顿涅茨克等占领区大面积停电，塞瓦斯托波尔称仅约 40% 公寓有电。",
+          "sourceNote": "ISW （援引 Ukrainian GS, NASA FIRMS, occupation officials）",
+          "links": [
+            {
+              "name": "ISW 10/24",
+              "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-24-2026/"
+            }
+          ],
+          "tierText": "一档事实（官方战损声明+火灾热异常）",
+          "location": {
+            "name": "奥廖尔",
+            "lat": 52.97,
+            "lon": 36.07
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "乌俄就赫尔松州奥莱什基有限停火初步对齐：乌总参确认 10月27日基辅时间 03:00 起在“指定区域”停火以便人道行动；俄总参谋长格拉西莫夫称俄方同意同日莫斯科时间 04:00（等同基辅 03:00）在“赫尔松方向”有限停火。地理范围与居民是否可自愿撤往乌方一侧仍不明。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW 10/24",
+              "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-24-2026/"
+            }
+          ],
+          "tierText": "一档事实（双方官方表态）",
+          "location": {
+            "name": "奥莱什基",
+            "lat": 46.62,
+            "lon": 32.72
+          },
+          "domain": "diplomacy"
+        },
+        {
+          "text": "Militarnyi 与 ISW 指出俄军已列装两种基于“天竺葵-5”的小型巡航导弹改型，机身与尾翼重设计，目标最大速度约 900 km/h，接近 Kh-101 量级，意在以更低成本扩大难拦截的喷气式打击弹药。俄方当夜向乌克兰发射约 126 架各类无人机与诱饵。",
+          "sourceNote": "ISW citing Militarnyi",
+          "links": [
+            {
+              "name": "ISW 10/24",
+              "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-24-2026/"
+            },
+            {
+              "name": "Militarnyi",
+              "url": "https://militarnyi.com/uk/news/shho-vidomo-pro-novi-versiyi-geran-5/"
+            }
+          ],
+          "tierText": "二档专业解读",
+          "location": {
+            "name": "俄罗斯",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "劳伦斯·弗里德曼撰文称，乌克兰对美情报与部分独特能力仍高度依赖，而特朗普近周的柴油解禁、星盾限速与“能源停火”口头宣告加剧了基辅对美政策不稳的担忧；米克·瑞安同期周报亦盘点星盾/爱国者延迟与“维瓦尔第”作战初步启示（其文截稿时星盾尚未完全恢复）。",
+          "sourceNote": "Freedman; Mick Ryan",
+          "links": [
+            {
+              "name": "Freedman",
+              "url": "https://samf.substack.com/p/ukraine-with-or-without-trump"
+            },
+            {
+              "name": "Mick Ryan",
+              "url": "https://mickryan.substack.com/p/communications-slowdowns-seven-vivaldi"
+            }
+          ],
+          "tierText": "三档有立场（亲乌/政策评论）",
+          "location": null,
+          "domain": "diplomacy"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部：截至 10月25日 6 时（UTC+8），台湾周边侦获共军舰 5 艘、公务船 8 艘，未侦获共机。日本统合幕僚监部公布：10月23日在南海实施日美菲海上协同活动（MCA）——海自护卫舰“雾雨”、美海岸警卫队大型巡逻舰“伯索夫”、菲海军护卫舰“米格尔·马尔瓦尔”及菲空军 C-208B/FA-50/A-29B、菲海巡“加芙列拉·西朗”参训，强调航行与飞越自由及《联合国海洋法公约》。",
+          "sourceNote": "Taiwan MND （X）; Japan Joint Staff PDF",
+          "links": [
+            {
+              "name": "台湾国防部",
+              "url": "https://x.com/MoNDefense/status/2114160014898483233"
+            },
+            {
+              "name": "统合幕僚监部 PDF",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261025_02.pdf"
+            },
+            {
+              "name": "JapanJointStaff",
+              "url": "https://x.com/JapanJointStaff/status/2114144916360348132"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "台湾周边",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "AMTI 转发台海巡说法：中方正以民兵船、海警船与科考船协同，把“战场准备”向西太平洋延伸，加大台、日、菲的监视与反应负担；另有特朗普—习近平会晤前南海灰区压力的政策评论。",
+          "sourceNote": "CSIS AMTI （X）",
+          "links": [
+            {
+              "name": "战场准备",
+              "url": "https://x.com/AsiaMTI/status/2113835372245295393"
+            },
+            {
+              "name": "Pretat 评论",
+              "url": "https://x.com/AsiaMTI/status/2113948634911785018"
+            }
+          ],
+          "tierText": "一档事实（海巡表态）+ 二档解读",
+          "location": null,
+          "domain": "sea"
+        },
+        {
+          "text": "Alex Luck 贴出珠江上游广州黄埔附近新近下水的解放军辅助船清晰照片，认为可打消此前影像为 AI 生成的猜测；该船被外界怀疑为第二艘潜航器母舰型辅助船。另有阿穆尔船厂下水“守护”级（20380）护卫舰“格罗兹内”。",
+          "sourceNote": "Alex Luck （X）",
+          "links": [
+            {
+              "name": "广州辅助船",
+              "url": "https://x.com/AlexLuck9/status/2114159225568145666"
+            }
+          ],
+          "tierText": "四档仅线索（开源影像，用途未官方确认）",
+          "location": {
+            "name": "广州",
+            "lat": 23.1,
+            "lon": 113.45
+          },
+          "domain": "sea"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "ISW/CTP：美国国家情报总监杰伊·克莱顿 10月23日致函国务卿鲁比奥，称美方评估伊朗已进入对美区域目标攻击的“晚期筹划”，对美人员威胁处于 2026年2月美以伊开战以来最高水平；美已开始削减部分中东外交人员。伊朗同时威胁若美以再开打将扩大目标清单，并曾在 10月11日前后密集试射固体中程弹道导弹。",
+          "sourceNote": "ISW Iran Update",
+          "links": [
+            {
+              "name": "ISW 10/24",
+              "url": "https://understandingwar.org/research/middle-east/iran-update-october-24-2026/"
+            }
+          ],
+          "tierText": "一档事实（DNI 备忘录/媒体引述）+ 二档解读",
+          "location": {
+            "name": "伊朗",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "domain": "diplomacy"
+        },
+        {
+          "text": "胡塞武装继续对沙特施加经济与政治成本：沙特联合部队司令部称 10月23–24日在利雅得、延布、塔伊夫、麦加、麦地那等地拦截弹道导弹与无人机；胡塞宣称打击利雅得、达曼、纳季兰机场及延布阿美设施、拉比格炼厂与东西向管道泵站，并弹道导弹打击亚丁海警设施。",
+          "sourceNote": "ISW Iran Update",
+          "links": [
+            {
+              "name": "ISW 10/24",
+              "url": "https://understandingwar.org/research/middle-east/iran-update-october-24-2026/"
+            }
+          ],
+          "tierText": "一档事实（沙特拦截通报）+ 三档（胡塞战报）",
+          "location": {
+            "name": "利雅得",
+            "lat": 24.71,
+            "lon": 46.68
+          },
+          "domain": "missile"
+        },
+        {
+          "text": "X 新闻汇总：伊拉克官员怀疑以色列空袭巴格达东运河附近仓库，销毁刚运抵、拟供伊朗支持民兵的中制便携防空导弹；另有路透社援引伊朗官员称若再遭打击将攻击霍尔木兹海峡海底光缆。IRGC 以“见证者”无人机打击伊拉克库区科马拉营地。",
+          "sourceNote": "X News",
+          "links": [
+            {
+              "name": "MANPADS 话题",
+              "url": "https://x.com/i/trending/2114082069026402793"
+            },
+            {
+              "name": "海缆话题",
+              "url": "https://x.com/i/trending/2113987136365965483"
+            }
+          ],
+          "tierText": "二至四档（二手汇总，待主报核实）",
+          "location": {
+            "name": "巴格达",
+            "lat": 33.31,
+            "lon": 44.37
+          },
+          "domain": "air"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "《The Insider》与 Euromaidan Press：卧底记者向中国星凯（Xingkai）订购 500 套 XK F-359 网格调制解调器，对方开具约 1950 万元人民币（约 287 万美元）发票并接受运往俄阿拉布加无人机厂、不反对军用用途；星凯负责人称关键芯片来自 AMD，AMD 否认对该公司有任何销售。调查估计该公司约占俄高功率网格调制解调器供应的一半，用于“天竺葵/天竺葵花”等远程无人机中继。",
+          "sourceNote": "Euromaidan Press",
+          "links": [
+            {
+              "name": "报道",
+              "url": "https://euromaidanpress.com/2026/10/23/a-modem-from-a-russian-drone-led-reporters-to-its-chinese-maker-which-invoiced-500-for-russias-drone-plant/"
+            },
+            {
+              "name": "Bendett",
+              "url": "https://x.com/sambendett/status/2114106657785708872"
+            }
+          ],
+          "tierText": "一档事实（发票与对话）",
+          "location": null,
+          "domain": "industry"
+        },
+        {
+          "text": "COMSPOC 发布更细的轨道分析：宇宙-2612（SSC 68762）逐步接近为乌军供图的 ICEYE-X36（SSC 59103）；McDowell 转发称其掌握他本人没有的跟踪数据。此为昨日 Defense News 报道的后续。",
+          "sourceNote": "Jonathan McDowell",
+          "links": [
+            {
+              "name": "McDowell",
+              "url": "https://x.com/planet4589/status/2114106168691798229"
+            }
+          ],
+          "tierText": "一档事实（商业/专业 SSA）",
+          "location": null,
+          "domain": "space"
+        },
+        {
+          "text": "圣迭戈的“平克尼”号（DDG 91）进入 DDG MOD 2.0 第二阶段，在通用动力 NASSCO 船坞加装雷神 AN/SPY-6(V)4 雷达与宙斯盾 Baseline 10，合同约 1.496 亿美元，预计 2028年9月完工；四艘试验舰之后将改为一次进坞同时完成电子战与雷达升级。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization/"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "圣迭戈",
+            "offMap": "us"
+          },
+          "domain": "sea"
+        },
+        {
+          "text": "希腊海军与以色列海军在克里特以北海域完成 SPIKE NLOS / SPIKE ER 验收射击，从“马希蒂斯”级巡逻舰与 Mark V 特种艇发射，并以 214 型潜艇鱼雷击沉退役护卫舰“布布利娜”作靶；背景是东地中海土以紧张与希以防务靠近。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-conducts-inaugural-spike-missile-firings-during-joint-drills-with-israel/"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "克里特以北",
+            "lat": 35.8,
+            "lon": 25.0
+          },
+          "domain": "sea"
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "items": [
+        {
+          "text": "日本统合幕僚监部另发石垣市台风停电后的陆自入浴与运输灾害派遣通报（地方救灾，非作战）。",
+          "links": [
+            {
+              "name": "PDF",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261025_01.pdf"
+            }
+          ],
+          "tierText": "一档事实",
+          "location": {
+            "name": "石垣",
+            "lat": 24.34,
+            "lon": 124.16
+          },
+          "domain": "land"
+        },
+        {
+          "text": "HUR 称俄国防工业 2026 年 Kometa 抗干扰天线阵列订单已远超 10 万套，16 通道型号规模部署（Hardie 帖，边界昨日/今日）。",
+          "links": [
+            {
+              "name": "John Hardie",
+              "url": "https://x.com/JohnH105/status/2113736941338280045"
+            }
+          ],
+          "tierText": "二档（情报机构口径）",
+          "location": {
+            "name": "俄罗斯",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "domain": "industry"
+        },
+        {
+          "text": "TWZ 周末“Bunker Talk”回顾本周未单列深挖的议题。",
+          "links": [
+            {
+              "name": "原文",
+              "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-212"
+            }
+          ],
+          "tierText": "三档",
+          "location": null
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "星盾限速解除降低了短期“单一供应商中断”的尾部风险，但马斯克指控与白名单争议说明军用低轨通信的服务条款与终端管控仍是政策风险；乌克兰对 ICEYE/诺基亚主权星座的意向更显“去单一供应商化”订单逻辑。",
+    "俄远程无人机网格调制解调器供应链曝光（星凯/阿拉布加）强化出口管制、替代射频芯片与反中继电子战需求；AMD 否认供货也提示“平行进口/中间商”合规尽职调查空间。",
+    "美驱逐舰 SPY-6 / Baseline 10 现代化进入实船第二阶段，利好舰载有源相控阵、电子战与舰船改装产能；希腊 SPIKE 海射验收则利好岸海一体精确打击弹药与轻型艇载荷。",
+    "伊朗对美人员威胁升级与胡塞对沙特能源节点打击，继续支撑中东防空反导拦截弹消耗与关键基础设施防护订单。",
+    "解放军疑似无人潜航母舰辅助船续建，叠加美日菲 MCA，指向水下无人系统、母舰集成与印太水下感知投入上升。"
+  ]
+}
