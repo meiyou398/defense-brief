@@ -1,7 +1,8 @@
 {
   "date": "2026-10-28",
+  "publishedAt": "2026-10-28T09:30:00+08:00",
   "coverage": "约 10月27日上午至 10月28日上午（UTC+8）",
-  "summary": "普京与芬兰、挪威领导人通话，重申「根源问题」须先解决；俄乌在赫尔松州阿列什基开始局部人道停火，基辅南桥遭弹道导弹打击。中东方面，美军航母和两栖戒备群继续向中央司令部集结，11月可能形成三航母、两两栖群的态势。产业侧，美国防情报局（DIA）太空威胁报告称中国侦察卫星自2018年增至三倍，并公开中国空天飞机高清图像；美军选定波兰建 PAC-3 拦截弹维修中心，韩华收购费城船厂控股权。",
+  "summary": "本期按扩充后的一档信源重构：普京与芬兰、挪威领导人通话重申「根源问题」，俄乌在阿列什基开始局部人道停火；日本统合幕僚监部连发通报确认中国海军055型等编队经冲绳—宫古间和经大隅海峡进入太平洋，并发现BZK-005侦察无人机过航。产业侧，美国防情报局（DIA）报告称中国ISR卫星自2018年增至三倍、超510颗，安德鲁·琼斯（@AJ_FI）同步放出空天飞机图像；美国防部选定波兰建PAC-3维修中心，空军推进ARRW量产合同，战略资本办公室向Stoke Space提供1.5亿美元有条件贷款；英国国防部宣布牵头AUKUS水下传感器载荷，并与波兰签署华沙防务计划。",
   "highlights": [
     {
       "lead": "根源问题",
@@ -9,14 +10,19 @@
       "item": 1
     },
     {
-      "lead": "基辅南桥",
-      "text": "俄军弹道导弹击中南桥，大桥封闭、地铁区段停运。",
-      "item": 2
+      "lead": "宫古水道",
+      "text": "055型等中国舰艇与BZK-005无人机经冲绳—宫古间入太平洋。",
+      "item": 5
     },
     {
-      "lead": "宫古水道",
-      "text": "055 型等中国舰艇编队经冲绳—宫古间驶入太平洋。",
-      "item": 5
+      "lead": "PAC-3维修",
+      "text": "美国防部正式选定波兰建欧洲首个PAC-3维修中心。",
+      "item": 3
+    },
+    {
+      "lead": "DIA报告",
+      "text": "中国ISR卫星自2018年增至三倍，超过510颗。",
+      "item": 10
     },
     {
       "lead": "航母集结",
@@ -24,22 +30,17 @@
       "item": 9
     },
     {
-      "lead": "DIA 报告",
-      "text": "中国 ISR 卫星自2018年增至三倍，超过510颗。",
+      "lead": "ARRW量产",
+      "text": "空军向洛马授予约6.94亿美元ARRW生产合同。",
       "item": 11
-    },
-    {
-      "lead": "PAC-3 维修",
-      "text": "美国防部选定波兰建欧洲首个 PAC-3 维修中心。",
-      "item": 3
     }
   ],
   "stats": [
     {
       "value": "510",
       "unit": "颗+",
-      "label": "中国 ISR 卫星",
-      "item": 11
+      "label": "中国ISR卫星",
+      "item": 10
     },
     {
       "value": "280",
@@ -48,48 +49,52 @@
       "item": 1
     },
     {
-      "value": "1000",
-      "unit": "公里",
-      "label": "PrSM 增量4射程目标",
+      "value": "694",
+      "unit": "百万美元",
+      "label": "ARRW生产合同",
+      "item": 11
+    },
+    {
+      "value": "150",
+      "unit": "百万美元",
+      "label": "Stoke Space贷款",
       "item": 12
     },
     {
       "value": "20,787",
       "unit": "辆",
-      "label": "陆军 ISV 估计需求",
-      "item": 14
-    },
-    {
-      "value": "1600",
-      "unit": "%+",
-      "label": "印度弹药出口增幅",
-      "item": 15
+      "label": "陆军ISV估计需求",
+      "item": 13
     }
   ],
   "featured": [
-    11,
-    5
+    5,
+    10
   ],
   "sections": [
     {
       "title": "俄乌 / 欧洲",
       "items": [
         {
-          "text": "ISW 10月27日评估：普京在与芬兰总统斯图布、挪威首相斯特勒的通话中重申对乌老要求，称北约扩张是战争「根源」之一，且须作为任何和谈的前提先行解决。同日俄乌在被占的赫尔松州阿列什基开始局部停火，以便运送人道物资和撤离平民，目前双方据称均在遵守；当夜俄军发射数量不详的伊斯坎德尔-M/S-400 弹道导弹和280架无人机，双方当日均无推进。芬兰分析员 Kastehelmi 认为，这次通话更像是处境被动一方的应激之举，反映乌克兰及其支持国对即将到来的若干威胁情景缺乏明确对策。",
-          "sourceNote": "ISW；@emilkastehelmi",
+          "text": "ISW 10月27日评估：普京在与芬兰总统斯图布、挪威首相斯特勒的通话中重申对乌长期要求，称北约扩张是战争「根源」之一，且须作为任何和谈的前提先行解决；克里姆林宫口径下的「根源」还包括在乌扶植傀儡政权、要求1997年后入约的北约成员「回退」。同日俄乌在被占的赫尔松州阿列什基开始局部停火，以便运送人道物资和撤离平民，目前双方据称均在遵守；当夜俄军发射数量不详的伊斯坎德尔-M/S-400弹道导弹和280架无人机，双方当日均无推进。",
+          "sourceNote": "ISW",
           "links": [
             {
               "name": "ISW",
               "url": "https://x.com/TheStudyofWar/status/2115217674657583538"
             },
             {
-              "name": "@emilkastehelmi",
-              "url": "https://x.com/emilkastehelmi/status/2115171551775436832"
+              "name": "原文",
+              "url": "https://x.com/TheStudyofWar/status/2115284969337618512"
             }
           ],
           "tierText": "二档专业解读（ISW 有明确政策立场）",
           "domain": "diplomacy",
-          "location": null,
+          "location": {
+            "name": "芬兰（示意）",
+            "lat": 60.17,
+            "lon": 24.94
+          },
           "headline": "普京称北约扩张是「根源」，阿列什基局部停火"
         },
         {
@@ -108,47 +113,51 @@
           "tierText": "一档事实（市政当局照片）",
           "domain": "missile",
           "location": {
-            "name": "基辅（城市级示意）",
+            "name": "基辅（示意）",
             "lat": 50.45,
             "lon": 30.52
           },
           "headline": "俄军弹道导弹击中基辅南桥"
         },
         {
-          "text": "美国防部宣布在波兰建设欧洲首个 PAC-3 拦截弹维修、修理和大修（MRO）中心，与洛马合作，德国、荷兰、瑞典参与供应链整合，目的是缩短「爱国者」拦截弹周转时间、为北约东翼提供危机时的激增能力。",
-          "sourceNote": "Breaking Defense；Defense News",
+          "text": "美国防部（现称战争部）在北约国家军备局长会议间隙宣布：选定波兰建设欧洲首个PAC-3拦截弹维修、修理和大修（MRO）中心，与洛马合作，德国、荷兰、瑞典参与供应链整合，目的是缩短「爱国者」拦截弹周转时间、强化跨大西洋负担分担。波兰总理图斯克称该国为此与多个竞争者角逐。",
+          "sourceNote": "美国防部/战争部 War.gov；Defense News",
           "links": [
             {
-              "name": "Breaking Defense",
-              "url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/"
+              "name": "美国防部/战争部 War.gov",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4634407/poland-selected-to-host-historic-pac-3-missile-maintenance-facility-strengtheni/"
             },
             {
               "name": "Defense News",
               "url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/"
             }
           ],
-          "tierText": "一档事实（官方公告）",
-          "domain": "industry",
+          "tierText": "一档事实（官方公告；war.gov HTML 本机403，按 RSS 摘要）",
+          "domain": "missile",
           "location": {
-            "name": "波兰（国家级示意）",
+            "name": "波兰（示意）",
             "lat": 52.23,
             "lon": 21.01
           },
-          "headline": "美国防部选定波兰建 PAC-3 维修中心"
+          "headline": "美国防部选定波兰建PAC-3维修中心"
         },
         {
-          "text": "乌克兰专用伤员后送无人机 StarGate 据称一周内完成两次战场后送，其中一次在电子干扰下进行；因 FPV 无人机封锁使地面车辆无法抵达伤员，空中后送成为唯一选择。",
-          "sourceNote": "The War Zone",
+          "text": "英国国防部宣布与波兰签署「华沙防务计划」，作为两国新安保与防务伙伴关系条约的第一阶段：合作范围覆盖海陆空、网络与太空，包括下一代防空导弹的研发制造、网络安全与韧性，以及BAE与波兰PGZ扩大大口径弹药产能；双方还将继续参加「坚定防御者」等大规模演习，并筹备下月在波兰举行的「意愿联盟」演练。",
+          "sourceNote": "英国国防部 UK MoD",
           "links": [
             {
-              "name": "The War Zone",
-              "url": "https://www.twz.com/air/ukraines-stargate-drone-now-evacuating-wounded-soldiers"
+              "name": "英国国防部 UK MoD",
+              "url": "https://www.gov.uk/government/news/uk-and-poland-strengthen-defences-on-europes-eastern-flank--2"
             }
           ],
-          "tierText": "二档专业解读（任务数据为乌方部队宣称）",
-          "domain": "air",
-          "location": null,
-          "headline": "乌克兰伤员后送无人机 StarGate 一周两次出勤"
+          "tierText": "一档事实（官方公告）",
+          "domain": "space",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英波签署华沙防务计划，扩防空与弹药合作"
         }
       ]
     },
@@ -156,12 +165,28 @@
       "title": "中国 / 印太 / 台海",
       "items": [
         {
-          "text": "日本统合幕僚监部10月27–28日连发通报：中国海军旅洋III、江凯II 编队，以及一艘仁海级（Renhai，055型）驱逐舰与福池级补给舰编队，先后经冲绳本岛—宫古岛之间向东南驶入太平洋，另有两艘江凯II 同样通过；同期还有中国运-9 飞经冲绳—宫古间。台湾国防部称截至28日早6时，台湾周边侦获共机6架次、共舰7艘、公务船1艘。",
+          "text": "日本统合幕僚监部10月27–28日连发通报（含舰艇舷号）：27日上午确认中国海军仁海级（055型）导弹驱逐舰「102」与福池级补给舰「903」在宫古岛东北约140公里海域向东南航行，后经冲绳本岛—宫古岛间驶入太平洋；同期确认旅洋III「117」与江凯II「546」自久米岛西约70公里南下后同样经宫古水道入太平洋；另有运-9情报收集机×1经宫古水道往返太平洋至奄美大岛附近。28日通报：27日确认仁海级「109」、旅洋III「133」、江凯II「530」及中国海警船「2307」经大隅海峡东进入太平洋；28日当天确认BZK-005侦察无人机×1与运-9情报收集机×1经宫古水道往返太平洋，另有运-9哨戒机在男女群岛西南至冲绳西北一带活动，航空自卫队战斗机紧急升空应对。台湾国防部称截至28日早6时，台湾周边侦获共机6架次、共舰7艘、公务船1艘。",
           "sourceNote": "日本统合幕僚监部 Japan Joint Staff；台湾国防部 Taiwan MND",
           "links": [
             {
               "name": "日本统合幕僚监部 Japan Joint Staff",
-              "url": "https://www.mod.go.jp/js/press/index.html"
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261027_01.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261027_02.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261027_03.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261028_01.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261028_03.pdf"
             },
             {
               "name": "台湾国防部 Taiwan MND",
@@ -169,16 +194,46 @@
             }
           ],
           "tierText": "一档事实（官方通报）/ 台方数据为官方口径",
-          "domain": "sea",
+          "domain": "missile",
           "location": {
-            "name": "冲绳—宫古之间（区域示意）",
-            "lat": 25.5,
-            "lon": 126.5
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
           },
-          "headline": "中国海军编队经冲绳—宫古间进入太平洋"
+          "headline": "中国海军055型等编队经宫古水道和大隅海峡入太平洋"
         },
         {
-          "text": "美陆军第7步兵师/太平洋多域司令部（MDC-P）司令哈林顿少将表示，正研究用高空气球搭载侦察、通信中继和「发射效应器」（可投放的无人机/弹药），在第一岛链对中国反介入/区域拒止网络打开「机会窗口」，看重其成本低、信号特征小、可分散部署。",
+          "text": "美国战争部长赫格塞思在菲律宾分别会见日本防卫大臣小泉进次郎、澳大利亚副总理兼国防部长马尔斯、菲律宾国防部长特奥多罗、印度国防部长拉吉纳特·辛格和新加坡国防部长陈振声，重申美日同盟、美澳同盟及与菲、印、新的防务合作；窗口前缘还宣布弗吉尼亚级攻击核潜艇「科罗拉多」号（SSN-788）将于2027年末起作为西太潜艇轮换部队（SRF-West）的首艘美军潜艇。ISW 中国/台湾更新另指出，辽宁舰10月22日曾航行至菲律宾群岛内的巴西兰海峡附近。",
+          "sourceNote": "美国防部/战争部 War.gov；ISW",
+          "links": [
+            {
+              "name": "美国防部/战争部 War.gov",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4635148/readout-of-secretary-of-war-pete-hegseths-meeting-with-japanese-minister-of-def/"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4635164/readout-of-secretary-of-war-pete-hegseths-meeting-with-australian-deputy-prime/"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4633244/joint-statement-uss-colorado-ssn-788-announced-as-first-submarine-for-submarine/"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2115148778470621647"
+            }
+          ],
+          "tierText": "一档事实（官方会谈摘要）",
+          "domain": "missile",
+          "location": {
+            "name": "菲律宾（示意）",
+            "lat": 14.6,
+            "lon": 120.98
+          },
+          "headline": "赫格塞思在菲会晤日澳菲印新防长"
+        },
+        {
+          "text": "美陆军第7步兵师/太平洋多域司令部（MDC-P）司令哈林顿少将表示，正研究用高空气球搭载侦察、通信中继和「发射效应器」（可投放的无人机/弹药），在第一岛链对中国反介入/区域拒止网络打开「机会窗口」，看重其成本低、信号特征小、可分散部署；该司令部刚在「刺刀探索26」演习中测试了气球与无人系统的协同。",
           "sourceNote": "Defense News",
           "links": [
             {
@@ -190,24 +245,6 @@
           "domain": "air",
           "location": null,
           "headline": "美陆军研究在第一岛链部署高空气球"
-        },
-        {
-          "text": "日本10月26日发布《2026年防卫白皮书》，USNI News 刊出英文全译本；开篇将国际环境定性为「战后最严峻的考验」。",
-          "sourceNote": "USNI News",
-          "links": [
-            {
-              "name": "USNI News",
-              "url": "https://news.usni.org/2026/10/27/japans-2026-defense-white-paper"
-            }
-          ],
-          "tierText": "一档事实（官方文件；本次网页403，按 RSS 摘要）",
-          "domain": "diplomacy",
-          "location": {
-            "name": "日本（国家级示意）",
-            "lat": 35.68,
-            "lon": 139.69
-          },
-          "headline": "日本发布《2026年防卫白皮书》"
         }
       ]
     },
@@ -215,54 +252,48 @@
       "title": "中东 / 导弹 / 核",
       "items": [
         {
-          "text": "ISW 伊朗更新：伊朗可能借与沙特、巴基斯坦、土耳其的德黑兰会议，施压三国帮助促成符合伊方目标的美伊协议，并把美国塑造为问题根源；伊朗支持的伊拉克民兵10月27日几乎可以肯定用两架无人机侦察了美驻巴格达使馆，以威慑美方打击伊朗；埃及议会26日批准向沙特提供「纯防御性」军援后，胡塞武装试图加以威慑。",
+          "text": "ISW 伊朗更新：伊朗可能借与沙特、巴基斯坦、土耳其的德黑兰会议，施压三国帮助促成符合伊方目标的美伊协议，并把美国塑造为问题根源；伊朗支持的伊拉克民兵10月27日几乎可以肯定用两架无人机侦察了美驻巴格达使馆，以威慑美方打击伊朗；埃及议会26日批准向沙特提供「纯防御性」军援后，胡塞武装试图加以威慑。ISW另称胡塞宣称27日打击沙特一座大型炼油厂，但当时无法核实。",
           "sourceNote": "ISW",
           "links": [
             {
               "name": "ISW",
               "url": "https://x.com/TheStudyofWar/status/2115239559294287955"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/TheStudyofWar/status/2115291749576814857"
             }
           ],
-          "tierText": "二档专业解读（ISW 有明确政策立场）",
-          "domain": "diplomacy",
-          "location": null,
+          "tierText": "二档专业解读（ISW 有明确政策立场；胡塞炼厂宣称未核实）",
+          "domain": "air",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
           "headline": "ISW：伊朗借德黑兰会议施压沙巴土三国"
         },
         {
-          "text": "TWZ 航母追踪：「马金岛」号两栖戒备群抵横须贺，比「罗斯福」号航母打击群晚一周；两名美国官员向福克斯新闻证实两者都将前往中东，若无编队提前离开，11月中央司令部辖区将有三个航母打击群和两个两栖戒备群，另有十余艘驱逐舰独立行动。同期「里根」号首次远程操控数千英里外的 MQ-25A 无人加油机。",
-          "sourceNote": "The War Zone",
+          "text": "TWZ 航母追踪：「马金岛」号两栖戒备群抵横须贺，比「罗斯福」号航母打击群晚一周；两名美国官员向福克斯新闻证实两者都将前往中东，若无编队提前离开，11月中央司令部辖区将有三个航母打击群和两个两栖戒备群，另有十余艘驱逐舰独立行动。南海战略态势感知计划（@SCS_PI）亦以航迹图确认「马金岛」号及其两栖戒备群10月26日抵横须贺。同期「里根」号首次远程操控数千英里外的MQ-25A无人加油机。",
+          "sourceNote": "The War Zone；南海战略态势感知计划 SCSPI",
           "links": [
             {
               "name": "The War Zone",
               "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-october-27-2026"
+            },
+            {
+              "name": "南海战略态势感知计划 SCSPI",
+              "url": "https://x.com/SCS_PI/status/2114598032344039503"
             }
           ],
-          "tierText": "二档专业解读（部署去向为匿名官员说法）",
+          "tierText": "二档专业解读（部署去向为匿名官员说法；SCSPI 航迹可作一档图像/航迹）",
           "domain": "sea",
           "location": {
-            "name": "横须贺",
+            "name": "横须贺（示意）",
             "lat": 35.28,
             "lon": 139.67
           },
           "headline": "三个航母群、两个两栖群或11月齐聚中东"
-        },
-        {
-          "text": "据 Naval News，10月中旬一艘法国军舰在曼德海峡拦截了一枚在比利时猎雷舰「报春花」号（BNS Primula）附近发射的弹道导弹，被认为来自胡塞武装，显示该水域对军舰的威胁仍在。",
-          "sourceNote": "Naval News",
-          "links": [
-            {
-              "name": "Naval News",
-              "url": "https://www.navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb/"
-            }
-          ],
-          "tierText": "二档专业解读（「据报道」，归属为推断）",
-          "domain": "missile",
-          "location": {
-            "name": "曼德海峡（区域示意）",
-            "lat": 12.58333,
-            "lon": 43.41667
-          },
-          "headline": "法舰在曼德海峡拦截弹道导弹"
         }
       ]
     },
@@ -270,8 +301,8 @@
       "title": "太空 / 无人机 / 国防产业",
       "items": [
         {
-          "text": "美国防情报局（DIA）发布《2026年太空安全挑战》报告：中国情报、监视、侦察（ISR）卫星自2018年以来增至三倍，截至7月超过510颗，涵盖光学、合成孔径雷达和电子/信号情报卫星，可支撑对印太美军及盟军的远程打击「杀伤链」。报告还首次公开一张 Maxar 拍摄（2024年版权）的中国可重复使用空天飞机高清图像，外形与美 X-37B 几乎相同，但机翼弦长明显更长。",
-          "sourceNote": "Breaking Defense；The War Zone",
+          "text": "美国防情报局（DIA）发布《2026年太空安全挑战》报告：中国情报、监视、侦察（ISR）卫星自2018年以来增至三倍，超过510颗，涵盖光学、合成孔径雷达和电子/信号情报卫星，可支撑对印太美军及盟军的远程打击「杀伤链」（报告注明统计含军民两用卫星）。报告还公开一张Maxar（现Vantor）WorldView-3于2024年5月28日拍摄的中国可重复使用空天飞机在轨高清图像，外形与美X-37B相近但机翼弦长明显更长；SpaceNews的安德鲁·琼斯（@AJ_FI）同步转发了该图像。",
+          "sourceNote": "Breaking Defense；The War Zone；@AJ_FI",
           "links": [
             {
               "name": "Breaking Defense",
@@ -280,49 +311,59 @@
             {
               "name": "The War Zone",
               "url": "https://www.twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane"
+            },
+            {
+              "name": "@AJ_FI",
+              "url": "https://x.com/AJ_FI/status/2115093594260349180"
             }
           ],
-          "tierText": "一档事实（官方报告）",
+          "tierText": "一档事实（官方报告；图像由AJ_FI同步）",
           "domain": "space",
           "location": null,
-          "headline": "DIA：中国 ISR 卫星超510颗，空天飞机图像曝光"
+          "headline": "DIA：中国ISR卫星超510颗，空天飞机图像曝光"
         },
         {
-          "text": "洛马展示「精确打击导弹」（PrSM）增量4原型弹：采用冲压发动机和新型传感器组，目标是打击1000公里以外的移动舰船。",
-          "sourceNote": "Naval News",
+          "text": "美国空军宣布向洛马授予约6.94亿美元合同，用于「空射快速响应武器」（ARRW / AGM-183A）的生产与列装，标志着该高超音速导弹从原型试飞转入量产；合同于9月下旬签署，将为B-52、B-1等轰炸机提供突防反介入体系的高速打击手段。",
+          "sourceNote": "美国空军 AF.mil；Defense News",
           "links": [
             {
-              "name": "Naval News",
-              "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/"
+              "name": "美国空军 AF.mil",
+              "url": "https://www.af.mil/News/Article-Display/Article/4633841/daf-awards-arrw-production-contract-establishes-new-hypersonic-capabilities/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/"
             }
           ],
-          "tierText": "一档事实（展示本身）；性能为厂商宣称",
+          "tierText": "一档事实（官方合同公告；af.mil HTML 本机403，按 RSS）",
           "domain": "missile",
-          "location": {
-            "name": "美国本土",
-            "offMap": "us"
-          },
-          "headline": "洛马展示 1000 公里级 PrSM 增量4原型弹"
+          "location": null,
+          "headline": "空军向洛马授予约6.94亿美元ARRW生产合同"
         },
         {
-          "text": "韩华防务美国公司（HDUSA）宣布收购韩华费城船厂控股权，把船厂纳入其管理和治理体系，以加强在美国造船与防务市场的布局。",
-          "sourceNote": "Naval News（韩华新闻稿）",
+          "text": "美国战争部战略资本办公室（OSC）宣布向美国商业航天公司Stoke Space Technologies提供1.5亿美元有条件贷款承诺，用于发展全可重复使用火箭，以提供低成本、高频率的入轨能力。同日前后英国国防部宣布：在AUKUS支柱二框架下，英方将牵头为无人潜航器研制三型水下传感器载荷（合成孔径声呐、可投放反潜传感器、可投放非动能效应载荷），目标2027年起在三国无人潜航器舰队上列装；相关测试刚在圣迭戈「Maritime Big Play」演习中完成。",
+          "sourceNote": "美国防部/战争部 War.gov；英国国防部 UK MoD",
           "links": [
             {
-              "name": "Naval News",
-              "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard/"
+              "name": "美国防部/战争部 War.gov",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4633729/department-of-wars-office-of-strategic-capital-signs-150-million-conditional-lo/"
+            },
+            {
+              "name": "英国国防部 UK MoD",
+              "url": "https://www.gov.uk/government/news/uk-sets-pace-on-new-undersea-sensors-to-detect-threats-as-aukus-partners-test-advanced-kit-in-san-diego"
             }
           ],
-          "tierText": "一档事实",
-          "domain": "industry",
+          "tierText": "一档事实（官方公告）",
+          "domain": "space",
           "location": {
-            "name": "费城船厂",
-            "offMap": "us"
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
           },
-          "headline": "韩华防务美国公司收购费城船厂控股权"
+          "headline": "Stoke获OSC贷款，英牵头AUKUS水下载荷"
         },
         {
-          "text": "美陆军发布市场调查，询问工业界能否交付和保障近2.1万辆步兵班组车（ISV）：总需求估计20,787辆（9,003辆 ISV-9 和11,784辆 ISV-U），视经费及其他军种和对外军售需求而定。ISV 由通用汽车防务公司基于雪佛兰 Colorado/Silverado 皮卡改制，陆军10月12日已把订单从最初649辆扩大到近1.2万辆。",
+          "text": "美陆军发布市场调查，询问工业界能否交付和保障近2.1万辆步兵班组车（ISV）：总需求估计20,787辆（9,003辆ISV-9和11,784辆ISV-U），视经费及其他军种和对外军售需求而定。ISV由通用汽车防务公司基于雪佛兰Colorado/Silverado皮卡改制，陆军10月12日已把订单从最初649辆扩大到近1.2万辆。",
           "sourceNote": "Defense News",
           "links": [
             {
@@ -331,15 +372,12 @@
             }
           ],
           "tierText": "一档事实（官方市场调查）",
-          "domain": "land",
-          "location": {
-            "name": "美国本土",
-            "offMap": "us"
-          },
+          "domain": "industry",
+          "location": null,
           "headline": "美陆军调查近2.1万辆步兵班组车产能"
         },
         {
-          "text": "印度对欧洲弹药出口激增：据彭博援引 Trade Data Monitor 数据，俄乌全面战争后四年印度弹药出口至少8.72亿美元，较此前四年增长逾1600%，主要买家为罗马尼亚、斯洛文尼亚、捷克、斯洛伐克、保加利亚、克罗地亚和波兰；印度国防秘书称欧盟「重新武装欧洲」计划正拉动出口。",
+          "text": "印度对欧洲弹药出口激增：据彭博援引Trade Data Monitor数据，俄乌全面战争后四年印度弹药出口至少8.72亿美元，较此前四年增长逾1600%，主要买家为罗马尼亚、斯洛文尼亚、捷克、斯洛伐克、保加利亚、克罗地亚和波兰；印度国防秘书称欧盟「重新武装欧洲」计划正拉动出口。",
           "sourceNote": "Defense News",
           "links": [
             {
@@ -349,17 +387,21 @@
           ],
           "tierText": "二档专业解读（贸易数据转引）",
           "domain": "industry",
-          "location": null,
+          "location": {
+            "name": "印度（示意）",
+            "lat": 28.61,
+            "lon": 77.21
+          },
           "headline": "印度对欧弹药出口四年增逾1600%"
         }
       ]
     }
   ],
   "invest": [
-    "拦截弹的「后市场」开始成形：波兰 PAC-3 维修中心意味着欧洲不仅买弹，还要建本地维修和供应链能力，利好拦截弹 MRO、导引头/固体发动机维修及当地配套企业。",
-    "太空感知竞争加速：DIA 报告确认中国 ISR 卫星超510颗、三倍增长，美方「打掉对手杀伤链」的需求会持续推高对天基传感器、太空态势感知（SSA）和反太空能力的投入。",
-    "美国造船资本化：韩华控股费城船厂，加上近期各国护卫舰方案竞逐美海军项目，外资船企进入美国造船的路径更清晰。",
-    "远程反舰与高超音速：PrSM 增量4（冲压、1000公里）与前日 ARRW 量产合同一起，指向冲压发动机、耐热材料和反舰导引头的需求。",
-    "弹药供应多元化：印度弹药对欧出口暴增，欧洲产能缺口仍在，弹药、推进剂和炸药是持续性机会。"
+    "拦截弹「后市场」成形：波兰PAC-3维修中心加上英波弹药扩产，说明欧洲不仅买弹，还在建本地维修与产能，利好拦截弹MRO、导引头/固体发动机维修及大口径弹药配套。",
+    "太空感知与可重复使用进入：DIA确认中国ISR卫星超510颗，OSC向Stoke Space提供1.5亿美元贷款，指向天基传感器、太空态势感知、反太空以及可重复使用运载的持续投入。",
+    "高超音速量产落地：ARRW近7亿美元生产合同，把冲压/助推滑翔从试验预算推到列装订单。",
+    "AUKUS水下传感器：英方牵头三型无人潜航器载荷，利好合成孔径声呐、可投放反潜传感器和无人水下平台供应链。",
+    "弹药与轻型战术车：印度对欧弹药出口暴增，美陆军调查近2.1万辆ISV产能，弹药、推进剂和皮卡改装战术车仍是持续性机会。"
   ]
 }
