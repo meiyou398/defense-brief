@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-29",
+  "publishedAt": "2026-10-29T09:30:00+08:00",
+  "coverage": "约 10月28日上午至 10月29日上午（UTC+8）",
+  "summary": "路透获得的五角大楼数据显示美对伊战争开支已超470亿美元、比7月估算高逾25%，美海军同时承认长期部署将带来「数年」维修积压、2026财年A类事故创十年新高；ISW 称俄罗斯自7月起向胡塞武装提供沙特能源与军事设施卫星图像。印太方面，美海军陆战队MQ-9A无人机分队进驻巴拉望，飞仁爱礁航程减半；日本统合幕僚监部确认俄海军维什尼亚级情报船经对马海峡南下，台湾国防部称29日早6时前共机6架次中5架次进入其防空识别区。产业侧，英国宣布2030年国防开支达GDP 3%并设最高50亿英镑的国防投资通道，美国防情报局警告中国可能在2020年代末部署天基定向能反卫星武器。",
+  "highlights": [
+    {
+      "lead": "伊战账单",
+      "text": "五角大楼数据显示美对伊战争开支超470亿美元，比7月估算高逾25%",
+      "item": 8
+    },
+    {
+      "lead": "俄助胡塞",
+      "text": "ISW称俄自7月起向胡塞提供沙特能源与军事设施卫星图像",
+      "item": 9
+    },
+    {
+      "lead": "死神前推",
+      "text": "陆战队MQ-9A进驻巴拉望，飞仁爱礁航程从400多海里缩至200以内",
+      "item": 5
+    },
+    {
+      "lead": "英国3%",
+      "text": "英国承诺2030年国防开支达GDP 3%，设最高50亿英镑投资通道",
+      "item": 2
+    },
+    {
+      "lead": "天基激光",
+      "text": "DIA警告中国可能在2020年代末部署天基定向能反卫星系统",
+      "item": 12
+    },
+    {
+      "lead": "48小时",
+      "text": "驻韩美军司令：依赖完美卫星通信的装备在半岛撑不过48小时",
+      "item": 7
+    }
+  ],
+  "stats": [
+    {
+      "value": "470",
+      "unit": "亿美元+",
+      "label": "美对伊战争开支",
+      "item": 8
+    },
+    {
+      "value": "60",
+      "unit": "%",
+      "label": "乌拦截天竺葵-4比例",
+      "item": 1
+    },
+    {
+      "value": "5/6",
+      "unit": "架次",
+      "label": "共机进入台防空识别区",
+      "item": 4
+    },
+    {
+      "value": "16",
+      "unit": "起",
+      "label": "美海军航空A类事故",
+      "item": 11
+    },
+    {
+      "value": "2100",
+      "unit": "万美元",
+      "label": "生物制造炸药原料合同",
+      "item": 13
+    }
+  ],
+  "featured": [
+    8,
+    5
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰总参谋部称，过去三个月乌防空拦截了近60%的俄军「天竺葵-4」喷气式攻击无人机，部分来袭中拦截率达80%，F-16、幻影和米格-29战机发挥了重要作用，但未提更先进的「天竺葵-5」拦截率。同日乌防长赫马拉与罗马尼亚新任防长通话，列出急需：防弹道导弹的「爱国者」、防巡航导弹的HAWK和AIM-9，以及击落喷气无人机的F-16弹药；另据乌媒，无人系统部队首任司令苏哈列夫斯基已被任命为乌海军陆战队司令。",
+          "sourceNote": "@RALee85",
+          "links": [
+            {
+              "name": "@RALee85 / Kyiv Independent",
+              "url": "https://x.com/RALee85/status/2115491344227443048"
+            },
+            {
+              "name": "原文",
+              "url": "https://kyivindependent.com/ukraine-intercepting-more-russian-geran-4-jet-powered-drones-general-staff-says/"
+            },
+            {
+              "name": "乌克兰国防部 Ukraine MoD",
+              "url": "https://mod.gov.ua/en/news/ukraine-romania-air-defence-talks-and-f-16-ammunition"
+            },
+            {
+              "name": "@RALee85",
+              "url": "https://x.com/RALee85/status/2115479984815165688"
+            }
+          ],
+          "tierText": "三档有立场（交战方自报拦截率；人事任命为媒体援引消息人士）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌称近六成天竺葵-4被拦截"
+        },
+        {
+          "text": "英国财政大臣希利在预算演讲中宣布：英国国防开支将在2030年达到GDP的3%，近期的《国防投资计划》将「全额」出资，约47亿英镑缺口靠削减其他部门支出填补；明年的支出审查将说明如何在2035年达到北约3.5%目标。预算文件还包括：成立「创新国防融资工作组」，国家财富基金与英国商业银行四年内向国防、军民两用等领域投入最多50亿英镑，与芬兰、波兰、荷兰商谈联合出资采购，并由国防部牵头设立「无人机监管小组」。",
+          "sourceNote": "Breaking Defense；Defense News",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing/"
+            }
+          ],
+          "tierText": "一档事实（政府预算公告，经媒体转述）",
+          "domain": "air",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英国承诺2030年国防开支达GDP 3%"
+        },
+        {
+          "text": "埃塞俄比亚总理阿比宣布，该国已接收12架俄制苏-35多用途战斗机，比合同进度提前一年，协议还包括4个营的S-400防空系统，但交付时间未公布；阿比在莫斯科第三届俄非峰会期间发布了与战机的合影。财务条款和部署地点未披露。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses"
+            }
+          ],
+          "tierText": "一档事实（政府首脑公开宣布，经TWZ转述）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "莫斯科（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "埃塞俄比亚提前接收12架苏-35"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "日本统合幕僚监部10月28日通报：27日正午前后，海上自衛隊在对马东北约80公里海域确认俄海军维什尼亚级情报收集舰（舷号535）向西南航行，27日至28日经对马海峡驶向东海，扫雷艇「平岛」号和P-1巡逻机全程监视。台湾国防部称，截至29日早6时，台湾周边侦获共机6架次、共舰7艘、公务船1艘，其中5架次进入其北部、中部及西南防空识别区。大陆方面官方通报本次未能从本机获取。",
+          "sourceNote": "日本统合幕僚监部 Japan Joint Staff；台湾国防部 Taiwan MND",
+          "links": [
+            {
+              "name": "日本统合幕僚监部 Japan Joint Staff",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261028_02.pdf"
+            },
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://x.com/MoNDefense/status/2115609570412507622"
+            }
+          ],
+          "tierText": "一档事实（官方通报）/ 台方数据为官方口径",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "俄情报船过对马，共机5架次入台空识区"
+        },
+        {
+          "text": "USNI News 据一份后勤文件和Apple地图上的商业卫星图像报道：美海军陆战队第1无人机中队（VMU-1）的MQ-9A「死神」分队正从菲律宾巴拉望公主港的安东尼奥·包蒂斯塔空军基地起降，该基地是《加强防务合作协议》九个指定地点之一，紧邻菲军负责南沙的西部司令部。PLA Tracker 创始人本·刘易斯称，从这里而非吕宋岛巴萨基地起飞，飞往仁爱礁的航程从400多海里缩短到200海里以内，每架次可在目标上空多停留近三小时。",
+          "sourceNote": "USNI News",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield"
+            }
+          ],
+          "tierText": "二档专业解读（文件与卫星图像佐证，官方未公开确认）",
+          "domain": "space",
+          "location": {
+            "name": "菲律宾（示意）",
+            "lat": 14.6,
+            "lon": 120.98
+          },
+          "headline": "美陆战队死神无人机进驻巴拉望"
+        },
+        {
+          "text": "东盟防长扩大会（ADMM-Plus）宿务会场边，日本防卫大臣小泉进次郎与菲律宾防长特奥多罗第五次会谈，同意推进阿武隈级护卫舰（驱逐舰）转让；与越南国防部长潘文江会谈时同意加强合作，包括可能联合研发高速登陆艇；还会见了新加坡防长。印度防长辛格与小泉回顾了海上安全、海军造船和防务工业合作；韩国国防部长官与澳大利亚副总理兼防长马尔斯会谈，同意把合作扩展到先进战力与技术领域，并通报了9月朝鲜地雷爆炸事件和朝俄军事合作。",
+          "sourceNote": "日本防卫省 Japan MOD；印度国防部 India MoD；韩国国防部 ROK MND",
+          "links": [
+            {
+              "name": "日本防卫省 Japan MOD",
+              "url": "https://x.com/ModJapan_en/status/2115444237902971306"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/ModJapan_en/status/2115446271247044746"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/ModJapan_en/status/2115448146709127677"
+            },
+            {
+              "name": "印度国防部 India MoD",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329480&reg=48&lang=1"
+            },
+            {
+              "name": "韩国国防部 ROK MND",
+              "url": "https://x.com/ROK_MND/status/2115600911280271464"
+            }
+          ],
+          "tierText": "一档事实（各国官方会谈摘要）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日菲推进阿武隈级转让，日越议高速登陆艇"
+        },
+        {
+          "text": "驻韩美军司令布伦森上将在夏威夷AFCEA会议上说，朝鲜半岛是全球电磁环境「最激烈对抗」的地区之一，对手每天在西海干扰GPS、试图致盲美军服务器、传感器和网络；他警告「如果你的装备离不开完美的卫星通信、无限带宽和不间断光纤骨干网，它在半岛撑不过48小时」，驻韩美军正部署抗毁高频网络、低轨星座卫星通信和地面自组网。另据38 North，朝鲜正在江华岛爱妓峰观察所对面更换一段750米的旧边境铁丝网，新围栏为三层通电结构并配巡逻道路。",
+          "sourceNote": "Breaking Defense；38 North",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander/"
+            },
+            {
+              "name": "38 North",
+              "url": "https://www.38north.org/2026/10/north-korea-continues-installing-new-fencing/"
+            }
+          ],
+          "tierText": "二档专业解读（司令公开讲话；围栏为影像/媒体画面分析）",
+          "domain": "space",
+          "location": {
+            "name": "朝鲜（示意）",
+            "lat": 39.04,
+            "lon": 125.76
+          },
+          "headline": "驻韩美军：半岛每天都有电子干扰"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "据路透获得的五角大楼数据，美国对伊朗战争开支已超过470亿美元，比国防部7月的估算高出25%以上；其中补充已消耗弹药预计需290多亿美元，替换装备和飞机、无人机等「平台损失」需60多亿美元。该估算尚未公开，五角大楼未回应置评；战争2月28日由美以发起，4月停火后美国对伊实施海上封锁。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/"
+            }
+          ],
+          "tierText": "二档专业解读（未公开的官方数据经路透转述）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美对伊战争开支突破470亿美元"
+        },
+        {
+          "text": "ISW 称，俄罗斯正向胡塞武装提供沙特石油和军事设施的卫星图像，以支持其扰乱全球能源市场；自2026年7月以来，俄卫星经常在胡塞袭击沙特相关设施前后几天出现在这些目标上空。ISW 并援引美联社匿名消息称，俄还向伊朗对沙特等地区目标的打击提供了目标情报。ISW 同日发布专题报告，认为伊朗支持的伊拉克民兵可能设法规避巴格达的解除武装计划。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2115578554415022488"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/TheStudyofWar/status/2115595366565367981"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/TheStudyofWar/status/2115554484701077597"
+            }
+          ],
+          "tierText": "二档专业解读（ISW 有明确政策立场；对伊情报支援部分为匿名信源）",
+          "domain": "space",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "ISW：俄向胡塞提供沙特设施卫星图"
+        },
+        {
+          "text": "美国中央司令部发文称，伊朗官方媒体近来所报商船在霍尔木兹海峡触雷的说法「不实」，所有国际公认的主要通航航道都已由美军完成扫雷并保持畅通，数千艘商船已安全通过。英国海上贸易行动办公室（UKMTO）同日发布第184-26号通告，并代联合海事信息中心发布「封锁执行」第016-26号通告（正文未能取得）。",
+          "sourceNote": "美国中央司令部 CENTCOM；UKMTO",
+          "links": [
+            {
+              "name": "美国中央司令部 CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2115523900071116849"
+            },
+            {
+              "name": "UKMTO",
+              "url": "https://x.com/UK_MTO/status/2115414800930906450"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/UK_MTO/status/2115375688580751845"
+            }
+          ],
+          "tierText": "三档有立场（交战一方对敌方说法的反驳；UKMTO 通告发布为一档）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美中央司令部否认霍尔木兹商船触雷"
+        },
+        {
+          "text": "美海军作战部长考德尔上将说，部分航母和水面舰艇结束300多天的超长部署后，驱逐舰等的维修排期将「滚雪球」，需投入数亿美元，「这是数年的恢复期，没有捷径」，海军正权衡推迟维修或现代化改装。海军安全司令部数据同时显示，2026财年海军航空A类事故16起、舰船A类事故11起，均为至少十年来最多，包括「福特」号洗衣房起火（燃烧30多小时）和「特拉克斯顿」号与补给舰相撞。",
+          "sourceNote": "Breaking Defense；Defense News",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/"
+            }
+          ],
+          "tierText": "一档事实（海军官方数据与将领公开讲话）",
+          "domain": "sea",
+          "location": null,
+          "headline": "美海军维修积压将持续数年"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "美国防情报局（DIA）《太空安全挑战》报告指出：中国解放军可能认为定向能武器是理想的反太空手段，因为它可对卫星造成可逆和不可逆效果；「到2020年代末，中国可能部署天基定向能系统和功率更高的地基定向能系统」，可威胁更高轨道的卫星。报告未说明是激光、高功率微波还是粒子束，资料截至今年7月、主要基于公开信息。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/space/u-s-intel-warns-chinas-space-based-directed-energy-weapons-could-soon-threaten-satellites"
+            }
+          ],
+          "tierText": "二档专业解读（美方情报机构评估，属美方官方口径）",
+          "domain": "space",
+          "location": null,
+          "headline": "DIA警告中国天基定向能武器"
+        },
+        {
+          "text": "五角大楼向加州生物技术初创公司Biosphere授予2100万美元，建设2万升的生物制造工厂，用基因工程微生物生产军用关键化学品，潜在产品包括可把沙地固化成直升机起降场的「生物水泥」，以及「地狱火」导弹所用的高聚物粘结炸药（PBX）。另据美国防部（战争部）公告，2026财年《大而美法案》（OBBBA）国防拨款在财年结束前已完成97.5%的合同承付。",
+          "sourceNote": "Breaking Defense；美国防部/战争部 War.gov",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/"
+            },
+            {
+              "name": "美国防部/战争部 War.gov",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4635748/department-of-war-achieves-975-obligation-goal-of-fy-2026-obbba-funding/"
+            }
+          ],
+          "tierText": "一档事实（合同与官方公告；war.gov 页面本机403，按RSS摘要）",
+          "domain": "missile",
+          "location": null,
+          "headline": "五角大楼2100万美元押注生物制造"
+        },
+        {
+          "text": "美海军陆战队第31陆战远征队1/1营登陆队10月20日在日本富士营地首次实弹使用Neros公司的Archer第一人称视角（FPV）攻击无人机，按「猎-杀」编组完成反装甲伏击等两种场景打击，日本陆上自卫队人员观摩；Archer是陆战队一次性攻击FPV无人机的正式采购项目，2025年11月签约。同期哈德逊研究所报告认为，为加油机建造加固机库与采购新型加油机同样重要。",
+          "sourceNote": "USNI News；The War Zone",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study"
+            }
+          ],
+          "tierText": "一档事实（军方发布）/ 哈德逊报告为二档解读",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "陆战队首次在富士实弹用Archer无人机"
+        },
+        {
+          "text": "澳大利亚正加速补强防空：10月13日已就LAND 6504中程地面防空项目征集意向，要求采用成熟现货、可拦截末段弹道导弹和亚音速巡航导弹，并接入本国CEA公司雷达，预计2027年底选定方案、2029年「护身军刀」演习实弹射击。洛伊研究所的卫星图像分析则显示，澳政府正在斯特林海军基地、亨德森、奥斯本和廷达尔空军基地四处投入近300亿元（原文$30 billion，未注明币种），其中斯特林基地80亿元，为2027年起美英核潜艇轮换部署做准备。",
+          "sourceNote": "Breaking Defense；洛伊研究所 Lowy Interpreter",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses/"
+            },
+            {
+              "name": "洛伊研究所 Lowy Interpreter",
+              "url": "https://www.lowyinstitute.org/the-interpreter/australia-s-usd30-billion-base-boom-needs-scrutiny-too"
+            }
+          ],
+          "tierText": "二档专业解读（采购文件转述与卫星图像分析）",
+          "domain": "space",
+          "location": {
+            "name": "澳大利亚（示意）",
+            "lat": -25.3,
+            "lon": 133.8
+          },
+          "headline": "澳大利亚加速中程防空采购"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "弹药补库是确定性需求：对伊战争补弹预计超290亿美元，叠加乌克兰对爱国者、HAWK、AIM-9和F-16弹药的需求，拦截弹、精确制导弹药和固体发动机产能仍是最硬的订单线。",
+    "抗干扰通信与太空防护：驻韩美军称依赖完美卫星通信的装备撑不过48小时，DIA警告中国天基定向能反卫星，指向低轨星座通信、抗干扰波形、自组网和卫星加固/态势感知。",
+    "舰船维修与基础设施：美海军「数年」维修积压、澳大利亚近300亿元的基地建设，利好船厂维修、港口与机场加固工程。",
+    "英国国防资本通道：最多50亿英镑的国家财富基金/英国商业银行投资和国防融资工作组，为英国国防与军民两用初创企业打开股权与债务融资渠道。"
+  ]
+}
