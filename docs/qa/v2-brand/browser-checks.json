@@ -4,152 +4,132 @@
   "sizes": [
     {
       "id": "home1440",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": true,
       "clientWidth": 1425,
       "enhanced": true,
-      "markerCount": 0,
       "mode": "full",
       "openStories": 15,
       "scrollWidth": 1425,
-      "sourceLinks": 33,
       "statsFit": true,
       "stories": 15,
+      "title": "台方称53艘中国舰船，大陆称例行训练",
       "passed": true
     },
     {
       "id": "home1280",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": true,
       "clientWidth": 1265,
       "enhanced": true,
-      "markerCount": 0,
       "mode": "full",
       "openStories": 15,
       "scrollWidth": 1265,
-      "sourceLinks": 33,
       "statsFit": true,
       "stories": 15,
+      "title": "台方称53艘中国舰船，大陆称例行训练",
       "passed": true
     },
     {
       "id": "home390",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": true,
       "clientWidth": 375,
       "enhanced": true,
-      "markerCount": 0,
       "mode": "full",
       "openStories": 15,
       "scrollWidth": 375,
-      "sourceLinks": 33,
       "statsFit": true,
       "stories": 15,
+      "title": "台方称53艘中国舰船，大陆称例行训练",
       "passed": true
     },
     {
       "id": "home320",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": true,
       "clientWidth": 305,
       "enhanced": true,
-      "markerCount": 0,
       "mode": "full",
       "openStories": 15,
       "scrollWidth": 305,
-      "sourceLinks": 33,
       "statsFit": true,
       "stories": 15,
+      "title": "台方称53艘中国舰船，大陆称例行训练",
       "passed": true
     },
     {
       "id": "map1440",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": null,
       "clientWidth": 1440,
       "enhanced": true,
-      "markerCount": 8,
       "mode": null,
       "openStories": 0,
       "scrollWidth": 1440,
-      "sourceLinks": 0,
       "statsFit": true,
       "stories": 0,
+      "title": "10月30日防务要闻地图",
       "passed": true
     },
     {
       "id": "map390",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": null,
       "clientWidth": 375,
       "enhanced": true,
-      "markerCount": 8,
       "mode": null,
       "openStories": 0,
       "scrollWidth": 375,
-      "sourceLinks": 0,
       "statsFit": true,
       "stories": 0,
+      "title": "10月30日防务要闻地图",
       "passed": true
     },
     {
       "id": "archive390",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": null,
       "clientWidth": 375,
       "enhanced": true,
-      "markerCount": 0,
       "mode": null,
       "openStories": 0,
       "scrollWidth": 375,
-      "sourceLinks": 0,
       "statsFit": true,
       "stories": 0,
+      "title": "往期简报",
       "passed": true
     },
     {
       "id": "legacy390",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": true,
       "clientWidth": 375,
       "enhanced": true,
-      "markerCount": 0,
       "mode": "full",
       "openStories": 29,
       "scrollWidth": 375,
-      "sourceLinks": 40,
       "statsFit": true,
       "stories": 29,
+      "title": "美方限速乌军 Starshield",
       "passed": true
     },
     {
       "id": "sources390",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": null,
       "clientWidth": 375,
       "enhanced": true,
-      "markerCount": 0,
       "mode": null,
       "openStories": 0,
       "scrollWidth": 375,
-      "sourceLinks": 0,
       "statsFit": true,
       "stories": 0,
+      "title": "信源目录",
       "passed": true
     },
     {
       "id": "static390",
-      "background": "rgb(255, 255, 255)",
       "bodyVisible": true,
       "clientWidth": 375,
       "enhanced": false,
-      "markerCount": 0,
       "mode": null,
       "openStories": 15,
       "scrollWidth": 375,
-      "sourceLinks": 33,
       "statsFit": true,
       "stories": 15,
+      "title": "台方称53艘中国舰船，大陆称例行训练",
       "passed": true
     }
   ],
@@ -188,10 +168,9 @@
       "visible": 0
     },
     "mobileDetail": {
-      "href": "../2026-10-29/#n05",
+      "href": "../2026-10-30/#n08",
       "visible": true
-    },
-    "selectedFeedOpensFullText": true
+    }
   },
   "archive": {
     "search": {
@@ -199,8 +178,21 @@
       "url": "http://127.0.0.1:4185/archive/?q=MQ-9A",
       "visible": 1
     },
-    "emptyState": true,
-    "restoredCount": 13
+    "restoredCount": 14
   },
-  "passed": true
+  "passed": true,
+  "latestIssue": "2026-10-30",
+  "issues": 14,
+  "screenshotFixture": "2026-10-29 approved design; same production template; latest 2026-10-30 separately checked",
+  "datedAnchors": {
+    "latest": {
+      "focused": true,
+      "open": true,
+      "visible": true
+    },
+    "legacy": {
+      "open": true,
+      "visible": true
+    }
+  }
 }
