@@ -1,4 +1,6 @@
-# dibao.news 首次部署
+# dibao.news 部署与域名配置
+
+> 当前安全发布流程使用 GitHub Actions，工作流检查成功才发布白名单产物。下方DNS/域名的首次配置仍适用；历史的“从main根目录直接发布”步骤由新工作流取代。参见 [安全记录](security-review.md)。
 
 目标主地址：**https://dibao.news/**。托管继续使用 GitHub Pages；Cloudflare 管理域名与 DNS。`www.dibao.news` 由 GitHub Pages 自动跳转到主地址。不需要购买服务器，也不需要创建 Cloudflare Pages 项目。
 

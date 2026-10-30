@@ -10,13 +10,13 @@
 
 ## 每天发布一期
 
-第一次使用时准备 **Node.js 20 或以上**（与 `package.json` 的 `engines` 一致），在仓库目录运行：
+首次使用建议安装受支持的 **Node.js 24 LTS**（CI 使用 24.22.1），在仓库目录运行：
 
 ```bash
-npm ci
+npm ci --ignore-scripts
 ```
 
-仓库包含 `.nvmrc`。如果使用 nvm，可先运行 `nvm install`、`nvm use`。以后每天只需要下面三步。
+`.nvmrc` 固定已验证的24.22.1，使用 nvm 时运行 `nvm install`、`nvm use`。Node20已结束维护；外部日更工具的运行环境需由其维护者同步更新。构建保持旧脚本的语法兼容，不把Node20当作安全受支持环境。
 
 ### 1. 新增内容文件
 
@@ -59,6 +59,7 @@ content/2026-10-28.json
 npm run build
 npm test
 npm run verify
+npm run security
 ```
 
 `npm run build` 会按日期自动选出最新一期，更新首页和所有往期页面。出现校验错误时，按终端中的文件名和字段路径修正 JSON，再重新运行。`verify` 检查链接、锚点、页面结构及文件体积。
@@ -85,7 +86,9 @@ git push origin main
 
 以上发布命令应在 `main` 分支使用。如果在其他分支编辑，先通过 Pull Request 合并到 `main`。
 
-GitHub 仓库的 **Settings → Pages** 保持 **Deploy from a branch → main → /(root)**。推送成功后，等待 Pages 部署完成，再查看正式网址。必须一起提交生成的 HTML、`feed.xml` 和 `sitemap.xml`；Pages 不会替编辑运行 Node 构建。根目录的 `.nojekyll` 需要保留。
+GitHub 仓库的 **Settings → Pages** 使用 **GitHub Actions**。`Validate and deploy site` 安装锁定依赖、构建并运行测试/链接/安全/依赖检查，通过后只发布45个白名单静态文件，失败保留上次成功版本。JSON仍是内容源，生成文件可一并提交用于历史对照；工作流不向仓库回写文件。等待该提交的 `Deploy verified site` 成功，不能以旧页面仍返回200判断新版本已发布。
+
+本地检查发布包时运行 `npm run package:site`，默认生成被Git忽略的 `.pages/`；输出目录必须为空，已有包不会被覆盖，也可 `node tools/package-site.mjs --out <新的空目录>`。发布包不包含内容JSON、源码、文档、测试、node_modules或Git元数据；仓库本身仍公开，不能存放私密资料。详见[安全记录](docs/security-review.md)。
 
 ## 内容字段与兜底
 
@@ -167,8 +170,8 @@ npm run build
 2. 在本仓库的工作副本 `/tmp/db`（不存在时自动 clone）`git pull --ff-only`。
 3. `md2json.py /tmp/db <日期>`：把 `daily/<日期>.md` 的中文部分转为 `content/<日期>.json`（战区、正文、来源、链接、可信度、投资视角；领域和地图位置按关键词自动猜测，名称带「（示意）」）。已存在的 JSON 不覆盖，人工补充的 highlights/stats/地图不会被冲掉。
 4. `md2json.py /tmp/db --sources`：把 `wechat/sources.json` 同步为 `data/sources.json`。
-5. `npm ci`（首次）→ `npm run build` → `npm test` → `npm run verify`，任何一步失败都不推送。
-6. 普通 `git push`（绝不 force-push），然后轮询 `<baseUrl><日期>/` 直到 200。
+5. 使用受支持的Node24，`npm ci --ignore-scripts`（首次）→ `npm run build` → `npm test` → `npm run verify` → `npm run security`，任何一步失败都不推送。
+6. 普通 `git push`（绝不 force-push），等待该提交的 `Validate and deploy site` 工作流成功，再检查线上当期页。旧页面返回200不能证明新部署成功。
 
 信源目录以 `wechat/sources.json` 为准，`data/sources.json` 由脚本生成，不要手改。
 

@@ -4,8 +4,8 @@ export const pad = n => String(n).padStart(2, '0');
 const tierNames = { 1: '一档', 2: '二档', 3: '三档', 4: '四档' };
 export const tierName = tier => tierNames[tier] || '未分档';
 export function tierChip(tier, count) {
-  if (!tier) return '';
-  return `<span class="tier tier--${tier}">${tierName(tier)}${count === undefined ? '' : ` ${count}`}${tier === 4 ? ' · 仅线索' : ''}</span>`;
+  if (!Number.isInteger(tier) || tier < 1 || tier > 4) return '';
+  return `<span class="tier tier--${tier}">${tierName(tier)}${count === undefined ? '' : ` ${e(count)}`}${tier === 4 ? ' · 仅线索' : ''}</span>`;
 }
 
 const sourceAliases = { 'The War Zone': 'TWZ', 'USNI News': 'USNI', '台湾国防部 Taiwan MND': '台湾国防部' };

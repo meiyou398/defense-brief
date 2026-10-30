@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-30",
+  "browser": "156.0.8078.79",
+  "method": "User-authorized isolated headless Chromium; temporary profile; localhost only",
+  "checks": [
+    {
+      "name": "CSP hash and SRI allow the real app, styles render, no initial policy violation",
+      "passed": true
+    },
+    {
+      "name": "Reading modes, item anchors and saved-brief directory navigation",
+      "passed": true
+    },
+    {
+      "name": "CSP blocks injected inline code, event handlers and outbound connections",
+      "passed": true,
+      "directives": [
+        "script-src-elem",
+        "script-src-attr",
+        "connect-src"
+      ]
+    },
+    {
+      "name": "SRI rejects a locally intercepted script whose bytes were changed",
+      "passed": true
+    },
+    {
+      "name": "Map positioning, selection and intersecting filters",
+      "passed": true,
+      "intersection": {
+        "expected": 0,
+        "visible": 0
+      }
+    },
+    {
+      "name": "Archive search and reset",
+      "passed": true
+    },
+    {
+      "name": "Deep 404 retains CSP-compatible base and versioned resources",
+      "passed": true
+    },
+    {
+      "name": "390px rendering and mobile map detail",
+      "passed": true
+    },
+    {
+      "name": "Real browser with JavaScript disabled retains all full text and deep anchor",
+      "passed": true
+    },
+    {
+      "name": "No third-party runtime request left the isolated browser",
+      "passed": true
+    }
+  ],
+  "passed": true
+}
