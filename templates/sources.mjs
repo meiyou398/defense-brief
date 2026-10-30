@@ -1,8 +1,10 @@
 import { escapeHtml as e } from '../lib/urls.mjs';
 import { tierChip } from './components.mjs';
 import { layout } from './layout.mjs';
+import { validateSourceCatalog } from '../lib/validate-sources.mjs';
 
 export function sourcesPage(ctx, catalog) {
+  validateSourceCatalog(catalog);
   const count = catalog.groups.reduce((total, group) => total + group.sources.length, 0);
   return layout(ctx, {
     title: '防务早知道｜信源目录',

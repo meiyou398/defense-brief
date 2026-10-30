@@ -2,6 +2,7 @@ import { readFile, readdir, writeFile, mkdir } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateIssue } from './lib/validate.mjs';
+import { validateSourceCatalog } from './lib/validate-sources.mjs';
 import { normalizeIssue } from './lib/normalize.mjs';
 import { absoluteUrl, escapeXml as x } from './lib/urls.mjs';
 import { orphanIssueOutputs, removeGeneratedOrphans, publishingConfig } from './lib/output.mjs';
@@ -15,7 +16,7 @@ import { aboutPage, subscribePage, notFoundPage } from './templates/informationa
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const readJSON = async path => JSON.parse(await readFile(join(ROOT, path), 'utf8'));
 const config = await readJSON('site.config.json');
-const sources = await readJSON('data/sources.json');
+const sources = validateSourceCatalog(await readJSON('data/sources.json'));
 const publishing = publishingConfig(config);
 const files = (await readdir(join(ROOT, 'content'))).filter(f => f.endsWith('.json')).sort();
 if (!files.length) throw new Error('content/ 中没有简报 JSON');
