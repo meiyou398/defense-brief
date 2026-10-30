@@ -4,6 +4,7 @@ import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { dirname, join, resolve, relative, extname, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { gzipSync } from 'node:zlib';
+import { createHash } from 'node:crypto';
 import { orphanIssueOutputs, publishingConfig } from '../lib/output.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
@@ -32,6 +33,24 @@ const htmlByFile = new Map();
 const idsByFile = new Map();
 const baseByFile = new Map();
 const projectPrefix = new URL(config.baseUrl).pathname;
+const assetVersions = Object.fromEntries(['assets/site.css', 'assets/app.js'].map((file) => [file,
+  existsSync(join(root, file)) ? createHash('sha256').update(readFileSync(join(root, file))).digest('hex').slice(0, 16) : null
+]));
+const assetURL = (value, page) => {
+  if (!value || /^(?:[a-z][a-z0-9+.-]*:|\/)/i.test(value) || value.includes('\\')) return null;
+  try { return new URL(value, baseByFile.get(page)); }
+  catch { return null; }
+};
+const isAssetPath = (value, page, file) => {
+  const url = assetURL(value, page);
+  const expected = new URL(file, config.baseUrl);
+  return url && url.origin === expected.origin && url.pathname === expected.pathname && !url.hash;
+};
+const hasAssetVersion = (value, page, file) => {
+  const url = assetURL(value, page);
+  const versions = url?.searchParams.getAll('v') || [];
+  return url && [...url.searchParams].length === 1 && versions.length === 1 && /^[0-9a-f]{16}$/.test(versions[0]) && versions[0] === assetVersions[file];
+};
 
 for (const page of pages) {
   requireThat(existsSync(join(root, page)), `缺少页面：${page}`);
@@ -66,10 +85,12 @@ for (const page of pages) {
   }
   requireThat(elements.some((tag) => /^<link\b/i.test(tag) && attr(tag, 'rel') === 'alternate' && attr(tag, 'type') === 'application/rss+xml'), `${page}：缺少 RSS 声明`);
   const localStyles = elements.filter((tag) => /^<link\b/i.test(tag) && attr(tag, 'rel') === 'stylesheet' && !/^(?:https?:)?\/\//i.test(attr(tag, 'href') ?? ''));
-  requireThat(localStyles.length === 1 && attr(localStyles[0], 'href')?.endsWith('assets/site.css'), `${page}：必须只引入一个本地 site.css`);
+  requireThat(localStyles.length === 1 && localStyles.every((tag) => isAssetPath(attr(tag, 'href'), page, 'assets/site.css')), `${page}：必须只引入一个本地 site.css`);
+  requireThat(localStyles.every((tag) => hasAssetVersion(attr(tag, 'href'), page, 'assets/site.css')), `${page}：site.css 的 v 参数必须匹配文件 SHA-256 前 16 位`);
   requireThat(!elements.some((tag) => /^<link\b/i.test(tag) && attr(tag, 'rel') === 'stylesheet' && /^(?:https?:)?\/\//i.test(attr(tag, 'href') ?? '')), `${page}：不得引入阻塞首屏的远程样式表`);
   const scripts = elements.filter((tag) => /^<script\b/i.test(tag));
-  requireThat(scripts.length <= 1 && scripts.every((tag) => attr(tag, 'src')?.endsWith('assets/app.js')), `${page}：出现额外脚本或内联脚本`);
+  requireThat(scripts.length === 1 && scripts.every((tag) => isAssetPath(attr(tag, 'src'), page, 'assets/app.js')), `${page}：必须只引入一个本地 app.js，不得出现额外脚本、远程脚本或内联脚本`);
+  requireThat(scripts.every((tag) => hasAssetVersion(attr(tag, 'src'), page, 'assets/app.js')), `${page}：app.js 的 v 参数必须匹配文件 SHA-256 前 16 位`);
   for (const image of elements.filter((tag) => /^<img\b/i.test(tag))) {
     requireThat(Boolean(attr(image, 'width') && attr(image, 'height')), `${page}：图片缺少明确 width/height`);
   }
