@@ -9,8 +9,22 @@ export function tierChip(tier, count) {
 }
 
 const sourceAliases = { 'The War Zone': 'TWZ', 'USNI News': 'USNI', '台湾国防部 Taiwan MND': '台湾国防部' };
+// Preserve editorial names. Generic legacy labels fall back to the actual URL,
+// which identifies the source without guessing who reported it.
+export function sourceLabel(link) {
+  const name = link.name?.trim();
+  if (name && name !== '原文') return name;
+  try {
+    const url = new URL(link.url);
+    if (/(^|\.)(x\.com|twitter\.com)$/i.test(url.hostname)) {
+      const account = url.pathname.split('/').filter(Boolean)[0];
+      return account && !['i', 'home', 'intent', 'search'].includes(account.toLowerCase()) ? `@${account} · X 原帖` : 'X 原帖';
+    }
+    return url.hostname.replace(/^www\./, '');
+  } catch { return name || '来源链接'; }
+}
 export function sourceChips(item) {
-  return item.links.map(link => `<a class="source-chip" href="${e(link.url)}" target="_blank" rel="noopener">${e(sourceAliases[link.name] || link.name)} <span aria-hidden="true">↗</span><span class="sr-only">（新窗口）</span></a>`).join('');
+  return item.links.map(link => `<a class="source-chip" href="${e(link.url)}" target="_blank" rel="noopener">${e(sourceAliases[sourceLabel(link)] || sourceLabel(link))} <span aria-hidden="true">↗</span><span class="sr-only">（新窗口）</span></a>`).join('');
 }
 
 export function entityText(text = '', entities = []) {
@@ -65,6 +79,6 @@ export function investment(issue) {
 }
 
 export const domainSquare = (item, extra = '') => `<span class="domain-square${item.tier === 4 ? ' domain-square--unverified' : ''} ${extra}" aria-hidden="true">${e(item.domain.char)}</span>`;
-export const sourceLine = item => item.links.map(l => l.name).join('；') || item.sourceNote || '来源未注明';
+export const sourceLine = item => item.links.map(sourceLabel).join('；') || item.sourceNote || '来源未注明';
 export const mapTitle = item => `${pad(item.number)} ${e(item.headline)}`;
 export const mapMeta = item => `${e(item.locationLabel)} · ${e(sourceLine(item))}${item.tier ? ` · ${tierName(item.tier)}` : ''}`;

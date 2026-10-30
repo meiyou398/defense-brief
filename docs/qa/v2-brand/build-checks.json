@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-30",
+  "baseCommit": "ed576f51017d667d1b290d6703942dbcfd64ca5b",
+  "runtime": "v24.22.1",
+  "issues": 14,
+  "pages": 35,
+  "testsPassed": 31,
+  "sourceItemsPreserved": 234,
+  "sourceUrlsPreserved": 409,
+  "allowedContentEdits": "2026-10-29 headline and approved preview summary only; all other fields identical to latest main including 2026-10-30",
+  "repeatBuildFiles": 39,
+  "repeatBuildIdentical": true,
+  "rootVerifyPassed": true,
+  "projectPrefixVerifyPassed": true,
+  "productionDeployed": false
+}

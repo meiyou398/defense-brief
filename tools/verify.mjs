@@ -67,6 +67,7 @@ for (const page of pages) {
   requireThat(elements.some((tag) => /^<link\b/i.test(tag) && attr(tag, 'rel') === 'alternate' && attr(tag, 'type') === 'application/rss+xml'), `${page}：缺少 RSS 声明`);
   const localStyles = elements.filter((tag) => /^<link\b/i.test(tag) && attr(tag, 'rel') === 'stylesheet' && !/^(?:https?:)?\/\//i.test(attr(tag, 'href') ?? ''));
   requireThat(localStyles.length === 1 && attr(localStyles[0], 'href')?.endsWith('assets/site.css'), `${page}：必须只引入一个本地 site.css`);
+  requireThat(!elements.some((tag) => /^<link\b/i.test(tag) && attr(tag, 'rel') === 'stylesheet' && /^(?:https?:)?\/\//i.test(attr(tag, 'href') ?? '')), `${page}：不得引入阻塞首屏的远程样式表`);
   const scripts = elements.filter((tag) => /^<script\b/i.test(tag));
   requireThat(scripts.length <= 1 && scripts.every((tag) => attr(tag, 'src')?.endsWith('assets/app.js')), `${page}：出现额外脚本或内联脚本`);
   for (const image of elements.filter((tag) => /^<img\b/i.test(tag))) {
@@ -122,6 +123,8 @@ for (const date of dates) {
   const ids = idsByFile.get(`${date}/index.html`);
   const fullSection = tags(html).find((tag) => /\sdata-full-only(?:\s|>|=)/i.test(tag));
   requireThat(fullSection && !/\shidden(?:\s|>|=)/i.test(fullSection), `${date}：完整版不得在静态 HTML 中隐藏，需支持无 JS 阅读`);
+  const disclosures = tags(html).filter((tag) => /^<details\b/i.test(tag) && /(?:^|\s)b-story(?:\s|$)/.test(attr(tag, 'class') ?? ''));
+  requireThat(disclosures.length === length && disclosures.every((tag) => /\sopen(?:\s|>|=)/i.test(tag)), `${date}：每条完整正文必须默认展开并支持原生收起`);
   for (let number = 1; number <= length; number += 1) {
     requireThat(ids.has(`n${String(number).padStart(2, '0')}`), `${date}：缺少完整正文锚点 n${String(number).padStart(2, '0')}`);
   }

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "home1440",
+    "name": "home-desktop",
+    "height": 606.9921875,
+    "viewportHeight": 720,
+    "viewportWidth": 1280,
+    "width": 873.1953125,
+    "x": 20,
+    "y": 112.5
+  },
+  {
+    "id": "home390",
+    "name": "home-mobile",
+    "height": 607,
+    "viewportHeight": 720,
+    "viewportWidth": 1280,
+    "width": 281.5546875,
+    "x": 20,
+    "y": 112.5
+  }
+]

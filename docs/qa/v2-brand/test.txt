@@ -1,0 +1,39 @@
+✔ all eleven supplied issues validate without requiring new presentation fields (6.24625ms)
+✔ sample derives exact primary-tier statistics and geographic categories (11.330583ms)
+✔ tier parser uses textual occurrence order and retains mixed classifications (0.105875ms)
+✔ cutoff clocks use IANA zones including Washington previous day and Tehran half hour (0.513042ms)
+✔ publication timestamps reject normalized impossible dates and midnight overflow (0.933959ms)
+✔ legacy issue uses deterministic fallbacks without mutating input data (1.2185ms)
+✔ supplied map enrichment covers every issue and preserves every grouped member (6.595542ms)
+✔ headline extraction preserves decimals and numeric thousands separators (0.108958ms)
+✔ numbering precedes repeated-section grouping and unknown sections stay distinct (0.383042ms)
+✔ headline and summary fallbacks only extract supplied facts (0.114708ms)
+✔ projection matches the supplied Natural Earth extent and omits out-of-map entries (0.097416ms)
+✔ schema validation rejects missing fields, invalid location shapes and unknown keys (0.4345ms)
+✔ invalid references and impossible dates fail before output can contain broken links (0.231209ms)
+✔ source links accept only complete HTTP or HTTPS addresses (0.080833ms)
+✔ main headline is optional, bounded and uses the selected highlight without rewriting facts (13.067334ms)
+✔ native full text has one anchor per story, static related links and mixed original tier text (0.617375ms)
+✔ unsafe editorial text is escaped in the headline and optional analysis (0.541583ms)
+✔ generic source names use actual host or X account while editorial attribution stays intact (0.141833ms)
+✔ an empty section does not break the overview or shift the numbered story anchors (0.513333ms)
+✔ orphan cleanup only deletes owned HTML and preserves other files (4.184917ms)
+✔ handwritten orphan pages and pages modified after scanning are protected (1.352958ms)
+✔ publishing supports project prefixes and a future domain root without placeholders (0.438333ms)
+✔ 404 resources and return navigation resolve correctly from arbitrary missing paths (0.826458ms)
+✔ archive search includes published map locations, all prose and numeric callouts (11.363125ms)
+✔ system-font pages make no external font requests and Today is only current on latest home (2.301459ms)
+✔ legacy map renders grouped choices and every full-text action statically (2.169292ms)
+✔ migrated source directory preserves all categories, records and source notes in static HTML (8.850916ms)
+✔ relative navigation preserves the Pages project prefix at every route depth (2.809042ms)
+✔ same-page fragment links stay on the currently requested issue (0.127041ms)
+✔ metadata URLs use the configured canonical base (0.590917ms)
+✔ plain JSON text cannot break HTML attributes or XML markup (0.11125ms)
+ℹ tests 31
+ℹ suites 0
+ℹ pass 31
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 136.71875
