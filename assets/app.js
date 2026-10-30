@@ -13,11 +13,16 @@
   };
   const modeKey = 'defense-brief:mode';
   const savedMode = () => {
-    try { return localStorage.getItem(modeKey) === 'full' ? 'full' : 'brief'; }
-    catch { return 'brief'; }
+    try { return localStorage.getItem(modeKey) === 'brief' ? 'brief' : 'full'; }
+    catch { return 'full'; }
   };
   const isItemHash = hash => /^#n\d+$/i.test(hash);
-  const forcedFull = () => location.hash === '#full' || isItemHash(location.hash);
+  const hashTarget = hash => {
+    try { return doc.getElementById(decodeURIComponent(hash.slice(1))); }
+    catch { return null; }
+  };
+  const needsFull = hash => hash === '#full' || isItemHash(hash) || !!hashTarget(hash)?.closest('[data-full-only]');
+  const forcedFull = () => needsFull(location.hash);
   const modeButtons = all('[data-mode-button]');
   let targetTimer, targetCard;
   let refreshMaps = () => {};
@@ -39,6 +44,8 @@
     const number = String(Number(location.hash.slice(2))).padStart(2, '0');
     const card = doc.getElementById('n' + number);
     if (!card) return;
+    const disclosure = card.closest('details');
+    if (disclosure) disclosure.open = true;
     if (targetCard) targetCard.classList.remove('is-target');
     clearTimeout(targetTimer);
     targetCard = card;
@@ -51,6 +58,7 @@
     if (!modeButtons.length) return;
     setMode(forcedFull() ? 'full' : savedMode());
     if (isItemHash(location.hash)) requestAnimationFrame(() => showTarget(animate));
+    else if (forcedFull()) requestAnimationFrame(() => hashTarget(location.hash)?.scrollIntoView({ block: 'start', behavior: animate ? behavior() : 'instant' }));
   }
 
   function setupMap(root) {
@@ -292,7 +300,7 @@
       setMode(mode, true, true);
       const url = currentURL();
       if (mode === 'full') url.hash = 'full';
-      else if (url.hash === '#full' || isItemHash(url.hash)) url.hash = '';
+      else if (forcedFull()) url.hash = '';
       writeURL(url, true);
     }));
     doc.addEventListener('click', event => {
@@ -300,12 +308,12 @@
       const anchor = event.target.closest('a[href]');
       if (!anchor || anchor.target || anchor.hasAttribute('download')) return;
       const url = new URL(anchor.href, location.href);
-      if (url.origin !== location.origin || url.pathname !== location.pathname || (!isItemHash(url.hash) && url.hash !== '#full')) return;
+      if (url.origin !== location.origin || url.pathname !== location.pathname || !needsFull(url.hash)) return;
       event.preventDefault();
       setMode('full'); writeURL(url, true);
       requestAnimationFrame(() => {
-        if (url.hash === '#full') doc.getElementById('full')?.scrollIntoView({ block: 'start', behavior: behavior() });
-        else showTarget();
+        if (isItemHash(url.hash)) showTarget();
+        else hashTarget(url.hash)?.scrollIntoView({ block: 'start', behavior: behavior() });
       });
     });
     const restore = () => { restoreMode(); maps.forEach(map => map.restore()); archive?.restore(); };

@@ -1,0 +1,7 @@
+静态检查：13 期，33 个 HTML 页面，1487 个内部资源/链接。
+index.html: 36,800 B，gzip 11,403 B
+assets/site.css: 59,972 B，gzip 11,294 B
+assets/app.js: 19,649 B，gzip 5,699 B
+assets/map-h.svg: 62,918 B，gzip 24,399 B
+首页 HTML + CSS + JS gzip：28,396 B / 153,600 B。
+通过：路由、相对链接、锚点、完整正文、SEO、XML 和体积预算。

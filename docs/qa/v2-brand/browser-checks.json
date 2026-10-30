@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-30",
+  "method": "Cua in-app browser, fixed-size iframe viewports with scaled captures; no physical device test",
+  "sizes": [
+    {
+      "id": "home1440",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": true,
+      "clientWidth": 1425,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": "full",
+      "openStories": 15,
+      "scrollWidth": 1425,
+      "sourceLinks": 33,
+      "statsFit": true,
+      "stories": 15,
+      "passed": true
+    },
+    {
+      "id": "home1280",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": true,
+      "clientWidth": 1265,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": "full",
+      "openStories": 15,
+      "scrollWidth": 1265,
+      "sourceLinks": 33,
+      "statsFit": true,
+      "stories": 15,
+      "passed": true
+    },
+    {
+      "id": "home390",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": true,
+      "clientWidth": 375,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": "full",
+      "openStories": 15,
+      "scrollWidth": 375,
+      "sourceLinks": 33,
+      "statsFit": true,
+      "stories": 15,
+      "passed": true
+    },
+    {
+      "id": "home320",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": true,
+      "clientWidth": 305,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": "full",
+      "openStories": 15,
+      "scrollWidth": 305,
+      "sourceLinks": 33,
+      "statsFit": true,
+      "stories": 15,
+      "passed": true
+    },
+    {
+      "id": "map1440",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": null,
+      "clientWidth": 1440,
+      "enhanced": true,
+      "markerCount": 8,
+      "mode": null,
+      "openStories": 0,
+      "scrollWidth": 1440,
+      "sourceLinks": 0,
+      "statsFit": true,
+      "stories": 0,
+      "passed": true
+    },
+    {
+      "id": "map390",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": null,
+      "clientWidth": 375,
+      "enhanced": true,
+      "markerCount": 8,
+      "mode": null,
+      "openStories": 0,
+      "scrollWidth": 375,
+      "sourceLinks": 0,
+      "statsFit": true,
+      "stories": 0,
+      "passed": true
+    },
+    {
+      "id": "archive390",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": null,
+      "clientWidth": 375,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": null,
+      "openStories": 0,
+      "scrollWidth": 375,
+      "sourceLinks": 0,
+      "statsFit": true,
+      "stories": 0,
+      "passed": true
+    },
+    {
+      "id": "legacy390",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": true,
+      "clientWidth": 375,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": "full",
+      "openStories": 29,
+      "scrollWidth": 375,
+      "sourceLinks": 40,
+      "statsFit": true,
+      "stories": 29,
+      "passed": true
+    },
+    {
+      "id": "sources390",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": null,
+      "clientWidth": 375,
+      "enhanced": true,
+      "markerCount": 0,
+      "mode": null,
+      "openStories": 0,
+      "scrollWidth": 375,
+      "sourceLinks": 0,
+      "statsFit": true,
+      "stories": 0,
+      "passed": true
+    },
+    {
+      "id": "static390",
+      "background": "rgb(255, 255, 255)",
+      "bodyVisible": true,
+      "clientWidth": 375,
+      "enhanced": false,
+      "markerCount": 0,
+      "mode": null,
+      "openStories": 15,
+      "scrollWidth": 375,
+      "sourceLinks": 33,
+      "statsFit": true,
+      "stories": 15,
+      "passed": true
+    }
+  ],
+  "reading": {
+    "brief": {
+      "fullHidden": true,
+      "industryVisible": true,
+      "mode": "brief"
+    },
+    "highlight": {
+      "open": true,
+      "visible": true
+    },
+    "reopen": true,
+    "directoryAfterSavedBrief": {
+      "mode": "full",
+      "url": "http://127.0.0.1:4185/#theater-europe",
+      "visible": true
+    },
+    "scriptRemovedNativeAnchor": {
+      "open": true,
+      "visible": true
+    },
+    "keyboardClose": true,
+    "keyboardOpen": true
+  },
+  "map": {
+    "popup": {
+      "insideStage": true,
+      "titleFits": true,
+      "visible": true
+    },
+    "intersectingFilters": {
+      "expected": 0,
+      "url": "http://127.0.0.1:4185/map/?theater=europe&domain=sea",
+      "visible": 0
+    },
+    "mobileDetail": {
+      "href": "../2026-10-29/#n05",
+      "visible": true
+    },
+    "selectedFeedOpensFullText": true
+  },
+  "archive": {
+    "search": {
+      "status": "找到 1 期",
+      "url": "http://127.0.0.1:4185/archive/?q=MQ-9A",
+      "visible": 1
+    },
+    "emptyState": true,
+    "restoredCount": 13
+  },
+  "passed": true
+}

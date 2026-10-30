@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-30",
+  "baseCommit": "51a7220d0459832731fd3d8b3901b7ffb0967286",
+  "runtime": "v24.22.1",
+  "issues": 13,
+  "pages": 33,
+  "testsPassed": 31,
+  "sourceItemsPreserved": 219,
+  "sourceUrlsPreserved": 380,
+  "allowedContentEdits": "2026-10-29 headline and approved preview summary only; all other fields identical to latest main",
+  "repeatBuildFiles": 37,
+  "repeatBuildIdentical": true,
+  "rootVerifyPassed": true,
+  "projectPrefixVerifyPassed": true,
+  "projectPrefixFixture": "/var/folders/fn/9018z1ys5sbcjkc37v5db1km0000gn/T/defense-v2-prefix-fCkbgJ",
+  "productionDeployed": false
+}

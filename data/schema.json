@@ -10,7 +10,8 @@
     "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$", "description": "期日，也是 URL：/2026-10-27/" },
     "publishedAt": { "type": "string", "format": "date-time", "description": "发稿时间，带时区，如 2026-10-27T08:00:00+08:00。城市时钟条用它计算。缺省按当天 08:00 UTC+8。" },
     "coverage": { "type": "string", "description": "覆盖时段，如「约 10月26日上午至 10月27日上午（UTC+8）」" },
-    "summary": { "type": "string", "description": "本期主线一段话，用于 RSS 和 meta description" },
+    "headline": { "type": "string", "maxLength": 64, "description": "可选的本期主线标题，只概括正文已有事实。缺省使用第一条精选要点所对应的条目标题，仍缺失时使用首条标题。" },
+    "summary": { "type": "string", "description": "本期主线一段话，用于首屏摘要、RSS 和 meta description" },
     "highlights": {
       "type": "array",
       "maxItems": 6,

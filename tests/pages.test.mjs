@@ -41,13 +41,13 @@ test('archive search includes published map locations, all prose and numeric cal
   assert.ok(corpus.includes('https://www.twz.com/'));
 });
 
-test('fonts load independently of JS and the Today nav is only current on latest home', () => {
+test('system-font pages make no external font requests and Today is only current on latest home', () => {
   const issue=normalizeIssue(sample,config);issue.issueNumber=11;
   const old=issuePage(context(config,'2026-10-27/index.html','issue'),issue);
   const home=issuePage(context(config,'index.html','issue',{latest:true}),issue);
-  assert.ok(old.includes('display=swap'));assert.ok(!old.includes('data-fonts'));
-  assert.ok(!old.match(/<nav class="site-nav"[\s\S]*?<\/nav>/)[0].includes('aria-current="page"'));
-  assert.ok(home.match(/<nav class="site-nav"[\s\S]*?<\/nav>/)[0].includes('aria-current="page"'));
+  assert.ok(!/fonts\.(googleapis|gstatic)\.com|data-fonts/.test(old));
+  assert.ok(!old.match(/<nav class="site-nav\b[\s\S]*?<\/nav>/)[0].includes('aria-current="page"'));
+  assert.ok(home.match(/<nav class="site-nav\b[\s\S]*?<\/nav>/)[0].includes('aria-current="page"'));
 });
 test('legacy map renders grouped choices and every full-text action statically', () => {
   const raw=JSON.parse(readFileSync(new URL('../content/2026-10-17.json',import.meta.url),'utf8'));
