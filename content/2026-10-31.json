@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-31",
+  "publishedAt": "2026-10-31T09:30:00+08:00",
+  "coverage": "约 10月30日上午至 10月31日上午（UTC+8）",
+  "summary": "大陆官方宣布我军首型舰载察打一体隐身无人机「攻击-21」首次在076型两栖攻击舰四川舰成功起降；二十届五中全会公报确认张又侠等16名军队人员被开除党籍，名单还包括航天科技、航天科工、中船、中核等军工央企前负责人；南部战区和中国海警同日在黄岩岛开展「战备警巡」和执法巡查。俄乌方面，美国国务院批准向乌克兰出售500枚PAC-3 MSE拦截弹、约21亿美元全部由盟友出资；路透称五角大楼私下要求波罗的海国家等盟友「降调」对俄言论。中东方面，霍尔木兹海峡一艘油轮遭小艇贴附两枚吸附式水雷起火，为2019年以来首次。产业侧，韩华费城船厂拿下美海军首艘中型登陆舰（LSM）2.69亿美元合同，KNDS已在挪威开始生产豹2A8坦克。",
+  "highlights": [
+    {
+      "lead": "舰载隐身",
+      "text": "攻击-21首次在076型四川舰成功起降。",
+      "item": 5
+    },
+    {
+      "lead": "五中全会",
+      "text": "张又侠等16名军队人员被开除党籍，含军工央企前负责人。",
+      "item": 6
+    },
+    {
+      "lead": "盟友买单",
+      "text": "美批准售乌500枚PAC-3 MSE，约21亿美元由盟友出资。",
+      "item": 1
+    },
+    {
+      "lead": "黄岩岛",
+      "text": "南部战区与中国海警同日战备警巡、执法巡查。",
+      "item": 7
+    },
+    {
+      "lead": "吸附水雷",
+      "text": "霍尔木兹油轮遭小艇贴附两枚水雷起火，2019年来首次。",
+      "item": 10
+    },
+    {
+      "lead": "登陆舰",
+      "text": "韩华费城船厂获2.69亿美元建造美海军首艘LSM。",
+      "item": 12
+    }
+  ],
+  "stats": [
+    {
+      "value": "500",
+      "unit": "枚",
+      "label": "售乌PAC-3 MSE",
+      "item": 1
+    },
+    {
+      "value": "16",
+      "unit": "名",
+      "label": "被开除党籍军队人员",
+      "item": 6
+    },
+    {
+      "value": "13",
+      "unit": "架次",
+      "label": "台湾周边共机",
+      "item": 8
+    },
+    {
+      "value": "2.69",
+      "unit": "亿美元",
+      "label": "首艘LSM合同",
+      "item": 12
+    },
+    {
+      "value": "3000",
+      "unit": "米",
+      "label": "羚羊礁或建跑道",
+      "item": 9
+    }
+  ],
+  "featured": [
+    5,
+    6
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "美国国务院10月30日（美东时间）发布对国会通报：批准向乌克兰潜在出售500枚「爱国者」PAC-3 MSE拦截弹及配套零部件，估价约21亿美元，全部由加拿大、德国、挪威经JUMPSTART机制捐资及欧盟对乌支持贷款支付，「不涉及美国资金」。泽连斯基此前称乌克兰每月需要350枚拦截弹，《华盛顿邮报》10月中旬曾报道美方转交拖延；对外军售通报只是早期步骤，数量和价格仍可能变化。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies/"
+            }
+          ],
+          "tierText": "一档事实（美国国务院对国会通报，经媒体转述）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "美批准售乌500枚PAC-3，盟友全额出资"
+        },
+        {
+          "text": "乌克兰同时加速防空「去爱国者化」：泽连斯基称乌方已完成多国反导项目「芙蕾雅」（Freyja）中本国的部分，由Fire Point公司研制FP-7.X拦截弹和发射架，挪威康斯伯格、德国迪尔等负责探测、跟踪和制导部件，目标年底前初步试验；乌防长赫马拉称国防部将与数字化转型部、Brave1为制导空空导弹和国产雷达发放资助，下一步是涡喷发动机。乌国防部另称，私营防空项目中的自动炮塔已摧毁60多个目标，包括喷气式「班德罗尔」弹药和「天竺葵-5」无人机，截至10月中旬近100家企业参与。",
+          "sourceNote": "Defense News；乌克兰国防部 Ukraine MoD",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/"
+            },
+            {
+              "name": "乌克兰国防部 Ukraine MoD",
+              "url": "https://x.com/DefenceU/status/2116214044948369599"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/DefenceU/status/2116120931252801601"
+            }
+          ],
+          "tierText": "三档有立场（乌方官方口径与企业进度表态，战果未经独立核实）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌加速防空自主：芙蕾雅反导与空空导弹"
+        },
+        {
+          "text": "路透援引四名知情人士称，五角大楼近几周在双边会谈中要求立陶宛、拉脱维亚、爱沙尼亚等北约国家降低对俄威胁的公开调门，认为部分欧洲领导人的言论有损欧洲安全；国防部政策副部长科尔比是传话者之一，曾对一名波罗的海官员说不要「戳」俄罗斯。五角大楼回应称「盟友间的私下对话就是私下的」，不予置评。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/"
+            }
+          ],
+          "tierText": "二档专业解读（主流通讯社匿名信源，美方未证实）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "波罗的海（示意）",
+            "lat": 57.0,
+            "lon": 19.0
+          },
+          "headline": "路透：五角大楼要盟友对俄降调"
+        },
+        {
+          "text": "国际原子能机构（IAEA）称，已完成对乌克兰19座对核安全至关重要的变电站的第九次评估任务；几天后的10月27日，机构获悉其中的斯拉夫蒂奇变电站遇袭，据报所有330千伏线路断开。总干事格罗西再次呼吁保护核安全相关电网设施。",
+          "sourceNote": "国际原子能机构 IAEA",
+          "links": [
+            {
+              "name": "国际原子能机构 IAEA",
+              "url": "http://www.iaea.org/newscenter/pressreleases/update-373-iaea-director-general-statement-on-situation-in-ukraine"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/iaeaorg/status/2116229425419243644"
+            }
+          ],
+          "tierText": "一档事实（国际机构官方通报，未说明袭击方）",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "IAEA：斯拉夫蒂奇变电站遇袭断线"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "新华社、国防部英文网10月30日发布：我军首型舰载察打一体隐身无人机「攻击-21」近日首次在076型两栖攻击舰首舰四川舰（舷号51）成功起降，「标志着中国海军具备固定翼隐身无人机在大型海上作战平台起降能力」；四川舰配备电磁弹射和阻拦装置，2025年11月首次海试。官方未公布试验时间地点、架次或影像；TWZ称尚无视觉证实，但认为中国海军有望成为首个形成此类舰载隐身无人机作战能力的海军。台湾方面本期未检索到官方回应。",
+          "sourceNote": "新华网 Xinhua；中国国防部 China MND；The War Zone",
+          "links": [
+            {
+              "name": "新华网 Xinhua",
+              "url": "https://www.xinhuanet.com/20261030/20e79c405f3a47929a0d437eb1f90a18/c.html"
+            },
+            {
+              "name": "中国国防部 China MND",
+              "url": "http://eng.mod.gov.cn/2025xb/N/T/16497202.html"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/stealthy-gj-21-drone-has-launched-and-recovered-from-type-076-amphibious-assault-ship-china-claims"
+            }
+          ],
+          "tierText": "一档事实（官方宣布的试验节点；能力表述为官方口径，TWZ为二档）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "攻击-21首次在四川舰成功起降"
+        },
+        {
+          "text": "二十届五中全会（10月26—29日）公报确认，全会审议通过中央军委关于张又侠、刘振立、王仁华、刘青松、黄铭、李桥铭、李伟、张红兵、汪海江、张林、王鹏、刘发庆、杨诚、钟绍军、赵晓哲、方永祥等16名军队人员严重违纪违法问题的审查报告，并确认对其开除党籍；同批开除党籍的还有雷凡培（曾掌航天科技、中船）、袁洁（航天科工原董事长）、张忠阳（航天科技原总经理）、温刚（中船原董事长）、余剑锋（中核原董事长）等军工央企前负责人。全会还增选张升民为中央政治局委员，决定二十一大于2027年下半年召开。ISW评估称大范围清洗反映最高层与军队之间不信任，降低了近期发动重大军事行动的可能性。",
+          "sourceNote": "中国政府网",
+          "links": [
+            {
+              "name": "中国政府网 / 新华社 Xinhua",
+              "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084479.htm"
+            },
+            {
+              "name": "联合早报 Lianhe Zaobao",
+              "url": "https://www.zaobao.com.sg/news/china/story20261029-9916157"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2116316012144480475"
+            }
+          ],
+          "tierText": "一档事实（党的正式公报）",
+          "domain": "space",
+          "location": null,
+          "headline": "五中全会确认16名军队人员开除党籍"
+        },
+        {
+          "text": "南部战区10月30日宣布组织海空兵力在黄岩岛领海领空及周边开展「战备警巡」，中国海警同日在黄岩岛领海及周边执法巡查，两者均称是对「菲方侵权挑衅行径的必要反制」，并称10月以来持续加强巡查、「依法依规处置非法侵权船只」。此前一天中菲刚因东盟防长扩大会公开交恶；美国之音称截至发稿菲政府和军方尚未回应，菲防长特奥多罗此前在会上反驳称中方有机会阐明立场。",
+          "sourceNote": "中国国防部",
+          "links": [
+            {
+              "name": "中国国防部 / 中国海警 China MND / CCG",
+              "url": "http://www.mod.gov.cn/gfbw/qwfb/16497164.html"
+            },
+            {
+              "name": "美国之音 VOA",
+              "url": "https://www.voachinese.com/a/china-steps-up-military-patrols-around-disputed-shoal-in-south-china-sea-amid-renewed-philippines-tensions-20261030/8216848.html"
+            }
+          ],
+          "tierText": "一档事实（巡航宣布本身）/ 定性为中方官方口径（三档）/ the patrol announcements are fact; their framing is Beijing's official line",
+          "domain": "sea",
+          "location": {
+            "name": "黄岩岛（示意）",
+            "lat": 15.15,
+            "lon": 117.76
+          },
+          "headline": "黄岩岛：战区警巡与海警执法同日展开"
+        },
+        {
+          "text": "台湾国防部称，截至31日早6时，台湾周边侦获共机13架次、共舰7艘、公务船2艘，其中6架次逾越海峡中线进入其北部、中部及西南防空识别区。日本统合幕僚监部通报：29日午后海上自卫队在宫崎县都井岬东南约60公里确认中国海军东调级电子侦察船（舷号798）西进，随后经大隅海峡驶向东海，该舰17—18日曾东进同一海峡。大陆方面对上述具体动态未单独发布通报。",
+          "sourceNote": "台湾国防部 Taiwan MND；日本统合幕僚监部 Japan Joint Staff",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://x.com/MoNDefense/status/2116334340334362869"
+            },
+            {
+              "name": "日本统合幕僚监部 Japan Joint Staff",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261030_03.pdf"
+            }
+          ],
+          "tierText": "一档事实（官方通报）/ 台方数据为官方口径",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台方报共机13架次，798舰西经大隅"
+        },
+        {
+          "text": "卫星图像显示中国海军造船和南海基建继续扩张：Naval News据10月4日的高分辨率卫星图像核实，广州龙穴岛广船国际（COMEC/GSI）船坞内有两艘全长210米的071型船坞登陆舰并排在建，其中一艘可能年底或2027年初下水，这是071型首次在上海沪东中华以外的船厂建造。另据OSINT分析员detresfa，南海羚羊礁（Antelope Reef）可能进入新施工阶段，初步地面工程显示或将修建一条约3000米跑道。",
+          "sourceNote": "Naval News；detresfa_",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/10/china-expands-construction-of-type-071-amphibious-warfare-ships-to-guangzhou/"
+            },
+            {
+              "name": "detresfa_",
+              "url": "https://x.com/detresfa_/status/2116093789131706553"
+            }
+          ],
+          "tierText": "一档事实（卫星图像；Naval News图像未公开）/ 跑道用途为推断（二档）/ satellite imagery (Naval News imagery not released); runway purpose is inference",
+          "domain": "space",
+          "location": {
+            "name": "南海（示意）",
+            "lat": 12.0,
+            "lon": 114.0
+          },
+          "headline": "071型扩产至广州，羚羊礁或修跑道"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "英国海上贸易行动办公室（UKMTO）通报：10月29日晚，一艘出港油轮在阿曼哈萨布东北约25海里处遭一艘小艇靠近，在左舷水线以上贴附两枚爆炸装置，爆炸引发机舱起火、船只一度失去动力，船员安全、火已扑灭、船已继续航行；多家海事安全机构和路透称这是巴拿马籍苏伊士型油轮Louise 1遭吸附式水雷袭击，为2019年以来首次、也是本轮战争以来首次成功使用。伊朗革命卫队30日声称袭击了海峡内外4艘船，并称摧毁一艘美军水面无人艇；美中央司令部称后者「不实」，所有美军无人艇均在位，司令库珀称主要航道已清除伊朗水雷、夏季以来已协助海湾伙伴出口逾15亿桶原油。",
+          "sourceNote": "gCaptain",
+          "links": [
+            {
+              "name": "gCaptain / Reuters",
+              "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report"
+            },
+            {
+              "name": "美国中央司令部 CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2116227440347394114"
+            }
+          ],
+          "tierText": "一档事实（UKMTO核实通报）/ 归因伊朗及双方战果声明为三档",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "霍尔木兹现吸附式水雷袭船"
+        },
+        {
+          "text": "俄罗斯国防部称，太平洋舰队「大元帅苏沃洛夫」号战略核潜艇按训练计划从水下发射一枚「布拉瓦」潜射洲际弹道导弹，弹头按时抵达阿尔汉格尔斯克州奇扎靶场；USNI称发射海域为鄂霍次克海，国际航行警告显示10月25—31日有导弹活动。同期朝鲜29日的弹道导弹齐射，韩方称约10枚，美印太司令部统计为2枚，口径不一。",
+          "sourceNote": "USNI News（援引俄国防部",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/10/30/russia-north-korea-test-missiles-in-the-western-pacific"
+            }
+          ],
+          "tierText": "一档事实（发射本身为官方公布；「按时抵达」为俄方口径）",
+          "domain": "missile",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "俄战略核潜艇试射布拉瓦导弹"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "美海军中型登陆舰（LSM）项目的船舶建造管理方TOTE Services宣布，韩华防务美国公司以2.69亿美元合同在韩华费城船厂建造1艘LSM，另有3艘选项；这是TOTE（22亿美元、最多8艘的建造管理合同）首次选定船厂。博林格已承建首艘，芬坎蒂尼马里内特拿到4艘长周期件合同；LSM基于达门LST-100设计，是陆战队西太岛链分散作战的关键平台。",
+          "sourceNote": "USNI News；Breaking Defense",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/10/30/hanwha-philly-shipyard-to-build-navy-landing-ship-mediums"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/"
+            }
+          ],
+          "tierText": "一档事实（合同公告，经媒体转述）",
+          "domain": "sea",
+          "location": null,
+          "headline": "韩华费城船厂拿下首艘LSM合同"
+        },
+        {
+          "text": "朝鲜领导人金正恩10月29日视察「无人航空技术发展-2026」展览，要求在无人机技术上取得「绝对优势」，宣布加快无人航空系统和军事人工智能发展；展厅中央陈列一款大型无尾飞翼「隐身无人机」模型（翼展估计约17—20米），现场还有600毫米火箭炮配合演示。TWZ指出飞翼展品为模型，实际能力仍待观察；美国学者本德特认为其能力跃升得益于俄罗斯的帮助。",
+          "sourceNote": "The War Zone；Samuel Bendett",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/highlights-from-north-koreas-drone-a-palooza"
+            },
+            {
+              "name": "Samuel Bendett",
+              "url": "https://x.com/sambendett/status/2116265508257280056"
+            }
+          ],
+          "tierText": "二档专业解读（展品照片来自朝中社/劳动新闻，性能为外界研判）",
+          "domain": "air",
+          "location": {
+            "name": "朝鲜（示意）",
+            "lat": 39.04,
+            "lon": 125.76
+          },
+          "headline": "金正恩无人机展：要求绝对优势"
+        },
+        {
+          "text": "通用原子公司向TWZ披露，正在研发名为NextGen的混合电推进飞翼察打无人机，续航可超过60小时，相关工作将并入「甘比特」（Gambit）系列；对地攻击型Gambit 6计划明年初进行空对地实弹演示，Gambit 1（XQ-67）已在飞行，公司与Spirit Defense合作降低制造风险。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion"
+            }
+          ],
+          "tierText": "三档有立场（企业自述研发进度，未经独立核实）",
+          "domain": "air",
+          "location": null,
+          "headline": "通用原子在研混合电推进飞翼无人机"
+        },
+        {
+          "text": "德国KNDS与挪威Ritek已于10月15日在挪威莱万格开始生产豹2A8坦克，将为挪威陆军54辆新坦克中的37辆在当地总装，工厂筹建18个月、年产能最高36辆；这是德挪今年2月签署「汉莎」防务安排的一部分，双方还将各装备6艘相同的212CD潜艇、合作研制3SM新一代海上打击导弹，并把天基侦察、瞄准和通信列为合作重点。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/10/30/from-tanks-to-space-norway-and-germany-forge-ahead-with-hansa-defense-pact/"
+            }
+          ],
+          "tierText": "一档事实（企业与挪威国防部公开信息，经媒体转述）",
+          "domain": "missile",
+          "location": {
+            "name": "德国（示意）",
+            "lat": 52.52,
+            "lon": 13.4
+          },
+          "headline": "豹2A8在挪威投产，德挪汉莎安排深化"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "拦截弹与反导供应链：500枚PAC-3 MSE（约21亿美元，盟友出资）叠加乌克兰「芙蕾雅」反导和空空导弹、雷达、涡喷资助，拦截弹的导引头、雷达、火控和小型发动机是需求最确定的环节。",
+    "舰载与长航时无人机：攻击-21上四川舰、通用原子60小时以上混合电推进飞翼，以及朝鲜无人机展，指向电磁弹射与阻拦、自动着舰引导、混合电推进和低成本攻击无人机等细分方向。",
+    "军工央企人事风险：五中全会确认航天科技、航天科工、中船、中核等多名前负责人被开除党籍，评估卫星、航天配套项目时宜关注相关集团的人事调整对订单审批和交付节奏的影响（这是推断）。",
+    "造船与本地化产能：韩华费城船厂拿下LSM、071型扩到第二家船厂、豹2A8在挪威本地总装（年产最高36辆），盟国和中国都在扩产能，船坞、总装线和本地配套是共同主线。",
+    "海上安全与海事监视：霍尔木兹吸附式水雷袭击和黄岩岛双重巡航，指向船舶安保、海上监视卫星和商业遥感数据的持续需求。"
+  ]
+}
