@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-01",
+  "publishedAt": "2026-11-01T09:30:00+08:00",
+  "coverage": "约 10月31日上午至 11月1日上午（UTC+8），周末新消息偏少",
+  "summary": "解放军10月31日下午以「联合战备警巡」名义出动22架次军机，台湾国防部称截至11月1日早6时共侦获共机32架次、26架次逾越中线，同日中国海警虎狮舰编队在台湾岛以东「常态化执法巡查」；美国中央司令部称对伊朗封锁已累计拦回144艘商船，伊朗最高领袖穆杰塔巴·哈梅内伊下令以「不受地理限制」的方式回应任何新打击，美方称特朗普尚未决定是否在11月3日中期选举后恢复空袭。俄乌方面，美方斡旋的赫尔松局部停火下，被占奥列什基的平民撤离已完成，但俄军一夜袭击基辅、第聂伯等地能源设施，约28万户停电。产业侧，乌克兰与北约创新加速器DIANA签署首份伙伴国备忘录，美海军接收今年第4艘LCAC气垫登陆艇。",
+  "highlights": [
+    {
+      "lead": "联合警巡",
+      "text": "解放军22架次出海，台方称24小时共机32架次。",
+      "item": 6
+    },
+    {
+      "lead": "封锁伊朗",
+      "text": "美中央司令部称已拦回144艘商船。",
+      "item": 8
+    },
+    {
+      "lead": "无限回应",
+      "text": "哈梅内伊下令扩充目标库，美方称尚未决定复打。",
+      "item": 9
+    },
+    {
+      "lead": "奥列什基",
+      "text": "局部停火下平民撤离完成，经白俄罗斯返乌。",
+      "item": 1
+    },
+    {
+      "lead": "要地防空",
+      "text": "海湖庄园部署复仇者防空车和反无人机系统。",
+      "item": 11
+    },
+    {
+      "lead": "调查船",
+      "text": "大陆超120艘海洋调查船测绘台湾周边海床。",
+      "item": 7
+    }
+  ],
+  "stats": [
+    {
+      "value": "32",
+      "unit": "架次",
+      "label": "台湾周边共机",
+      "item": 6
+    },
+    {
+      "value": "144",
+      "unit": "艘",
+      "label": "被拦回商船",
+      "item": 8
+    },
+    {
+      "value": "28",
+      "unit": "万户",
+      "label": "乌克兰停电",
+      "item": 2
+    },
+    {
+      "value": "1039",
+      "unit": "艘",
+      "label": "乌无人机击中船艇",
+      "item": 4
+    },
+    {
+      "value": "120",
+      "unit": "艘以上",
+      "label": "大陆海洋调查船",
+      "item": 7
+    }
+  ],
+  "featured": [
+    6,
+    9
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "在美国第一夫人梅拉尼娅斡旋、俄乌双方人权专员确认的局部停火下，被占赫尔松州奥列什基的人道撤离已完成：10月30日道路排雷、运入援助后，25辆大巴（可载约750人）载离居民，选择回乌控区者经俄罗斯阿纳帕飞往白俄罗斯戈梅利，31日经切尔尼戈夫州入境乌克兰；也有人选择去俄罗斯或留下。乌方未公布撤离人数，停火持续到11月1日22:59（当地时间）。ISW称双方基本遵守了这次停火，乌方人权专员称停火期间赫尔松州未记录到空袭。",
+          "sourceNote": "乌克兰国防部 Ukraine MoD；ISW；Ukrinform；CBS/AP",
+          "links": [
+            {
+              "name": "乌克兰国防部 Ukraine MoD",
+              "url": "https://x.com/DefenceU/status/2116530015491743918"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2116681628583874624"
+            },
+            {
+              "name": "Ukrinform",
+              "url": "https://www.ukrinform.net/rubric-society/4180035-humanitarian-mission-from-oleshky-arrives-in-ukraine.html"
+            },
+            {
+              "name": "CBS/AP",
+              "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-arrive-ukraine-temporary-us-brokered-ceasefire/"
+            }
+          ],
+          "tierText": "一档事实（双方官方确认的停火与撤离安排；人数未公开）",
+          "location": {
+            "name": "赫尔松（示意）",
+            "lat": 46.64,
+            "lon": 32.62
+          },
+          "headline": "奥列什基撤离完成，赫尔松局部停火"
+        },
+        {
+          "text": "泽连斯基称，俄军「沙希德」无人机一夜之间袭击基辅一座热电厂、绍斯特卡热电厂、第聂伯州四座变电站以及第聂伯和哈尔科夫的铁路设施和一处燃气设施，第聂伯市及州约20万户、基辅州8万多户停电，乌国防部合计为28万户以上。这与赫尔松局部停火同时发生，说明停火只限于局部。",
+          "sourceNote": "乌克兰国防部 Ukraine MoD；泽连斯基 Zelensky",
+          "links": [
+            {
+              "name": "乌克兰国防部 Ukraine MoD",
+              "url": "https://x.com/DefenceU/status/2116490236603629714"
+            },
+            {
+              "name": "泽连斯基 Zelensky",
+              "url": "https://x.com/ZelenskyyUa/status/2116469824565944797"
+            }
+          ],
+          "tierText": "三档有立场（乌方官方通报，损失数字未经独立核实）",
+          "domain": "air",
+          "location": {
+            "name": "基辅（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄军夜袭能源设施，约28万户停电"
+        },
+        {
+          "text": "乌克兰国防部称，副防长博耶夫与北约国防创新加速器DIANA签署谅解备忘录，这是DIANA与北约伙伴国签的第一份此类协议：乌克兰—北约联合项目将获额外资金，双方将同步技术目录（成熟度、测试结果、用途），并加强与北约—乌克兰联合分析训练教育中心（JATEC）的合作，帮助乌方技术更快达到北约标准、进入测试和规模化。",
+          "sourceNote": "乌克兰国防部 Ukraine MoD",
+          "links": [
+            {
+              "name": "乌克兰国防部 Ukraine MoD",
+              "url": "https://mod.gov.ua/en/news/ukraine-nato-diana-defense-innovation-memorandum"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/DefenceU/status/2116556901269885193"
+            }
+          ],
+          "tierText": "一档事实（签约方官方公告）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌克兰签下DIANA首份伙伴国备忘录"
+        },
+        {
+          "text": "乌克兰国防部称，2026年以来乌军用无人机击毁或击伤俄军船艇1039艘，均经DELTA作战系统视频记录、Brave1核实；按月看，7月最多（236艘），10月1—25日为67艘。乌方称打击船艇削弱了俄军对河道的控制和兵员物资运输能力。",
+          "sourceNote": "Ukrinform（援引乌国防部",
+          "links": [
+            {
+              "name": "Ukrinform",
+              "url": "https://www.ukrinform.net/rubric-ato/4179649-ukrainian-forces-hit-over-1000-russian-boats-with-drones-this-year.html"
+            }
+          ],
+          "tierText": "三档有立场（交战方战果声明，未经独立核实）",
+          "domain": "air",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌称今年无人机击中俄船艇1039艘"
+        },
+        {
+          "text": "比利时10月30日把第一艘「三伙伴」级猎雷舰「贝利斯」号正式移交保加利亚海军，这是比方计划移交的4艘中的第一艘；比、荷、保三方备忘录共计向保方转让7艘猎雷舰，用于加强北约在黑海的水雷对抗能力。比荷正通过rMCM项目换装无人反水雷系统，保方承担维护和重新服役费用。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy/"
+            }
+          ],
+          "tierText": "一档事实（政府移交仪式，经专业媒体报道）",
+          "domain": "sea",
+          "location": {
+            "name": "黑海（示意）",
+            "lat": 43.4,
+            "lon": 34.0
+          },
+          "headline": "比利时首艘猎雷舰移交保加利亚"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，10月31日13时15分起侦获歼-10、歼-16、空警-500、运油-20等军机及无人机22架次出海，其中18架次逾越中线及其延伸线进入台湾北部、中部、西南及西太平洋空域，配合共舰进行「联合战备警巡」，这是继10月20日后本月第二次；截至11月1日早6时，24小时内共侦获共机32架次（26架次逾越中线）、共舰7艘、公务船2艘。大陆方面，东部战区本期未检索到对这次警巡的公开通报；中国海警局发言人姜略称，31日海警虎狮舰编队在「中国台湾岛以东海域」依法开展常态化执法巡查，10月以来持续加强管控。",
+          "sourceNote": "台湾国防部 Taiwan MND；中国国防部（转新华社）China MND",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://www.mnd.gov.tw/EN/Publication/88100"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/MoNDefense/status/2116696734634275181"
+            },
+            {
+              "name": "中国国防部China MND / Xinhua",
+              "url": "http://www.mod.gov.cn/gfbw/qwfb/16497345.html"
+            },
+            {
+              "name": "联合报 UDN",
+              "url": "https://udn.com/news/story/10930/9849305"
+            }
+          ],
+          "tierText": "一档事实（双方官方通报）/ 「骚扰」「依法」等定性为各方官方口径",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "联合战备警巡：台方报32架次，海警东巡"
+        },
+        {
+          "text": "《华尔街日报》报道，据台湾海巡署统计中国大陆运营的海洋调查船超过120艘，近期密集派船测绘台湾周边海床，台方称这有助于「战场经营」；台湾目前只有5艘在役海洋研究船。大陆方面一般将相关活动定性为正常海洋科研。",
+          "sourceNote": "华尔街日报 WSJ；Andrew Erickson",
+          "links": [
+            {
+              "name": "华尔街日报 WSJ",
+              "url": "https://www.wsj.com/world/china/china-scoops-up-data-that-could-aid-its-forces-in-waters-around-taiwan-7acaf563"
+            },
+            {
+              "name": "Andrew Erickson",
+              "url": "https://x.com/AndrewSErickson/status/2116447976620982693"
+            }
+          ],
+          "tierText": "二档专业解读（主流媒体调查；船只数量来自台方官方，用途判断为台方口径）",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "华尔街日报：大陆调查船测绘台湾海床"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "美国中央司令部称，截至10月31日，美军为执行对伊朗港口的封锁已累计让144艘商船改道，较本月早些时候公布的135艘又增加9艘；「乔治·华盛顿」号航母参与封锁执法。封锁自7月中旬宣布实施。",
+          "sourceNote": "美国中央司令部 CENTCOM；Middle East Eye",
+          "links": [
+            {
+              "name": "美国中央司令部 CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2116601802456199305"
+            },
+            {
+              "name": "Middle East Eye",
+              "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-144-vessels-redirected-under-ironclad-iran-blockade"
+            }
+          ],
+          "tierText": "一档事实（美军官方数据）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "对伊封锁累计拦回144艘商船"
+        },
+        {
+          "text": "伊朗最高领袖穆杰塔巴·哈梅内伊会见军方高层后下令，对任何军事或恐怖袭击作出「即时、有效、不受地理限制」的回应，并要求更新「目标库」，把美国和以色列的各类有形、无形资产纳入打击范围；武装部队总参谋长阿卜杜拉希称正在准备覆盖更广地域的新目标清单。美国务卿鲁比奥31日称特朗普「尚未决定」是否恢复对伊打击，同时对外交解决持开放态度；多家美媒此前报道美以已制定11月3日中期选举后的打击方案。革命卫队另称周五有4艘走「未经授权航线」的油轮触雷起火，未公布船名。ISW也报道了这一指令，并称伊方仍愿通过卡塔尔维持间接谈判。",
+          "sourceNote": "Iran International；Arab News",
+          "links": [
+            {
+              "name": "Iran International",
+              "url": "https://www.iranintl.com/en/202610317013"
+            },
+            {
+              "name": "Arab News / AFP",
+              "url": "https://www.arabnews.com/middle-east/rubio-says-us-yet-to-decide-on-new-iran-strikes-3009159"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2116641817483424135"
+            }
+          ],
+          "tierText": "三档有立场（伊方官方表态与美方表态；油轮触雷为革命卫队单方说法）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "哈梅内伊令无限回应，美未定复打"
+        },
+        {
+          "text": "英国海上贸易行动办公室（UKMTO）发布第190-26号警告：10月30日14:19（UTC）一艘大型渔船遭未经授权人员登船，当局担心这是海盗行动组（PAG）的一部分，提醒船只谨慎通行并落实BMP防护措施。警告未给出位置、船名或船旗。",
+          "sourceNote": "UKMTO",
+          "links": [
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261031-ukmto_warning_190.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/UK_MTO/status/2116605903118217556"
+            }
+          ],
+          "tierText": "一档事实（UKMTO核实通报；位置未公开）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "UKMTO：大型渔船遭登船，疑海盗"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "北美防空司令部和美国北方司令部证实，应特勤局要求，已在佛罗里达州特朗普的海湖庄园及周边部署地基防空和反无人机系统；TWZ据照片称包括陆军「复仇者」（AN/TWQ-1，发射「毒刺」导弹）近程防空系统，部署在庄园附近和约3英里外的特朗普国际机场，约两周前到位，另有北方司令部的「飞行套件」式反无人机传感器和干扰器。官方未说明原因，TWZ认为与伊朗威胁、刺杀风险和中期选举安保有关。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate"
+            }
+          ],
+          "tierText": "一档事实（NORAD）/ 系统型号依据照片、动机为TWZ判断（二档）/ official statements; system identification from photos and motive are TWZ's assessment",
+          "domain": "missile",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "海湖庄园部署复仇者与反无人机"
+        },
+        {
+          "text": "美海军10月28日在新奥尔良从德事隆系统公司接收「舰岸连接器」气垫登陆艇LCAC 118，这是今年交付的第4艘，推进海军—陆战队两栖舰队现代化。",
+          "sourceNote": "DVIDS",
+          "links": [
+            {
+              "name": "DVIDS / 美国海军 U.S. Navy",
+              "url": "https://www.dvidshub.net/news/578362/navy-accepts-delivery-ship-shore-connector-landing-craft-air-cushion-118"
+            }
+          ],
+          "tierText": "一档事实（美海军官方新闻稿）",
+          "domain": "sea",
+          "location": null,
+          "headline": "美海军接收今年第4艘LCAC"
+        },
+        {
+          "text": "天文学家麦克道尔记录：印度10月30日18:21（UTC，即北京时间31日02:21）用GSLV Mk II火箭发射IRNSS-1L导航卫星，该星属于印度区域导航卫星系统（NavIC）。",
+          "sourceNote": "Jonathan McDowell",
+          "links": [
+            {
+              "name": "Jonathan McDowell",
+              "url": "https://x.com/planet4589/status/2116478735134155251"
+            }
+          ],
+          "tierText": "一档事实（发射记录，独立航天数据源）",
+          "domain": "space",
+          "location": {
+            "name": "印度（示意）",
+            "lat": 28.61,
+            "lon": 77.21
+          },
+          "headline": "印度发射IRNSS-1L导航卫星"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "中东战事复燃风险：伊朗下令「不受地理限制」回应、美方选后打击选项未定、封锁已拦回144艘船，11月4日前后是油价、航运保险和海上安保需求的关键窗口，拦截弹和反无人机消耗可能再上台阶（这是推断）。",
+    "本土要地防空与反无人机：海湖庄园部署「复仇者」和反无人机套件，说明近程防空和可快速部署的反无人机系统正从战区扩展到本土重点目标保护。",
+    "海洋测绘与海上感知：大陆超过120艘调查船密集测绘台湾周边海床，叠加台海「联合战备警巡」常态化，水下测绘、海底感知、海上监视卫星和商业遥感的需求在两岸及周边都在上升。",
+    "无人系统与创新通道：乌克兰无人机今年击中1039艘船艇，并进入北约DIANA体系，比荷换装无人反水雷系统，低成本无人机、无人水面/水下系统和测试认证服务是可跟踪方向。"
+  ]
+}
