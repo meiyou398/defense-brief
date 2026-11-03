@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T09:30:00+08:00",
+  "coverage": "约 11月2日上午至 11月3日上午（UTC+8）",
+  "summary": "俄军11月1日晚至2日再以193架攻击无人机（含75架喷气式「沙希德」类）袭击乌克兰，乌空军称击落或压制154架，26处遭命中，基辅等地紧急限电；白天俄方又出动171架攻击无人机（103架喷气式）与10枚S8000「班杰罗」/「丹-T」导弹，乌称击落压制139架无人机与8枚导弹。美国务院批准向乌出售约21亿美元、500枚「爱国者」PAC-3拦截弹，但知情人士称交付或要等到2030年代初。台海方面，台湾国防部称截至3日早6时24小时内侦获共机49架次（31架次逾越中线进入中部、西南及东部空域）、共舰6艘、公务船6艘，机次与越线强度较前一日19架次/4架次显著回升。日本统合幕僚监部2日通报两架次WZ-7侦察无人机经宫古水道往返、多艘辽宁Ⅲ/补给舰过航及俄「维什尼亚」级情报船南下太平洋。中东方面，UKMTO在191-26霍尔木兹警告之后，又于2日发布第192-26、193-26号攻击警告：阿拉伯湾拉斯海夫吉以东约72海里油轮左舷遭两枚不明抛射物击中，阿曼利马东北约9海里一船右舷被击穿出洞。产业侧，SpaceX将USSF-432由11月3日顺延至6日；美太空军在麦克迪尔空军基地正式激活特战军种组成部队SPACEFOR-SOC；澳方公开「幽灵鲨」载荷含水雷、Altius巡飞弹与后勤补给舱。",
+  "highlights": [
+    {
+      "lead": "共机49架",
+      "text": "台防部：24小时共机49架次、31架次越中线，共舰与公务船各6艘。",
+      "item": 4
+    },
+    {
+      "lead": "193无人机",
+      "text": "俄一夜出动193架攻击无人机，乌称击落压制154架；白天再袭。",
+      "item": 1
+    },
+    {
+      "lead": "海湾连击",
+      "text": "UKMTO：拉斯海夫吉油轮与阿曼近岸船只接连遭不明抛射物击中。",
+      "item": 6
+    },
+    {
+      "lead": "爱国者",
+      "text": "美批准向乌出售约21亿美元、500枚爱国者PAC-3拦截弹。",
+      "item": 2
+    },
+    {
+      "lead": "宫古水道",
+      "text": "日本通报两架次WZ-7过宫古，辽宁Ⅲ编队与俄情报船南下。",
+      "item": 5
+    },
+    {
+      "lead": "幽灵鲨",
+      "text": "澳公开幽灵鲨载荷：水雷、Altius巡飞弹与后勤补给舱。",
+      "item": 9
+    }
+  ],
+  "stats": [
+    {
+      "value": "49",
+      "unit": "架次",
+      "label": "台湾周边共机",
+      "item": 4
+    },
+    {
+      "value": "31",
+      "unit": "架次",
+      "label": "逾越中线共机",
+      "item": 4
+    },
+    {
+      "value": "193",
+      "unit": "架",
+      "label": "一夜俄无人机",
+      "item": 1
+    },
+    {
+      "value": "500",
+      "unit": "枚",
+      "label": "批准PAC-3",
+      "item": 2
+    },
+    {
+      "value": "2",
+      "unit": "起",
+      "label": "UKMTO新攻击警告",
+      "item": 6
+    }
+  ],
+  "featured": [
+    4,
+    1
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰空军称，自11月1日18时起俄军自奥廖尔、库尔斯克、布良斯克及所占顿涅茨克、克里米亚等方向出动「沙希德」（含75架喷气式）、「天竺葵」攻击机与「帕罗迪亚」诱骗等共193架无人机，截至2日08:00防空击落或压制154架（含58架喷气式沙希德），26处遭命中、9处有残骸坠落；基辅及基辅州实行紧急停电，苏梅、波尔塔瓦、日托米尔等地限电，第聂伯罗彼得罗夫斯克州逾6万用户一度断电。同日白天（约06:30–19:00）俄方再出动171架攻击无人机（103架喷气式）及10枚S8000「班杰罗」/「丹-T」导弹，乌空军称击落或压制139架无人机（78架喷气式）与8枚导弹，截至19时仍有约20架攻击无人机在空。",
+          "sourceNote": "Ukrainska Pravda（援引乌空军）；RBC-Ukraine；LB.ua",
+          "links": [
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/02/8060800/"
+            },
+            {
+              "name": "RBC-Ukraine",
+              "url": "https://newsukraine.rbc.ua/news/russia-launches-193-drones-at-ukraine-overnight-1793602875.html"
+            },
+            {
+              "name": "LB.ua",
+              "url": "https://en.lb.ua/news/2026/11/02/47774_air_defences_down_139_russian.html"
+            }
+          ],
+          "tierText": "三档有立场（乌方官方数字，未经独立核实）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄193架无人机夜袭，白天再发班杰罗"
+        },
+        {
+          "text": "路透社援引美国务院称，美已批准向乌克兰出售约21亿美元、共计500枚「爱国者」PAC-3拦截弹，资金来自加拿大、德国、挪威经US JUMPSTART计划的捐助及欧盟对乌贷款项下的国家资金，主承包商为洛克希德·马丁。这是特朗普第二任期以来对乌最重要的防空弹药放行之一；但两名知情人士称导弹尚待生产、预计要到2030年代初才交付，乌国防部正推动五角大楼考虑先从现有库存拨发再回补。泽连斯基此前称乌已等待近一个月关键导弹批准。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/"
+            }
+          ],
+          "tierText": "一档事实（国务院放行经主流媒体；交付时间表为知情人士转述）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "美批准向乌出售500枚爱国者PAC-3"
+        },
+        {
+          "text": "英国国防部3日宣布，英、法将共同牵头「志愿联盟」军事臂膀「多国部队-乌克兰」（MNF-U）首次大型演习「联盟」（Exercise Koalicja），11月9–22日在波兰举行，约2800人、11国参加，其中英军约300人、皇家空军「台风」与Voyager加油机参训，土耳其在伊斯坦布尔演练海上扫雷以恢复商船进出乌港口；演习旨在演练冲突结束后如何投送、防护与补给一支协助重建乌军的部队，并非维和或停火监察。MNF-U由英三星中将贝特曼指挥，总部拟年内由巴黎迁伦敦。",
+          "sourceNote": "UK MoD",
+          "links": [
+            {
+              "name": "UK MoD",
+              "url": "https://www.gov.uk/government/news/uk-to-lead-multinational-military-training-exercise-to-prepare-for-peace-in-ukraine--2"
+            }
+          ],
+          "tierText": "一档事实（英方官方通稿）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英法拉练多国部队-乌克兰联盟演习"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，统计自11月2日上午6时至3日上午6时，侦获共机49架次、共舰6艘、公务船6艘，其中31架次共机逾越中线进入中部、西南及东部空域，国军以任务机舰及岸置导弹系统监控应处。国防部英文X于3日01:00（UTC，台北时间09:00）同步公布上述数字；英文PLA活动列表亦已挂出11月3日条目。相较前一统计日（共机19架次、仅4架次进入西南及东部空域），机次与越中线强度显著回升，公务船维持6艘。",
+          "sourceNote": "台湾国防部 Taiwan MND",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND / MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2117421506586083659"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mnd.gov.tw/EN/news/PlaactList"
+            }
+          ],
+          "tierText": "一档事实（台方官方通报）",
+          "domain": "missile",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台防部：共机49架次、31架次越中线"
+        },
+        {
+          "text": "日本统合幕僚监部11月2日连发多份通报：当日上午至下午，两架次中国军WZ-7侦察无人机自东海经冲绳本岛—宫古岛之间进入太平洋，在宫古岛南方至冲绳本岛南方海域活动后原路返回，航空自卫队西南航空方面队战斗机紧急升空应对；另确认辽宁Ⅲ级驱逐舰「121」与「福余」级高速战斗支援舰「901」11月1日经宫古水道北西进东海，同舰与「福池」级补给舰「890」于2日凌晨再经宫古水道东南进太平洋；10月31日「江凯Ⅱ」级护卫舰「532」经奄美—横当岛间南西进东海。同日还通报俄海军「维什尼亚」级情报收集舰「535」10月30–31日在久米岛附近游弋后经冲绳—宫古间南进太平洋（此前27–28日过对马海峡）。另确认10月31日下午一架推定中国无人机经与那国—台湾之间进入太平洋，空自紧急升空。",
+          "sourceNote": "日本统合幕僚监部 Japan Joint Staff",
+          "links": [
+            {
+              "name": "日本统合幕僚监部 Japan Joint Staff",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261102_05.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261102_04.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261102_02.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/press/index.html"
+            }
+          ],
+          "tierText": "一档事实（日方官方通报）",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日本：WZ-7两过宫古，辽宁Ⅲ与俄船南下"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "英国海上贸易行动办公室（UKMTO）11月2日连发两则新的「攻击」警告，接续1日霍尔木兹第191-26号事件：第192-26号称，11月1日23:47（UTC）在沙特拉斯海夫吉以东约72海里，一艘东南向航行的油轮左舷遭两枚不明抛射物击中，船员全部平安、暂无环境损害报告；第193-26号称，同日20:20（UTC）在阿曼利马东北约9海里，船长报告船舶右舷被不明抛射物击穿出洞，船与船员安全、无环境损害。两则警告均未公布船名、船旗或攻击方，并建议谨慎通行、报告可疑活动。加上1日霍尔木兹海峡内商船遇险呼叫，11月1日海湾水道在约九小时内至少三起不明抛射物事件进入UKMTO通报。",
+          "sourceNote": "UKMTO；Arab Times",
+          "links": [
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261102-ukmto_warning-192-26.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261102-ukmto_warning_193.pdf"
+            },
+            {
+              "name": "Arab Times",
+              "url": "https://www.arabtimesonline.com/news/vessel-struck-by-unknown-projectile-near-oman/"
+            },
+            {
+              "name": "原文",
+              "url": "https://x.com/UK_MTO/status/2117070861954060555"
+            }
+          ],
+          "tierText": "一档事实（UKMTO核实通报；细节有限）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "UKMTO：海湾两起不明抛射物击船"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "SpaceX宣布，为美太空军执行的USSF-432任务目标窗口改至11月6日（太平洋时间16:46起四小时），从加州范登堡太空军基地SLC-4E以猎鹰9号发射，备份窗口为11月7日16:32；一级助推仍为第八飞，计划在「我当然还爱你」回收船上着陆。早前公开日程曾指向11月3日，现已再顺延三日。",
+          "sourceNote": "SpaceX",
+          "links": [
+            {
+              "name": "SpaceX",
+              "url": "https://www.spacex.com/launches/ussf432"
+            }
+          ],
+          "tierText": "一档事实（发射服务商官方日程）",
+          "domain": "space",
+          "location": null,
+          "headline": "SpaceX将USSF-432顺延至11月6日"
+        },
+        {
+          "text": "美太空军2日在佛罗里达麦克迪尔空军基地举行仪式，正式激活「太空军特种作战司令部」（U.S. Space Forces Special Operations Command，SPACEFOR-SOC），作为美特种作战司令部（USSOCOM）自2006年以来首个新军种组成部队，行政上已于10月7日生效，由诺尔斯基上校指挥。太空作战部长希斯称其向战区特战司令部与联合特遣队提供「特种作战守护者」；指挥部通过「太空特种战」概念部署融合太空、网络与情报专长的小型模块化小队，在拒止与通信降级环境提供低特征太空能力。",
+          "sourceNote": "DVIDS",
+          "links": [
+            {
+              "name": "DVIDS",
+              "url": "https://www.dvidshub.net/news/578451/space-force-activates-special-operations-component-command-tampa"
+            }
+          ],
+          "tierText": "一档事实（美军官方新闻稿）",
+          "domain": "space",
+          "location": null,
+          "headline": "美太空军激活特战组成部队SPACEFOR-SOC"
+        },
+        {
+          "text": "《防务新闻》称，澳国防工业部长康罗伊10月19日在悉尼安杜里尔工厂公开「幽灵鲨」（Ghost Shark）超大型自主水下航行器（XLAUV）三类载荷：水雷、Altius-600巡飞弹蜂群，以及后勤补给舱；国防部称模块化设计可按任务换载，其他载荷（轻/重型鱼雷、电子战等）仍在研制。澳为该舰队投入约17亿澳元（约12亿美元），数量仅以「数十艘」表述；海军还在列装本国C2 Robotics的较小「矛齿」XLAUV。幽灵鲨可自集装箱、小型船尾或码头部署，旨在填补核潜艇到位前的水下战力缺口。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/"
+            }
+          ],
+          "tierText": "一档事实（澳官方公开经专业媒体）",
+          "domain": "missile",
+          "location": null,
+          "headline": "澳公开幽灵鲨水雷与Altius载荷"
+        },
+        {
+          "text": "《海军新闻》援引美海军11月2日新闻稿称，海军作战部长考德尔10月28日在帕图森特河海军航空站参观时听取了空射高超音速导弹「黑胡子」（Blackbeard）简报，该弹近期已在F/A-18E/F「超级大黄蜂」上完成飞行试验，弹体可见「AHM-XXX」试验编号；研制方Castelion将其定位为可快速列装的低成本高超音速打击武器，由海军航空快速能力单元等推动，旨在为航母舰载机提供穿透反介入/区域拒止包线的高速选项。海军未公布性能、试验目标或列装时间表。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/"
+            }
+          ],
+          "tierText": "一档事实（美海军通稿经专业媒体；技术细节有限）",
+          "domain": "missile",
+          "location": null,
+          "headline": "美海军展示黑胡子空射高超音速弹"
+        },
+        {
+          "text": "《防务新闻》援引乌军事情报机关（HUR）与电子战顾问别斯克列斯特诺夫等称，俄正为无人机与制导弹药换装更大的抗干扰「彗星」（Kometa）导航天线阵：16元阵已大规模使用，20元阵进入量产，袭击基辅的「沙希德」上已发现32元阵；更大阵列更易分辨干扰方向并补偿，使无人机更易穿过乌方电子战层，迫使更多目标改由拦截无人机、战机或防空导弹处置。HUR称俄企今年已订购逾10万套不同构型的Kometa模块用于巡航/弹道导弹、攻击无人机与滑翔制导套件。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/"
+            }
+          ],
+          "tierText": "二档专业解读（乌方情报与技术顾问说法，经专业媒体）",
+          "domain": "space",
+          "location": {
+            "name": "基辅（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄为沙希德换装更大抗干扰天线"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "防空弹药与产能：一夜193架加白天171架/10枚班杰罗的连续消耗，叠加500枚PAC-3约21亿美元放行但交付或延至2030年代初，锁定「爱国者」及同类拦截弹扩产、JUMPSTART类盟友集资采购与库存拨发—回补机制（推断）。",
+    "抗干扰与软硬杀伤反无人机：俄Kometa天线元数攀升抬高对乌电子战门槛，更多目标需靠拦截无人机与导弹解决；定向能方面，AeroVironment LOCUST激光已出现在海湖庄园等高价值点防护编成中，C-UAS「软硬一体」需求仍在扩散（推断）。",
+    "水下自主与模块化载荷：澳「幽灵鲨」公开水雷、Altius巡飞弹与后勤舱，显示XLAUV正从平台走向可换载作战套件，对鱼雷/水雷、巡飞弹与无人潜航器总装厂均有订单含义。",
+    "台海与第一岛链侦察压力：共机升至49架次且31架次越中线，叠加日方两日内多架次WZ-7过宫古、辽宁Ⅲ编队往返，海空态势感知、岸基/机载预警、舰载无人机与商用遥感需求随「灰色地带」强度同步抬升。",
+    "国家太空发射与特战太空：USSF-432顺延至11月6日仍占范登堡与回收船队窗口；SPACEFOR-SOC激活把太空专长嵌入特战编成，发射服务、低特征通信与战术太空载荷值得跟踪。"
+  ]
+}
