@@ -1,0 +1,435 @@
+{
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-04T09:30:00+08:00",
+  "coverage": "约 11月3日上午至 11月4日上午（UTC+8）",
+  "summary": "俄军2日夜至3日对乌发动大规模空袭，泽连斯基称共289架无人机、17枚弹道导弹与59枚巡航导弹，乌空军称击落或压制309个目标（含3枚弹道、49枚巡航导弹与257架无人机），23处遭命中，10个州能源设施受损，能源部长称3架无人机瞄准关乎赫梅利尼茨基核电站的变电站；扎波罗热州科米舒瓦哈一所用作发放援助的学校遭航弹袭击，泽连斯基称已33人遇难、50余人或仍被埋。外交上，威特科夫称美方将于11月10–11日在阿布扎比斡旋俄乌工作级会谈，佩斯科夫称俄方由梅金斯基带队；北约证实本周与法德英美在布鲁塞尔谈安全保障。台海方面，台湾国防部称截至4日早6时24小时侦获共机22架次（14架次进入西南及东部空域）、共舰7艘、公务船5艘，较前一日49架次明显回落；大陆方面，中央军委副主席张升民3日在北京会见俄防长别洛乌索夫。中东方面，UKMTO通报一艘印度船员独桅帆船在霍尔木兹海峡出港时遭袭、一艘油轮在阿曼利马东北14海里机舱被两枚不明抛射物击中；特朗普称将于年底前停止每年约40亿美元对以色列援助。产业侧，美空军就向乌提供逾1000枚低成本巡航导弹征询业界；雷神ESSM Block 2交付第1000枚；印度以约57亿美元订购8艘新一代护卫舰；韩国下水第二艘KSS-III Batch-II潜艇。",
+  "highlights": [
+    {
+      "lead": "309目标",
+      "text": "俄一夜以无人机与导弹大规模袭乌，乌称击落压制309个目标。",
+      "item": 1
+    },
+    {
+      "lead": "共机22架",
+      "text": "台防部：24小时共机22架次、共舰7艘、公务船5艘，较前日回落。",
+      "item": 6
+    },
+    {
+      "lead": "中俄防务",
+      "text": "张升民在北京会见俄防长别洛乌索夫，称两军合作成果丰硕。",
+      "item": 7
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "UKMTO：印度船员帆船遭袭，阿曼近岸油轮机舱中两弹。",
+      "item": 11
+    },
+    {
+      "lead": "千枚巡航弹",
+      "text": "美空军征询15个月内交付逾1000枚低成本巡航导弹供乌。",
+      "item": 13
+    },
+    {
+      "lead": "阿布扎比",
+      "text": "美方将于11月10–11日在阿布扎比斡旋俄乌工作级会谈。",
+      "item": 3
+    }
+  ],
+  "stats": [
+    {
+      "value": "309",
+      "unit": "个",
+      "label": "乌称击落压制目标",
+      "item": 1
+    },
+    {
+      "value": "33",
+      "unit": "人",
+      "label": "科米舒瓦哈遇难",
+      "item": 2
+    },
+    {
+      "value": "22",
+      "unit": "架次",
+      "label": "台湾周边共机",
+      "item": 6
+    },
+    {
+      "value": "1000",
+      "unit": "枚",
+      "label": "ESSM Block 2交付",
+      "item": 14
+    },
+    {
+      "value": "57",
+      "unit": "亿美元",
+      "label": "印度8艘护卫舰",
+      "item": 9
+    }
+  ],
+  "featured": [
+    1,
+    6
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰空军称，11月2日夜至3日俄军以「伊斯坎德尔-M」/KN-23弹道导弹、「锆石」导弹、59枚Kh-101/Kh-59/Kh-69/「伊斯坎德尔-K」巡航导弹及289架「沙希德」（其中120架为喷气式）/「格尔贝拉」/诱饵无人机发动袭击；截至9时击落或压制309个目标，含3枚弹道导弹、49枚巡航导弹（另3枚待核实）和257架无人机（含89架喷气式），23处遭命中、14处有残骸坠落，重点方向为基辅、哈尔科夫、文尼察和第聂伯罗彼得罗夫斯克州。泽连斯基称来袭弹道导弹为17枚，目标集中于敖德萨、切尔卡瑟、日托米尔、文尼察、哈尔科夫、第聂伯、切尔诺夫策、切尔尼戈夫、罗夫诺等州能源设施；能源部长什米哈尔称3架无人机瞄准对赫梅利尼茨基核电站至关重要的变电站，已通报国际原子能机构。",
+          "sourceNote": "Ukrainska Pravda（乌空军）；Ukrainska Pravda（泽连斯基）；Ukrainska Pravda（什米哈尔）",
+          "links": [
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8060979/"
+            },
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8060994/"
+            },
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061116/"
+            }
+          ],
+          "tierText": "三档有立场（交战方战果与来袭数字）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄大规模空袭乌能源，乌称拦截309目标"
+        },
+        {
+          "text": "扎波罗热州科米舒瓦哈11月2日遭航弹袭击，被炸的是一所用作发放人道援助的学校。州军政府早前通报31人遇难、5人受伤、约50人失踪，并宣布11月3–5日哀悼三天；泽连斯基3日与德国总理默茨共同会见记者时称遇难人数已升至33人，5人获救，可能仍有50余人被埋在废墟下。",
+          "sourceNote": "Ukrainska Pravda（泽连斯基）；Ukrainska Pravda（州军政府）",
+          "links": [
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061054/"
+            },
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8060964/"
+            }
+          ],
+          "tierText": "三档有立场（乌方官方伤亡数字，未获独立核实）",
+          "location": {
+            "name": "扎波罗热（示意）",
+            "lat": 47.84,
+            "lon": 35.14
+          },
+          "headline": "科米舒瓦哈学校遭航弹，33人遇难"
+        },
+        {
+          "text": "美特使威特科夫在X上称，美方将于11月10–11日在阿布扎比斡旋乌俄工作级会谈，议题包括战后安全、降级与人道问题；克里姆林宫发言人佩斯科夫称俄代表团由梅金斯基率领。北约发言人艾莉森·哈特证实，本周将在布鲁塞尔与法国、德国、英国、美国举行会议讨论对乌安全保障（《乌克兰真理报》称会期为11月4日）。",
+          "sourceNote": "Ukrainska Pravda（威特科夫）；Ukrainska Pravda（佩斯科夫）；Ukrainska Pravda（北约）",
+          "links": [
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8060951/"
+            },
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8061009/"
+            },
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8060993/"
+            }
+          ],
+          "tierText": "一档事实（各方官方表态的会谈安排）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "阿布扎比俄乌会谈定于11月10–11日"
+        },
+        {
+          "text": "拉脱维亚2日深夜（当地00:10起）在卢扎、巴尔维地区发布空袭警报，一架身份不明的无人机随后坠毁于靠近俄边境的巴尔维地区；北约波罗的海空中警巡战机与拉脱维亚拦截无人机均已出动。",
+          "sourceNote": "Ukrainska Pravda",
+          "links": [
+            {
+              "name": "Ukrainska Pravda",
+              "url": "https://www.pravda.com.ua/eng/news/2026/11/03/8060965/"
+            }
+          ],
+          "tierText": "一档事实（拉脱维亚官方通报经媒体转述；无人机来源未明）",
+          "domain": "air",
+          "location": {
+            "name": "波罗的海（示意）",
+            "lat": 57.0,
+            "lon": 19.0
+          },
+          "headline": "不明无人机坠毁拉脱维亚近俄边境"
+        },
+        {
+          "text": "美国海军学会新闻（USNI）援引英方称，英军10月在三次行动中跟踪俄舰：「无畏」号护卫舰10月1–14日为受制裁货船护航，英方还跟踪了「亚历山大·沙巴林」号（10月11–14日）和「维克托·列昂诺夫」号情报船。同期「黑鸟小组」评估，乌方「维瓦尔第行动」见顶后战线相对稳定，俄军10月净推进仅约21平方公里，乌军在克拉马托尔斯克方向有有限反击。",
+          "sourceNote": "USNI News；Black Bird Group",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/03/u-k-forces-track-russian-warships-in-3-operations-spanning-2-weeks"
+            },
+            {
+              "name": "Black Bird Group",
+              "url": "https://x.com/Black_BirdGroup/status/2117635473812128179"
+            }
+          ],
+          "tierText": "一档事实（英方通报）+ 二档专业解读（开源战线评估）",
+          "domain": "sea",
+          "location": null,
+          "headline": "英军10月三次跟踪俄舰；俄月推进约21平方公里"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，截至11月4日早6时的24小时内，侦获共机22架次、共舰7艘、公务船5艘，其中14架次进入西南及东部空域；较前一日49架次（31架次逾越中线）、共舰6艘、公务船6艘明显回落。大陆方面，本期未检索到东部战区或国防部就台岛周边活动的对应通报。ISW统计，解放军9月进入台湾ADIZ共159架次，不及2024、2025年同期一半。",
+          "sourceNote": "台湾国防部 Taiwan MND；ISW",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://x.com/MoNDefense/status/2117783888974295325"
+            },
+            {
+              "name": "ISW",
+              "url": "https://isw.pub/ChinaTaiwanUpdate110326"
+            }
+          ],
+          "tierText": "一档事实（台方官方口径）+ 二档专业解读（ISW有美方政策立场）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台防部：共机22架次、共舰7艘"
+        },
+        {
+          "text": "中国国防部称，中央军委副主席张升民11月3日在钓鱼台国宾馆会见来访的俄罗斯国防部长别洛乌索夫。张升民称两军在高层交往、联演联训等领域成果丰硕，愿加强战略沟通、增进军事互信、完善合作机制；别洛乌索夫称亚太安全形势复杂多变，愿拓展军事教育、科技创新等务实合作。同日外交部例行记者会被问及俄防长访华时，发言人毛宁称「没有可以提供的信息」。据詹姆斯敦基金会，张升民刚在五中全会上增补进入政治局。",
+          "sourceNote": "中国国防部；中国外交部；Jamestown Foundation",
+          "links": [
+            {
+              "name": "中国国防部",
+              "url": "http://www.mod.gov.cn/gfbw/qwfb/16497821.html"
+            },
+            {
+              "name": "中国外交部",
+              "url": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202611/t20261103_12052527.shtml"
+            },
+            {
+              "name": "Jamestown Foundation",
+              "url": "https://jamestown.org/fifth-plenum-breaks-personnel-records/"
+            }
+          ],
+          "tierText": "一档事实（会见事实）/ 三档有立场（双方表态措辞）",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "张升民在北京会见俄防长别洛乌索夫"
+        },
+        {
+          "text": "《台湾英文新闻》援引《读卖新闻》称，台湾地理空间数据公司ingeniSPACE分析发现，5月以来在台湾周边活动的四艘中国科考船——自然资源部「向阳红22」、上海与福建高校运营的「同济」「嘉庚」及AIS识别的「木山子」——在台湾对外海缆铺设海域多次停船或减速，分别出现在台湾北部、东部外海、巴士海峡及环台航线上；台方一名官员称结论「合理」。数字发展部称过去四年台湾近海平均每年发生7–8起海缆事故。",
+          "sourceNote": "Taiwan News；AMTI",
+          "links": [
+            {
+              "name": "Taiwan News",
+              "url": "https://www.taiwannews.com.tw/news/6470163"
+            },
+            {
+              "name": "AMTI",
+              "url": "https://x.com/AsiaMTI/status/2117685745007944052"
+            }
+          ],
+          "tierText": "二档专业解读（商业AIS分析经媒体；意图属推断，未见大陆回应）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "四艘中国科考船被指在台海缆海域徘徊"
+        },
+        {
+          "text": "《海军新闻》与《防务新闻》报道，印度国防部11月2日与加登里奇造船与工程公司（GRSE，5艘）和果阿造船厂（3艘）签署总额5.38665万亿卢比（约57亿美元）合同，建造8艘「28A项目」新一代护卫舰；该舰由印度海军自主设计，长127米、排水量4950吨、航速26节。",
+          "sourceNote": "Naval News；Defense News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/indian-navy-places-orders-for-eight-next-generation-corvettes/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/india-orders-next-gen-corvettes-for-5-7b-under-broad-naval-modernization-push/"
+            }
+          ],
+          "tierText": "一档事实（印度国防部签约经专业媒体）",
+          "domain": "sea",
+          "location": {
+            "name": "印度（示意）",
+            "lat": 28.61,
+            "lon": 77.21
+          },
+          "headline": "印度57亿美元订购8艘新一代护卫舰"
+        },
+        {
+          "text": "韩国11月3日在韩华海洋玉浦船厂下水第二艘3600吨级KSS-III Batch-II潜艇「徐熙」号（SS-088）。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui/"
+            }
+          ],
+          "tierText": "一档事实（下水仪式）",
+          "domain": "sea",
+          "location": {
+            "name": "韩国（示意）",
+            "lat": 37.57,
+            "lon": 126.98
+          },
+          "headline": "韩国下水第二艘KSS-III Batch-II潜艇"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "UKMTO发布第194-26号警告（已核实）：11月2日11:05 UTC（新加坡时间19:05），一艘印度船员驾驶的独桅帆船在出港穿越霍尔木兹海峡时遭袭（印度政府报告），阿曼皇家海军救起幸存船员。第195-26号警告：11月3日19:00 UTC（新加坡时间4日03:00），阿曼利马东北约14海里，一艘油轮的公司安全官报告机舱被两枚不明抛射物击中，无人员伤亡、无环境影响。这是两天内继192-26、193-26之后又两起。",
+          "sourceNote": "UKMTO 194-26；UKMTO 195-26；UKMTO X",
+          "links": [
+            {
+              "name": "UKMTO 194-26",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261103-ukmto_warning-194-26.pdf"
+            },
+            {
+              "name": "UKMTO 195-26",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261103-ukmto_warning_195_26.pdf"
+            },
+            {
+              "name": "UKMTO X",
+              "url": "https://x.com/UK_MTO/status/2117719258432188766"
+            }
+          ],
+          "tierText": "一档事实（官方海事警告；袭击方未认定）",
+          "domain": "sea",
+          "location": {
+            "name": "印度（示意）",
+            "lat": 28.61,
+            "lon": 77.21
+          },
+          "headline": "UKMTO：霍尔木兹帆船遭袭、阿曼油轮中弹"
+        },
+        {
+          "text": "特朗普11月3日接受福克斯《福克斯与朋友》采访时称，美国将在年底前停止每年约40亿美元的对以色列援助，并称内塔尼亚胡已同意。《战区》指出，现行美以谅解备忘录为每年38亿美元、执行至2028财年（330亿美元外国军事融资加50亿美元导弹防御）。另据《战区》，美国科学家联合会核专家克里斯滕森称「美对伊朗动用核武」的传言不实。",
+          "sourceNote": "The War Zone；The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/what-trumps-drastic-reduction-of-u-s-military-aid-to-israel-could-mean"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/nuclear/a-nuclear-strike-on-iran-it-sounds-absurd-because-it-is-lets-talk-about-it"
+            }
+          ],
+          "tierText": "一档事实（总统公开表态）+ 二档专业解读（落实路径未明）",
+          "domain": "missile",
+          "location": {
+            "name": "以色列（示意）",
+            "lat": 32.08,
+            "lon": 34.78
+          },
+          "headline": "特朗普称年底前停止对以年度援助"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "《防务新闻》报道，美空军发布信息征询（RFI），为乌克兰寻求新型低成本巡航导弹（ERAM类）：500磅级、射程逾250海里、速度高于0.6马赫、强干扰下精度10米以内；合同授出后3个月内交付首批、15个月内交付全部逾1000枚，回复截止11月19日。背景：2025年8月美国批准对乌出售3350枚ERAM、约8.25亿美元，原型来自Zone 5和CoAspire。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/"
+            }
+          ],
+          "tierText": "一档事实（官方采购征询经专业媒体）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "美空军征询逾千枚低成本巡航弹供乌"
+        },
+        {
+          "text": "美海军11月2日宣布雷神交付第1000枚ESSM Block 2舰空导弹，距第500枚仅16个月；去年交付逾350枚，产能正向每年700枚以上爬坡（《海军新闻》欧洲海军展报道）。另，泰雷兹子公司先进声学概念公司获美海军5390万美元遥控猎雷模块合同。",
+          "sourceNote": "Naval News；Breaking Defense",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/raytheon-continues-essm-block-2-production-ramp-up-as-programme-marks-1000th-missile-delivery/"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/"
+            }
+          ],
+          "tierText": "一档事实（美海军公告与合同经专业媒体）",
+          "domain": "missile",
+          "location": null,
+          "headline": "雷神交付第1000枚ESSM Block 2"
+        },
+        {
+          "text": "欧洲无人系统与定向能：法国防长沃特兰11月3日在欧洲海军展首日启动与工业界的海上无人艇「公约」，加速列装；德国联邦国防军装备局（BAAINBw）与MBDA德国签约研制吊舱式机载激光武器演示器，用于对付无人机与巡航导弹，未披露金额；空客终止「僚机」无人机项目，转而优先发展亚音速、内置500公斤载荷的U760「掠风暴」（Ravenstorm），以配合德方加速的作战时间表。美国方面，Shield AI公开首架全尺寸X-BAT 001垂直起降隐身战斗无人机原型，正从德州弗里斯科转往堪萨斯州牛顿进行飞行测试。",
+          "sourceNote": "Defense News；The War Zone；Breaking Defense；The War Zone",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/03/french-defense-minister-kicks-off-pact-with-industry-in-rush-to-field-naval-drones/"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/airborne-laser-weapon-for-tactical-aircraft-being-developed-by-germany"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/airbus-ends-wingman-drone-to-meet-germanys-accelerated-operations-timeline/"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/x-bat-vtol-fighter-drone-prototype-unveiled"
+            }
+          ],
+          "tierText": "一档事实（官方/企业公告经专业媒体）",
+          "domain": "missile",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "法启动无人艇公约，德研机载激光"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "低成本巡航导弹与「可负担的数量」：美空军要求15个月内交付逾1000枚500磅级、抗干扰精度10米的巡航弹，低成本远程打击弹药、抗干扰导航与小型涡喷发动机供应链需求明确（推断）。",
+    "防空拦截弹产能：一夜309个来袭目标被拦或压制、ESSM Block 2十六个月内再交付500枚并向年产700枚以上爬坡，舰空/陆基拦截弹、导引头与固体发动机扩产仍是主线。",
+    "海上无人与反水雷：法国海上无人艇公约、泰雷兹AAC 5390万美元猎雷模块合同，加之霍尔木兹—阿曼湾两天内四起袭船警告，USV/UUV、反水雷与商船防护服务需求抬升（推断）。",
+    "亚洲造舰与潜艇：印度约57亿美元8艘护卫舰、韩国KSS-III Batch-II二号艇下水，舰船总装、动力与声呐/作战系统配套订单在印太持续落地。",
+    "海底基础设施与海域感知：中国科考船在台湾海缆海域反复停船、台海共机虽回落仍维持日常压力，海缆监测、海底传感、商业AIS/遥感分析与卫星海洋监视值得跟踪。"
+  ]
+}
