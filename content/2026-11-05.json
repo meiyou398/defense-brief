@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-05",
+  "publishedAt": "2026-11-05T09:30:00+08:00",
+  "coverage": "约 11月4日上午至 11月5日上午（UTC+8）",
+  "summary": "俄军3日夜至4日对乌发动大规模无人机袭扰，乌空军称来袭310架「沙希德」类无人机（含81架喷气式），截至4日早8时击落或压制272架，19处遭命中；能源与多州电网受损，泽连斯基称基辅市及日托米尔、切尔尼戈夫、苏梅、波尔塔瓦、哈尔科夫、切尔卡瑟、文尼察、顿涅茨克等州进入紧急限电，能源部称过去24小时对能源系统打击逾20次，副部长称核电站被迫降出力。扎波罗热州科米舒瓦哈人道援助点遇难人数升至至少40人。俄方军博称在罗夫诺州使用新型「菲林」巡航导弹，乌军事情报总局评估其时速约800公里、射程可达1200公里。台海方面，台湾国防部称截至5日早6时24小时侦获共机21架次（19架次逾越中线进入北/中/西南/东部空域）、共舰8艘、公务船8艘；4日白天另通报所谓「联合战备警巡」，自11时8分起侦获14架次（歼-10/11/16、空警-500、运油-20及无人机），其中12架次逾越中线。朝鲜4日自咸镜南道宣德向东海发射多枚导弹，韩联合参谋本部称飞行距离据信不足300公里。产业侧，美空军就ERAM项目新增无动力滑翔弹（ERAM Glide）征询业界；法国与Naval Group签约研制大型远洋无人潜航器演示样机，计划2028年海试；MBDA称Stratus RS高速打击弹射程将「远远超过」飞鱼；巴基斯坦空军完成国产Fa’az空空导弹首次飞行试验。",
+  "highlights": [
+    {
+      "lead": "310无人机",
+      "text": "俄一夜以310架沙希德类无人机袭乌，乌称击落压制272架，多州紧急限电、核电站降出力。",
+      "item": 1
+    },
+    {
+      "lead": "共机21架",
+      "text": "台防部：至5日早6时共机21架次（19架次逾中线）、共舰8艘；4日另报联合战备警巡14架次。",
+      "item": 5
+    },
+    {
+      "lead": "科米舒瓦哈40人",
+      "text": "扎波罗热州人道援助点遇难升至至少40人，逾30人或仍被埋。",
+      "item": 2
+    },
+    {
+      "lead": "宣德导弹",
+      "text": "朝鲜自咸镜南道宣德向东海发射多枚导弹，据信飞行不足300公里。",
+      "item": 6
+    },
+    {
+      "lead": "ERAM滑翔弹",
+      "text": "美空军就500磅级无动力ERAM Glide征询业界，要求CEP50≤10米、滑翔比≥10:1。",
+      "item": 9
+    },
+    {
+      "lead": "法国大型UUV",
+      "text": "法国与Naval Group签约研制远洋无人作战潜航器演示样机，计划2028年海试。",
+      "item": 10
+    }
+  ],
+  "stats": [
+    {
+      "value": "310",
+      "unit": "架",
+      "label": "乌称来袭无人机",
+      "item": 1
+    },
+    {
+      "value": "40",
+      "unit": "人",
+      "label": "科米舒瓦哈遇难",
+      "item": 2
+    },
+    {
+      "value": "21",
+      "unit": "架次",
+      "label": "台湾周边共机",
+      "item": 5
+    },
+    {
+      "value": "19",
+      "unit": "架次",
+      "label": "逾越中线共机",
+      "item": 5
+    },
+    {
+      "value": "3000",
+      "unit": "万欧元",
+      "label": "法国UCUV预算承诺",
+      "item": 10
+    }
+  ],
+  "featured": [
+    1,
+    5
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰空军称，自11月3日18时起至4日凌晨，俄军以310架「沙希德」类攻击无人机（含81架喷气式）及「格尔贝拉」「帕罗迪亚」诱饵无人机发动袭击，起飞方向包括奥廖尔、库尔斯克、沙塔洛沃、米列罗沃、滨海阿赫塔尔斯克以及占领区顿涅茨克与克里米亚格瓦尔季伊斯克；截至4日早8时击落或压制272架（含64架喷气式），逾20架仍在空中，19处遭命中、15处有残骸坠落。ISW称打击重点为中西部能源设施，涉及基辅市及赫梅利尼茨基、基洛夫格勒、敖德萨、沃伦、捷尔诺波尔、日托米尔等州；泽连斯基称基辅市及日托米尔、切尔尼戈夫、苏梅、波尔塔瓦、哈尔科夫、切尔卡瑟、文尼察、顿涅茨克等州进入紧急限电；能源部称过去24小时对能源系统打击逾20次，第一副部长涅克拉索夫称核电站被迫降低发电出力。",
+          "sourceNote": "Interfax-Ukraine（乌空军）；ISW",
+          "links": [
+            {
+              "name": "Interfax-Ukraine",
+              "url": "https://en.interfax.com.ua/news/general/1230906.html"
+            },
+            {
+              "name": "ISW",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-4-2026"
+            }
+          ],
+          "tierText": "三档有立场（交战方战果与来袭数字）+ 二档专业解读（ISW有美方政策立场）",
+          "domain": "air",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄一夜310架无人机袭乌，多州限电核电站降出力"
+        },
+        {
+          "text": "扎波罗热州科米舒瓦哈11月2日遭滑翔航弹袭击的人道援助发放点，遇难人数继续上升。泽连斯基4日称截至当日上午至少40人遇难，仍可能有逾30人被埋在废墟下；他谴责国际反应不足。该事件已连续多日出现在乌方通报中。",
+          "sourceNote": "ISW（援引泽连斯基）；The Independent",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-4-2026"
+            },
+            {
+              "name": "The Independent",
+              "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-zelensky-school-attack-b3079198.html"
+            }
+          ],
+          "tierText": "三档有立场（乌方官方伤亡数字，未获独立核实）",
+          "location": {
+            "name": "扎波罗热（示意）",
+            "lat": 47.84,
+            "lon": 35.14
+          },
+          "headline": "科米舒瓦哈人道援助点遇难升至至少40人"
+        },
+        {
+          "text": "ISW援引俄军博4日称，俄军在罗夫诺州杜布罗维齐亚附近能源设施使用了新型「菲林」（Filin）巡航导弹。乌军事情报总局（GUR）此前评估：「菲林」最高时速约800公里、射程可达1200公里，有50公斤与100公斤战斗部变体，以固体助推器地面发射，载荷量级接近「沙希德」/「天竺葵」类无人机。该型号是否确已实战使用仍主要依赖交战方与军博口径。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-4-2026"
+            }
+          ],
+          "tierText": "三档有立场（俄军博实战宣称）+ 二档专业解读（GUR技术评估，未经第三方试射核实）",
+          "domain": "missile",
+          "location": null,
+          "headline": "俄军博称使用菲林巡航导弹，GUR评估射程可达1200公里"
+        },
+        {
+          "text": "乌方继续远程打击俄境物流节点：ISW称11月3日夜至4日，阿ды盖斯克（阿迪格共和国）一处Ozon电商仓储中心遭袭起火，Ozon与阿迪格行政长官均确认由乌无人机造成。地面战场上，ISW评估俄军近期在康斯坦丁诺夫卡西北巩固阵地，乌总参数据显示该方向3–4日发动24次突击，为全线最多。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-4-2026"
+            }
+          ],
+          "tierText": "一档事实（Ozon与地方当局确认起火原因经ISW）+ 二档专业解读（战线评估）",
+          "domain": "air",
+          "location": null,
+          "headline": "乌无人机袭击阿迪格Ozon仓；康斯坦丁诺夫卡方向突击最多"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，截至11月5日早6时的24小时内，侦获共机21架次、共舰8艘、公务船8艘，其中19架次逾越中线进入北部、中部、西南及东部空域。另据国防部4日17:10新闻稿及中央社，自当日11时8分起陆续侦获歼-10、歼-11、歼-16、空警-500、运油-20及无人机等共14架次出海，其中12架次逾越中线及其延伸线进入北部、中部、西南空域，配合共舰进行所谓「联合战备警巡」；国军以任务机、舰及岸置导弹应处。大陆方面，本期未检索到东部战区或国防部就该「警巡」的对应通报。",
+          "sourceNote": "台湾国防部 Taiwan MND；台湾国防部新闻稿；中央社 CNA",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://x.com/MoNDefense/status/2118146276835602925"
+            },
+            {
+              "name": "台湾国防部新闻稿",
+              "url": "https://www.mnd.gov.tw/En/Publication/88144"
+            },
+            {
+              "name": "中央社 CNA",
+              "url": "https://www.cna.com.tw/news/aipl/202611040264.aspx"
+            }
+          ],
+          "tierText": "一档事实（台方官方口径；大陆对应通报未见）",
+          "domain": "missile",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台防部：共机21架次19架逾中线；另报联合战备警巡"
+        },
+        {
+          "text": "韩联社援引韩国联合参谋本部称，朝鲜11月4日清晨自咸镜南道宣德一带向东海发射多枚导弹，飞行距离据信不足300公里，规格仍在与美方协同分析中；首尔智库人士对韩联社称，外观上可能为「火星-11Ra」近程战术弹道导弹。若属实，这将是约一周内朝方第三次弹道导弹发射（此前元山一带曾发射约十余枚近程弹道导弹）。ISW另称，朝方正吸收俄乌战争经验，提升远程导弹、火炮与无人机的协同打击能力。",
+          "sourceNote": "Yonhap；ISW",
+          "links": [
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261104005551315"
+            },
+            {
+              "name": "ISW / TheStudyofWar",
+              "url": "https://x.com/TheStudyofWar/status/2118057795475923120"
+            }
+          ],
+          "tierText": "一档事实（韩联合参谋本部经韩联社）+ 二档专业解读（型号与协同能力属分析）",
+          "domain": "missile",
+          "location": {
+            "name": "韩国（示意）",
+            "lat": 37.57,
+            "lon": 126.98
+          },
+          "headline": "朝鲜自宣德向东海发射多枚导弹，据信不足300公里"
+        },
+        {
+          "text": "《战区》报道，巴基斯坦空军11月3日宣布成功完成国产Fa’az空空导弹首次飞行试验，试验画面显示从JF-17机翼挂架发射的是成像红外型Fa’az-IIR；高层与项目人员观摩。该弹由国有GIDS研发，2023年IDEF展出过主动雷达型Fa’az-RF与红外型Fa’az-IIR模型，当时宣称射程逾100公里、最大速度约3.5马赫；官方未公布本次试验交战参数或服役时间表。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/pakistan-joins-air-to-air-missile-club-with-successful-test-of-faaz"
+            }
+          ],
+          "tierText": "一档事实（巴空军公告与试验画面经专业媒体；厂商性能数据为宣称值）",
+          "domain": "missile",
+          "location": {
+            "name": "巴基斯坦（示意）",
+            "lat": 33.69,
+            "lon": 73.06
+          },
+          "headline": "巴基斯坦完成国产Fa’az空空导弹首次飞行试验"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "《防务新闻》4日报道，在与伊朗冲突背景下，又有2名美军飞行员非敌对原因死亡，使海外阵亡/死亡相关统计升至23人；同日称五角大楼为对伊作战加大弹药需求，并探讨以3D打印加强受空袭威胁基地的基础设施。UKMTO「近期事件」网页本期解析为0条，昨日第195-26号警告（阿曼利马东北油轮机舱中两弹）之后，本轮未取得新的UKMTO PDF原文；伊朗革命卫队宣称在霍尔木兹以南以水雷「摧毁」四艘油轮等说法未见UKMTO或船东同等核实，仅作线索。",
+          "sourceNote": "Defense News；Defense News；UKMTO recent incidents",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/"
+            },
+            {
+              "name": "UKMTO recent incidents",
+              "url": "https://www.ukmto.org/recent-incidents"
+            }
+          ],
+          "tierText": "一档事实（美军非敌对死亡经专业媒体）/ 四档仅线索（IRGC油轮宣称未经UKMTO核实）",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美军两飞行员非敌对死亡；UKMTO本期无新警告"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "《战区》报道，美空军生命周期管理中心Stand-In Strike部门4日就ERAM项目新「螺旋」发布信息征询：ERAM Glide寻求500磅级无动力空射滑翔弹，战斗部约105磅炸药、具备爆破/破片及有限侵彻，导航需M码GPS加CRPA天线，在非干扰与强电磁干扰（含GPS降级）环境下CEP50均在10米内，滑翔比至少10:1、目标大于15:1；同时另发动力型ERAM征询。背景：空军已通过ERAM采购Zone 5「Rusty Dagger」与CoAspire RAACM等低成本巡航弹（含供乌批次），FAMM规划未来五年采购约2.8万枚低成本巡航导弹。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/usaf-widens-lower-cost-cruise-missile-effort-to-also-include-glide-bombs"
+            }
+          ],
+          "tierText": "一档事实（官方RFI经专业媒体）",
+          "domain": "missile",
+          "location": null,
+          "headline": "美空军征询ERAM无动力滑翔弹，FAMM规划五年2.8万枚"
+        },
+        {
+          "text": "《防务新闻》报道，法国武装部队部与Naval Group签约研制大型远洋无人作战潜航器（UCUV）作战演示样机，须验证续航与自主决策，任务涵盖情报监视侦察至「更具进攻性的消灭行动」，样机须可空运、可自码头或水面平台布放，海试计划2028年启动。2026年防务预算为此拨付承诺授权3000万欧元、付款拨款1700万欧元；法国2024–2030军备规划法七年内为无人机与机器人编列约50亿欧元。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/"
+            }
+          ],
+          "tierText": "一档事实（法国军方合同经专业媒体）",
+          "domain": "air",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "法国与Naval Group签约大型远洋无人潜航器，2028海试"
+        },
+        {
+          "text": "《防务新闻》在欧洲海军展报道，MBDA销售副总监戈芬称，面向法英的Stratus RS高速打击弹射程将「远远、远远超过」射程逾200公里的飞鱼反舰导弹，覆盖纵深打击、反舰、压制/摧毁防空及打预警机/加油机等四类任务；采用可调节液体冲压发动机，导引头为Thales射频加合成孔径雷达，可高低弹道；公司正等待法国武器装备总署（DGA）代表两国的研制合同，预计本十年末前开始飞行试验、2030年代初服役。同步推进的隐身亚音速Stratus LO由法、英、意三方推进。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/"
+            }
+          ],
+          "tierText": "一档事实（企业公开表态经专业媒体；研制合同尚未签署）",
+          "domain": "missile",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "MBDA称Stratus RS射程远远超过飞鱼，待DGA合同"
+        },
+        {
+          "text": "欧洲海军展与造舰动态：《海军新闻》称阿联酋EDGE旗下阿布扎比造船（ADSB）于10月29日下水安哥拉海军第二艘BR71 MK II多用途护卫舰「Nimi-ya-Lukeni」号（F301），为该级首艘在阿联酋建造的舰艇，属2023年约10亿欧元三艘合同，舰长约71米、满载约900吨，拟搭载两架ANAVIA HT-100舰载无人直升机。另，Fincantieri、Navantia与Naval Group在展会签署EPC2欧洲巡逻护卫舰联盟协议；Zodiac Milpro推出Equinox 930模块化多任务无人艇；BAE展示Sea Tridon集装箱化反无人舰炮方案。Defense News称Saildrone与挪威制造伙伴扩大欧洲市场。",
+          "sourceNote": "Naval News；Naval News（EPC2/Zodiac/BAE，Euronaval）；Defense News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae/"
+            },
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-navantia-and-naval-group-sign-epc2-consortium-agreement-at-euronaval/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/"
+            }
+          ],
+          "tierText": "一档事实（企业下水与展会公告经专业媒体）",
+          "domain": "sea",
+          "location": {
+            "name": "挪威（示意）",
+            "lat": 59.91,
+            "lon": 10.75
+          },
+          "headline": "EDGE在阿联酋下水安哥拉第二艘护卫舰；欧洲无人艇展会动态"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "低成本远程弹药「动力+无动力」双轨：美空军在ERAM动力巡航弹之外再征询500磅级、抗干扰精度10米、滑翔比≥10:1的ERAM Glide，叠加FAMM五年约2.8万枚规划，低成本弹体、折叠翼、M码/CRPA抗干扰导航与战斗部供应链需求进一步扩大（推断）。",
+    "防空与能源防护持续承压：一夜310架无人机来袭、272架被拦或压制，且核电站被迫降出力，拦截弹、近防、电子战与电网快速抢修/备品仍是冬春季主线；若美对乌PAC-3 MSE军售推进，陆基防空产能与导引头将更紧（推断）。",
+    "大型UUV与海上无人：法国UCUV演示样机（2028海试、2026年预算3000万欧元承诺）对标美Orca、英超大型UUV与澳Ghost Shark，远洋无人潜航、海底基础设施防护与自主决策软件值得跟踪。",
+    "欧洲远程打击弹：MBDA Stratus RS（法英、冲压、待DGA合同）与隐身亚音速Stratus LO（法、英、意）指向欧洲重建纵深打击与反防空能力，导引头、冲压发动机与任务规划软件（如Fastrike）订单前景上升（推断）。",
+    "印太弹药与造舰：朝鲜高频近程导弹试射、巴基斯坦国产空空弹首飞、EDGE在阿联酋为安哥拉下水护卫舰并集成舰载无人直升机，显示战术导弹、空空弹与中东—非洲造舰/无人系统转移仍在落地。"
+  ]
+}
