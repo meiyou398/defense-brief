@@ -1,0 +1,372 @@
+{
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-06T09:30:00+08:00",
+  "coverage": "约 11月5日上午至 11月6日上午（UTC+8）",
+  "summary": "俄军4日夜至5日对乌发动128架远程攻击无人机（含65架喷气式）及2枚「Kh-35」制导导弹袭击，乌空军称截至5日早8时击落或压制105架（含48架喷气式），18处遭命中；地方当局称过去一天全境至少9死19伤。乌方同步远程打击俄境：梁赞州州长称一夜逾200架乌无人机袭扰，独立媒体Astra核实画面显示俄气/俄罗斯石油旗下梁赞炼油厂起火。台海方面，台湾国防部称截至6日早6时24小时侦获共机仅3架次（2架次进入西南空域）、共舰9艘、公务船8艘，较前一日21架次/19架次逾中线明显回落。日本统合幕僚监部5日通报：中国TB-001侦察/攻击型无人机自大陆飞抵男女群岛西南海域后转向，经冲绳本岛附近返回，航空自卫队紧急起飞应对；另确认052D「121」经宫古水道回东中国海、俄「光荣」级「011」经宗谷海峡西进。朝鲜方面，金正恩视察南浦造船厂在建、据信约万吨级水面舰；朝中社称4日试射新型防空导弹并举行远程战略巡航导弹打击演练。产业侧，Shield AI宣布以约53亿美元收购反无人机雷达商Echodyne；北约启动反无人机采购「市场」，NCIA遴选5家企业16项方案；MBDA主导的欧洲高超音速拦截弹Hydis计划2029年底前试飞全系统演示样机；英国皇家海军首次自「伊丽莎白女王」号航母甲板放飞单向攻击无人机。",
+  "highlights": [
+    {
+      "lead": "128无人机",
+      "text": "俄一夜以128架无人机及2枚Kh-35袭乌，乌称击落压制105架；全境至少9死19伤。",
+      "item": 1
+    },
+    {
+      "lead": "梁赞炼厂",
+      "text": "梁赞州长称一夜逾200架乌无人机袭扰，Astra核实俄石油梁赞炼油厂起火。",
+      "item": 2
+    },
+    {
+      "lead": "共机3架",
+      "text": "台防部：至6日早6时共机仅3架次（2架次进西南空域）、共舰9艘，较前日明显回落。",
+      "item": 5
+    },
+    {
+      "lead": "TB-001",
+      "text": "日本统幕：中国TB-001无人机飞抵男女群岛西南后经冲绳附近返回，空自紧急起飞。",
+      "item": 6
+    },
+    {
+      "lead": "53亿并购",
+      "text": "Shield AI以约53亿美元收购Echodyne，补强反无人机固态雷达。",
+      "item": 9
+    },
+    {
+      "lead": "北约反无人",
+      "text": "北约启动C-UAS市场，NCIA遴选5家企业16项方案，另拨310万欧元测试。",
+      "item": 10
+    }
+  ],
+  "stats": [
+    {
+      "value": "128",
+      "unit": "架",
+      "label": "乌称来袭无人机",
+      "item": 1
+    },
+    {
+      "value": "105",
+      "unit": "架",
+      "label": "乌称击落或压制",
+      "item": 1
+    },
+    {
+      "value": "3",
+      "unit": "架次",
+      "label": "台湾周边共机",
+      "item": 5
+    },
+    {
+      "value": "53",
+      "unit": "亿美元",
+      "label": "购Echodyne金额",
+      "item": 9
+    },
+    {
+      "value": "16",
+      "unit": "项",
+      "label": "北约入选方案",
+      "item": 10
+    }
+  ],
+  "featured": [
+    1,
+    5
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰空军称，自11月4日18时起，俄军以2枚「Kh-35」空射制导导弹及128架攻击无人机（含65架喷气式「沙希德」类，并含「格尔贝拉」「帕罗迪亚」诱饵）发动袭击，起飞方向包括黑海、奥廖尔、库尔斯克、米列罗沃、滨海阿赫塔尔斯克以及占领区顿涅茨克、克里米亚格瓦尔季伊斯克与乔达；截至5日早8时击落或压制105架（含48架喷气式），18处遭命中、9处有残骸坠落。基辅独立报援引各地州长称过去一天全境至少9死19伤；苏梅州普蒂夫利社区一民宅遭无人机击中，69岁女子遇难。ISW确认该夜袭规模，并称乌方继续远程打击梁赞、奥廖尔等州物流与炼油设施。",
+          "sourceNote": "Kyiv Independent；Babel.ua",
+          "links": [
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-19-across-ukraine-over-past-day-as-casualty-toll-from-russian-strikes-in-kherson-oblast-rises-following-end-of-ceasefire/"
+            },
+            {
+              "name": "Babel.ua / RBC-Ukraine",
+              "url": "https://babel.ua/en/news/131520-russia-attacked-ukraine-overnight-with-128-drones-and-two-kh-35-missiles-there-are-deaths-in-sumy-region-injuries-in-kyiv-region-and-dnipro"
+            },
+            {
+              "name": "ISW",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-5-2026"
+            }
+          ],
+          "tierText": "三档有立场（交战方战果与来袭数字）+ 二档专业解读（ISW有美方政策立场）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄一夜128架无人机袭乌，乌称击落压制105架"
+        },
+        {
+          "text": "乌俄隔空对打炼油与物流节点：梁赞州州长马尔科夫称一夜逾200架乌无人机袭扰该州，工业区起火、部分城区一度断电，1人受伤；独立媒体Astra核实画面显示俄罗斯石油旗下梁赞炼油厂起火。俄国防部称无人机打击了哈尔科夫州新科罗特奇的「新邮」物流枢纽、第聂伯罗彼得罗夫斯克州一座330千伏变电站，以及敖德萨西南约52公里黑海海域一艘据称载有军用物资的干货船；乌方未立即证实邮站与货船遭袭。Bucha地区一夜亦有物流仓起火、1人受伤。",
+          "sourceNote": "Al Jazeera；ISW",
+          "links": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
+            },
+            {
+              "name": "ISW",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-5-2026"
+            }
+          ],
+          "tierText": "三档有立场（交战方宣称）+ 一档事实（Astra核实炼厂起火画面经媒体）",
+          "domain": "air",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "乌无人机袭扰梁赞，Astra核实炼油厂起火"
+        },
+        {
+          "text": "ISW 5日评估称，克里姆林宫正把其自身造成的人道危机工具化，以讨好特朗普政府：白宫称第一夫人梅拉尼娅·特朗普会见乌俄官员，表彰占领区奥莱什基有限停火；俄方直投基金CEO德米特里耶夫等到场。同日俄媒与军博称，曾报道撤离巴士去向的知名军博「罗曼诺夫」被当局带走，其10月30日帖文暗示俄官媒会夸大迁往俄境的巴士数量；Newsmax称实际15辆巴士中11辆开往乌控区、4辆开往俄。前线方面，ISW称俄军5日对康斯坦丁诺夫卡方向突击强度较3–4日回落，乌军近期在扎波罗热州西部有推进。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW / Critical Threats",
+              "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-5-2026"
+            },
+            {
+              "name": "TheStudyofWar",
+              "url": "https://x.com/TheStudyofWar/status/2118510227012137232"
+            }
+          ],
+          "tierText": "二档专业解读（ISW有美方政策立场）",
+          "domain": "land",
+          "location": {
+            "name": "扎波罗热（示意）",
+            "lat": 47.84,
+            "lon": 35.14
+          },
+          "headline": "ISW：俄将奥莱什基人道危机工具化；军博罗曼诺夫被带走"
+        },
+        {
+          "text": "《防务新闻》援引路透社称，德国国防部5日宣布陆军总监克里斯蒂安·弗罗伊丁将于2027年2月接任国防军总监（最高军职），接替即将出任北约军事委员会主席的卡斯滕·布罗伊尔。弗罗伊丁2025年10月起任陆军总监，此前长期负责对乌军援并推动乌战场验证技术落地，曾在陆军组建无人机团。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/global/europe/2026/11/05/germany-names-army-chief-freuding-as-next-chief-of-defense/"
+            }
+          ],
+          "tierText": "一档事实（德国国防部声明经专业媒体）",
+          "domain": "air",
+          "location": {
+            "name": "德国（示意）",
+            "lat": 52.52,
+            "lon": 13.4
+          },
+          "headline": "德国任命弗罗伊丁为下任国防军总监，2027年2月上任"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，截至11月6日早6时的24小时内，侦获共机3架次、共舰9艘、公务船8艘，其中2架次进入西南空域；国军以任务机、舰及岸置导弹应处。该数字较截至5日早6时的共机21架次（19架次逾越中线进入北/中/西南/东部空域）、共舰8艘、公务船8艘明显回落。大陆方面，本期未检索到东部战区或国防部就台海周边空情的对应通报。",
+          "sourceNote": "台湾国防部 Taiwan MND；MoNDefense",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://www.mnd.gov.tw/EN/Publication/88159"
+            },
+            {
+              "name": "MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2118508673156727079"
+            }
+          ],
+          "tierText": "一档事实（台方官方口径；大陆对应通报未见）",
+          "domain": "missile",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台防部：共机仅3架次2架进西南空域，共舰9艘"
+        },
+        {
+          "text": "日本统合幕僚监部5日连发通报：当日下午确认中国TB-001侦察/攻击型无人机自大陆方向飞抵东中国海、長崎県男女群岛西南海域后西南进，于冲绳本岛附近旋回变向返回大陆，航空自卫队西南航空方面队等战斗机紧急起飞应对；另称4日晚确认「052D」型导弹驱逐舰「121」在宫古岛东北约130公里北进后经冲绳本岛—宫古岛间水道西北回东中国海（与2日经同水道东南进为同一舰）；5日上午在宗谷岬北约40公里确认俄海军「光荣」级导弹巡洋舰「011」西进经宗谷海峡（与9月23日东进为同一舰）。",
+          "sourceNote": "日本统合幕僚监部 Japan Joint Staff；JapanJointStaff",
+          "links": [
+            {
+              "name": "日本统合幕僚监部 Japan Joint Staff",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261105_03.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261105_01.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261105_02.pdf"
+            },
+            {
+              "name": "JapanJointStaff",
+              "url": "https://x.com/JapanJointStaff/status/2118216157685833859"
+            }
+          ],
+          "tierText": "一档事实（日本官方通报）",
+          "domain": "missile",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日本通报中国TB-001过航及俄光荣级经宗谷海峡"
+        },
+        {
+          "text": "《美国海军学会新闻》称，朝中社报道金正恩本周视察南浦造船厂在建水面舰，舰体明显大于现役约5000吨「崔贤」级驱逐舰，外界研判为约万吨级巡洋舰；金正恩6月曾称将「陆续」建造万吨级舰，朝方2026–30海军计划目标为年均约2艘水面舰。另据朝中社5日称，导弹总局4日试射新设计先进防空导弹，并举行东部远程战略巡航导弹分队对模拟机场目标的打击演练；韩联合参谋本部此前已通报4日宣德一带向东海发射多枚导弹。美印太司令部称4日发射未对美人员、领土或盟友构成即时威胁。",
+          "sourceNote": "USNI News；UPI",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard"
+            },
+            {
+              "name": "UPI / KCNA",
+              "url": "https://www.upi.com/Top_News/World-News/2026/11/05/North-Korea-air-defense-system-cruise-missile-tests/2031793869478/"
+            }
+          ],
+          "tierText": "三档有立场（朝方官媒口径）+ 一档事实（韩联合参谋本部此前侦测与美方声明经专业媒体）",
+          "domain": "missile",
+          "location": null,
+          "headline": "金正恩视察南浦万吨级在建舰；朝称试射新型防空导弹"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "ISW援引分析称，伊朗领导人将11月3日美国中期选举结果解读为伊方军事策略对现任美政府施加了政治成本，不认为选举会根本改变美对伊路径；最高领袖莫杰塔巴·哈梅内伊相关表态被解读为无论选情如何，德黑兰仍将维持最高要价。UKMTO「近期事件」网页本期仍解析为0条新报告；本轮未取得新的UKMTO警告PDF。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW / TheStudyofWar",
+              "url": "https://x.com/TheStudyofWar/status/2118158330778493266"
+            },
+            {
+              "name": "UKMTO recent incidents",
+              "url": "https://www.ukmto.org/recent-incidents"
+            }
+          ],
+          "tierText": "二档专业解读（ISW对伊朗口径的评估）/ 一档事实（UKMTO列表无新条目）",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "ISW：伊朗视美中期选举为军事策略奏效；UKMTO无新警告"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "《防务新闻》与Breaking Defense报道，Shield AI 5日宣布以约53亿美元收购固态雷达商Echodyne，补强反无人机传感；Echodyne的MESA超材料电扫阵列雷达可跟踪小型四旋翼并可同时跟踪逾1000个目标，9月刚获美军联合跨部门特遣部队JIATF-401约2.5亿美元、为期36个月的反无人机合同。Shield AI称将形成自主软件、自主平台与任务系统三大业务；其Hivemind软件与V-Bat/X-BAT垂直起降无人系统已有部署。",
+          "sourceNote": "Defense News；Breaking Defense",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/"
+            }
+          ],
+          "tierText": "一档事实（企业并购公告经专业媒体）",
+          "domain": "air",
+          "location": null,
+          "headline": "Shield AI约53亿美元收购Echodyne反无人机雷达"
+        },
+        {
+          "text": "北约5日启动反无人系统（C-UAS）「市场」，作为7月安卡拉北约峰会防务工业论坛「Drone Edge」倡议的一部分：北约通信与信息局（NCIA）竞标遴选Alta Ares、Axon、诺斯罗普·格鲁曼、OSL UK、Quantum Systems等5家企业共16项方案，盟国可直接自北约目录采购而无需再招标；框架合同期一年半，北约另拨310万欧元资助进一步测试。该市场配合盟国在「Drone Edge」下未来五年逾400亿美元反无人机投入承诺。",
+          "sourceNote": "NATO",
+          "links": [
+            {
+              "name": "NATO",
+              "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/05/nato-accelerates-procurement-for-counter-drone-technologies"
+            }
+          ],
+          "tierText": "一档事实（北约官方新闻）",
+          "domain": "diplomacy",
+          "location": null,
+          "headline": "北约启动反无人机采购市场，遴选16项方案"
+        },
+        {
+          "text": "《防务新闻》在欧洲海军展报道，MBDA主导的欧洲高超音速拦截弹项目Hydis计划在2029年底前试飞全系统演示样机，并与西班牙牵头的Hydef竞逐欧洲防务基金约1亿欧元二期经费，本月底将有结果。Hydis一期获欧盟8000万欧元及法意德荷等约5700万欧元；二期拟扩至17国、企业自筹逾1000万欧元，德国将退出伙伴国行列。概念为约7米四级「偏胖」多层大气层拦截弹，兼容Mk 41与未来Sylver垂发，目标单价低于「标准-3」三分之一，生产拟于2030年代上半年启动。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/"
+            }
+          ],
+          "tierText": "一档事实（企业公开简报经专业媒体；二期欧资尚未裁定）",
+          "domain": "missile",
+          "location": {
+            "name": "德国（示意）",
+            "lat": 52.52,
+            "lon": 13.4
+          },
+          "headline": "MBDA称Hydis高超音速拦截弹拟2029年底前试飞演示样机"
+        },
+        {
+          "text": "英国皇家海军5日宣布，10月中旬在北大西洋试验中首次自「伊丽莎白女王」号航母飞行甲板放飞国产Callen-Lenz「Nyan Maritime」单向攻击无人机，验证有人战机与无人机并存的「混合舰载航空联队」；同舰还首次保障Tekever AR5固定翼无人侦察机（翼展约7米、载荷约80公斤）。防务大臣称「万神殿」项目与舰载喷气无人机试验编列近2.5亿英镑，并规划至少13亿英镑有人/无人混合舰队、至少2.1亿英镑低成本远程单向攻击无人机。",
+          "sourceNote": "Royal Navy",
+          "links": [
+            {
+              "name": "Royal Navy",
+              "url": "https://www.royalnavy.mod.uk/news/2026/november/05/20261105-qe-drones"
+            }
+          ],
+          "tierText": "一档事实（英国皇家海军官方新闻）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英航母首次放飞单向攻击无人机，验证混合舰载联队"
+        },
+        {
+          "text": "《战区》报道，美海军陆战队与海军分析层近日就实现同时保持3个远征部队（MEU）部署达成共识：两军评估需40艘两栖舰（13艘大型甲板+27艘船坞登陆舰），而现役仅31艘（国会法定下限）；当前仅有9艘大型甲板（法定10艘，因「好人理查德」号火灾报废）。官员称将于本月晚些时候向国会陈述需求，并依赖新建与部分延寿；HII已有约96亿美元多舰合同涵盖LPD 33–35与LHA 10。同日Breaking Defense称乌克兰驻美临时代办表示，Starshield合同将于2027年年中到期，正与五角大楼谈续约，但仍未就10月网络异常获完整答复。",
+          "sourceNote": "The War Zone；Breaking Defense",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/"
+            }
+          ],
+          "tierText": "一档事实（军种官员表态与外交官公开谈话经专业媒体）",
+          "domain": "sea",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "美海军陆战队称需40艘两栖舰；乌寻求续签Starshield"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "反无人机传感并购升温：Shield AI约53亿美元拿下Echodyne，叠加北约C-UAS市场16项方案与未来五年逾400亿美元投入，固态/MESA雷达、光电跟踪、软杀伤与目录化快采订单有望加速落地（推断）。",
+    "高超音速防御进入欧洲二期赛跑：Hydis与Hydef竞逐约1亿欧元欧资，四级拦截弹、末制导传感器、垂发适配与低成本动能杀伤链条值得跟踪；若Hydis胜出，法意荷等供应链弹性上升（推断）。",
+    "航母混合联队与单向攻击弹：英「伊丽莎白女王」号首次放飞舰载OWA无人机并试验AR5，叠加至少2.1亿英镑低成本远程单向弹与「万神殿」近2.5亿英镑，舰载无人起降、指挥控制与低成本弹体产能继续受益（推断）。",
+    "两栖造舰与LEO军用星链：美海军陆战队力推40艘两栖舰（含13艘大型甲板）与HII多舰合同，叠加乌方寻求2027年中前续签Starshield，造船产能、LEO抗干扰终端与备份星座仍是印太与俄乌双线共同变量（推断）。",
+    "印太无人侦察与水面造舰：日本紧急起飞应对TB-001、朝鲜南浦万吨级舰与防空/巡航导弹连测，显示长航时无人侦察、舰载防空与中大型水面舰建造仍在加速。"
+  ]
+}
