@@ -1,0 +1,333 @@
+{
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T09:30:00+08:00",
+  "coverage": "约 11月7日上午至 11月9日上午（UTC+8）；因 11月8日自动化未跑，本期一并补记 7日下午至 8 日仍具重要性的条目",
+  "summary": "泽连斯基称俄军周六夜间以 172 架无人机与 36 枚弹道导弹（含朝鲜制造 KN-23）袭乌，并再次催促美方补充「爱国者」拦截弹；乌能源部称周六对能源设施的大规模袭击使 5 州陷入黑暗、基辅及周边输电严重受阻。乌空军经自由欧洲电台称当夜另有 3 枚 Kh-59/69 与 164 架攻击无人机（含 112 架喷气式），其中 137 架无人机被拦截；基辅独立报称过去一天全境 8 死 19 伤，第聂伯罗彼得罗夫斯克逾 60 万人断电。乌总参谋部称 7 日夜间以海军「海王星」岸防导弹击中俄奥廖尔「质子-电工」（Proton-Electrotex）军工企业并起火爆炸；国际原子能机构称俄占扎波罗热核电站 8 日失去唯一 330 千伏外电、一度靠柴油机维持冷却与安全功能，约 10 小时后恢复，格罗西称此为冲突以来第 27 次类似断电。台海方面，第二批 3 架 F-16V Block 70 于 8 日约 11 时飞抵台东志航基地；台湾国防部称至 9 日早 6 时 24 小时仅侦获共机 1 架次、共舰 7 艘、公务船 1 艘，较 7 日的 11/10/3 明显回落。中东方面，美中央司令部称 7 日在阿曼湾以精确弹药击瘫散货船 Huda；UKMTO 另报霍尔木兹西北哈萨卜附近油轮着火、船员撤离，以及一艘出港油轮遭不明投射物命中。产业侧，海军集团将为法国海军建造水下作战无人机（UCUV）演示艇，海试拟 2028 年起步；法国国防采办局与海军集团、MBDA 敲定将 FDI 护卫舰「紫菀」垂发由 16 单元扩至 32 单元。",
+  "highlights": [
+    {
+      "lead": "36枚弹道弹",
+      "text": "泽连斯基称一夜36枚弹道导弹（含朝制KN-23）与172架无人机袭乌。",
+      "item": 1
+    },
+    {
+      "lead": "海王星打击",
+      "text": "乌称以海王星击中奥廖尔质子光电厂；罗斯托夫公路桥亦报受损。",
+      "item": 2
+    },
+    {
+      "lead": "核电站断电",
+      "text": "IAEA：扎波罗热核电站唯一330千伏外电中断数小时后恢复，为第27次。",
+      "item": 3
+    },
+    {
+      "lead": "F-16抵台",
+      "text": "第二批3架F-16V Block 70飞抵台东志航；台海共机回落至1架次。",
+      "item": 6
+    },
+    {
+      "lead": "击瘫Huda",
+      "text": "CENTCOM称在阿曼湾以精确弹药击瘫散货船Huda，已改道147艘商船。",
+      "item": 7
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "UKMTO：哈萨卜附近油轮着火船员撤离；出港油轮遭不明投射物命中。",
+      "item": 8
+    }
+  ],
+  "stats": [
+    {
+      "value": "36",
+      "unit": "枚",
+      "label": "泽连斯基称弹道导弹",
+      "item": 1
+    },
+    {
+      "value": "172",
+      "unit": "架",
+      "label": "泽连斯基称来袭无人机",
+      "item": 1
+    },
+    {
+      "value": "3",
+      "unit": "架",
+      "label": "第二批F-16V抵台",
+      "item": 6
+    },
+    {
+      "value": "147",
+      "unit": "艘",
+      "label": "美称已改道商船",
+      "item": 7
+    },
+    {
+      "value": "32",
+      "unit": "单元",
+      "label": "法FDI紫菀垂发扩容",
+      "item": 10
+    }
+  ],
+  "featured": [
+    1,
+    6
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "泽连斯基称，俄军于周六夜间向乌发射 172 架无人机与 36 枚弹道导弹，其中包含朝鲜制造并提供的 KN-23，并指责莫斯科藉此向即将举行的谈判施压；他同时指出「爱国者」拦截弹仍严重短缺，美国最有条件协助。乌能源部称周六对多个能源设施的「大规模袭击」使 5 个州陷入黑暗，并显著妨碍基辅及周边输电。自由欧洲电台援引乌空军称，11 月 8 日通报的当夜来袭为自亚速海发射的 3 枚 Kh-59/69 与 164 架攻击无人机（其中 112 架为喷气式），137 架无人机被拦截。基辅独立报称过去一天全境 8 死 19 伤：顿涅茨克州 5 死 5 伤（克拉马托尔斯克 2 死），第聂伯罗彼得罗夫斯克州 2 死且逾 60 万人断电，敖德萨 1 死；扎波罗热州长称对 53 个居民点打击 725 次。哈尔科夫州长称来袭含 7 枚导弹、1 架「闪电」、12 架 FPV 与 55 架无人机。泽连斯基还称日托米尔州一次打击后有 140 栋公寓楼停暖。基辅独立报另称，基辅州丘皮拉村 3 人（含 1 名儿童）因在地下室违规使用发电机一氧化碳中毒死亡。美特使威特科夫称美、俄、乌代表定于 11 月 10–11 日在阿布扎比举行三方会谈。",
+          "sourceNote": "The Guardian；RFE/RL；Kyiv Independent；Kyiv Independent",
+          "links": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says"
+            },
+            {
+              "name": "RFE/RL",
+              "url": "https://www.rferl.org/a/russia-strikes-ukraine-energy/33893219.html"
+            },
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times/"
+            },
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/3-people-including-child-die-in-kyiv-oblast-from-improperly-running-generator-as-russia-slams-power-grids-across-ukraine/"
+            }
+          ],
+          "tierText": "三档有立场（交战方来袭/拦截数字与总统口径，叠加地方当局伤亡与媒体综合）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "朝鲜（示意）",
+            "lat": 39.04,
+            "lon": 125.76
+          },
+          "headline": "泽连斯基称一夜36枚弹道导弹与172架无人机袭乌"
+        },
+        {
+          "text": "乌克兰武装力量总参谋部称，11 月 7 日夜间，导弹部队使用海军操作的「海王星」岸防导弹系统打击俄罗斯奥廖尔的军工企业「质子-电工」股份公司（JSC Proton-Electrotex），记录到直接命中，厂区起火并传出爆炸，毁伤程度仍在评估。总参谋部称该厂是俄光电设备与器件的完整周期制造商，产品包括 Kh-71「科韦尔」（Kover）空射巡航导弹模块，以及「伊斯坎德尔-M」所用 9M723 弹道导弹的开关逆变器，打击旨在增加俄巡航与弹道导弹部件生产难度。国防部「Defence of Ukraine」账号亦称命中该厂将使俄巡航与弹道导弹关键元器件产能下降。另据基辅独立报援引罗斯托夫州长斯柳萨尔，乌无人机 8 日早晨打击造成米乌斯河桥与能源设施受损：无人机残骸损坏 R-280 公路上连接罗斯托夫州与被占马里乌波尔、梅利托波尔及克里米亚的米乌斯河桥，通往桥梁的道路完全关闭；米列罗沃区苏林变电站变压器亦受损，多村停电；州长称无人员伤亡。基辅独立报未能独立核实监控频道关于桥被 FP-2 无人机击中的说法。",
+          "sourceNote": "Ukrinform",
+          "links": [
+            {
+              "name": "Ukrinform / General Staff",
+              "url": "https://www.ukrinform.net/rubric-ato/4182374-ukrainian-forces-strike-proton-plant-in-oryol-with-neptune-missiles-general-staff.html"
+            },
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2118973533208338634"
+            },
+            {
+              "name": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2119402302968856723"
+            },
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/ukrainian-drones-hit-key-bridge-power-stations-in-russias-rostov-oblast-governor-says/"
+            }
+          ],
+          "tierText": "三档有立场（乌方战报与俄地方当局口径；桥体无人机型号未经核实）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌称海王星击中奥廖尔质子厂，罗斯托夫桥受损"
+        },
+        {
+          "text": "基辅独立报援引国际原子能机构称，欧洲最大的扎波罗热核电站（位于俄占埃涅尔霍达尔）于 11 月 8 日失去全部厂外供电数小时：电站失去与唯一一条 330 千伏外电线路的连接，被迫依靠应急柴油发电机维持冷却与安全功能；原子能机构约当地正午宣布此事，约 10 小时后确认供电已恢复。机构称断电的准确原因与位置尚不清楚。总干事格罗西说，这是冲突期间第 27 次此类事件，凸显核安全形势持续脆弱；该机构自 2022 年 9 月起在该厂保持常驻监测。今年 6 月一次类似断电曾迫使电站依靠柴油机约 15 小时。",
+          "sourceNote": "Kyiv Independent",
+          "links": [
+            {
+              "name": "Kyiv Independent / IAEA",
+              "url": "https://kyivindependent.com/power-to-zaporizhzhia-nuclear-power-plant-cut-restored-iaea-says/"
+            }
+          ],
+          "tierText": "一档事实（国际原子能机构声明经媒体）",
+          "location": {
+            "name": "基辅（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "扎波罗热核电站唯一外电中断数小时后恢复"
+        },
+        {
+          "text": "《防务新闻》报道，由英国与法国共同牵头的「联盟 26.2」（KOALICJA 26.2）演习于 11 月 9–22 日举行，为「志愿联盟」首次大规模演练，模拟战争结束后向乌克兰部署多国部队。约 2800 名官兵来自 11 国，在波兰、法国与土耳其协调行动，隶属多国部队-乌克兰（MNF-U）；美军不参加。英国国防部称演习将检验如何投送、防护与补给一支战后协助重建乌军的部队；参演还包括比利时、爱沙尼亚、德国、立陶宛、荷兰、西班牙、瑞典与土耳其。英国派出约 300 人（含陆军第 7 轻机械化旅）；波兰国防部称另有近 2000 名波兰士兵参演，但华沙战后只负责部队机动、不向乌派兵。法国将派出「数百」人，陆军参谋长德蒙格罗上月对议员称其中包括约 50 架「接触无人机」的分队。土耳其不向波兰派兵，而在伊斯坦布尔展开 MNF-U 海上部分，演练港口复航所需的海上扫雷。该部队不在北约指挥下、亦非维和/停火监察，只在停火后并应基辅请求进入乌克兰；英国与法国今年早些时候曾表示各自可贡献约 5000 人。普京已拒绝允许外国军队驻乌。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/"
+            }
+          ],
+          "tierText": "二档专业解读（英/法/波官方声明经专业媒体）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英法拉开对乌战后多国部队演习KOALICJA"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，截至 11 月 8 日早 6 时的 24 小时内，侦获共机 4 架次、共舰 6 艘、公务船 2 艘，其中 2 架次进入西南空域；截至 9 日早 6 时则侦获共机 1 架次、共舰 7 艘、公务船 1 艘，该 1 架次进入北部空域。国军均以任务机、舰及岸置导弹应处。与截至 7 日早 6 时的共机 11 架次（9 架次逾中线进入北/西南空域）、共舰 10 艘、公务船 3 艘相比，空情明显回落。日本统合幕僚监部网站 7–9 日未见新的舰机过航通报（6 日英文 PDF 已在 11 月 7 日简报述及）。大陆方面，本期未检索到东部战区或国防部就台海周边空情的对应通报。",
+          "sourceNote": "MoNDefense；MoNDefense",
+          "links": [
+            {
+              "name": "MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2119233443384934592"
+            },
+            {
+              "name": "MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2119595834820251735"
+            }
+          ],
+          "tierText": "一档事实（台方官方口径；大陆对应通报未见）",
+          "domain": "missile",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台海共机回落：9日早1架次、共舰7艘"
+        },
+        {
+          "text": "台湾空军司令部称，向美采购的 F-16V Block 70 战机在 10 月首批 2 架飞返后，第二批 3 架（机号 6729、6731、6732）于 11 月 8 日约上午 11 时顺利降落台东志航基地；后续将依计划推进部队接装训练，逐步达成初始作战能力。国防部英文账号写「First two. Now three more」，并称第二批当日降落台湾。焦点台湾（中央社）报道，3 机本月稍早自洛克希德·马丁南卡罗来纳工厂出发，于当地时间 11 月 4 日抵夏威夷；美国 2019 年批准向台湾出售 66 架 F-16V 及相关装备，金额约 80 亿美元，原计划 2023 年起交机、2026 年完成，但因技术问题延期。",
+          "sourceNote": "Focus Taiwan",
+          "links": [
+            {
+              "name": "Focus Taiwan / CNA",
+              "url": "https://focustaiwan.tw/politics/202611080004"
+            },
+            {
+              "name": "MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2119290236031340901"
+            }
+          ],
+          "tierText": "一档事实（台空军司令部声明与官方账号）",
+          "domain": "air",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "第二批3架F-16V Block 70飞抵台东志航"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "美中央司令部称，11 月 7 日其部队在阿曼湾瘫痪一艘商船：该船民用船员多次无视警告并试图突破对伊朗的海上封锁后，美军飞机在要求船员离开被瞄准舱室后，向圣基茨籍散货船 Huda 船尾发射精确弹药并使其失去机动；CENTCOM 称该船在停靠伊朗港口后试图驶离地区水域。UKMTO 咨询 198-26 记录阿曼湾、距阿联酋霍尔法坎以东约 18 海里处发生涉及一艘散货船与军事力量的事件，当时船员状况、损毁与环境评估不明。联合海事信息中心（JMIC）更新 112 确认该船即 CENTCOM 所称 Huda，并援引 CENTCOM 7 日数据称自执行封锁以来已改道 147 艘商船、击瘫 5 艘商船。",
+          "sourceNote": "CENTCOM；UKMTO Advisory 198-26；JMIC Update 112",
+          "links": [
+            {
+              "name": "CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2119167271989870888"
+            },
+            {
+              "name": "UKMTO Advisory 198-26",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261107-ukmto_advisory-198-26.pdf"
+            },
+            {
+              "name": "JMIC Update 112",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_112_08-nov.pdf"
+            }
+          ],
+          "tierText": "一档事实（美中央司令部声明与 UKMTO）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美中央司令部在阿曼湾击瘫散货船Huda"
+        },
+        {
+          "text": "UKMTO 警告 199-26 称，11 月 7 日 1920 世界时在阿曼哈萨卜西北约 8 海里，军事当局报告一艘油轮起火并导致船员撤离。警告 200-26 称，同日 2020 世界时一艘经霍尔木兹海峡出港油轮遭不明投射物命中，全体船员安全清点完毕，当时无环境损害报告。两条警告均为延后报知，船名均未公布。JMIC 更新 112 将 200-26 列为本期霍尔木兹两起遇袭之一（另一起为已在 11 月 7 日简报述及的 197-26），并称自 11 月 1 日起穆桑达姆沿岸已发生多起袭击；伊斯兰革命卫队的袭击、企图袭击或骚扰（含无人机过顶、监视与甚高频喊话）仍在持续，霍尔木兹威胁等级维持「严重」（SEVERE）。JMIC 称独立跟踪显示日过航量为个位数至低两位数，而美海军管制（NCAGS）数据称 11 月 5–7 日日均约 30 艘美方协助过航。ISW 8 日伊朗更新亦称革命卫队海军 7 日继续在霍尔木兹一带攻击船只。",
+          "sourceNote": "UKMTO Warning 199-26；UKMTO Warning 200-26；JMIC Update 112；ISW",
+          "links": [
+            {
+              "name": "UKMTO Warning 199-26",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261108-ukmto_warning_199-26.pdf"
+            },
+            {
+              "name": "UKMTO Warning 200-26",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261108-ukmto_warning-200-26.pdf"
+            },
+            {
+              "name": "JMIC Update 112",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_112_08-nov.pdf"
+            },
+            {
+              "name": "ISW / TheStudyofWar",
+              "url": "https://x.com/TheStudyofWar/status/2119541513113714730"
+            }
+          ],
+          "tierText": "一档事实（UKMTO）",
+          "domain": "sea",
+          "location": {
+            "name": "霍尔木兹海峡（示意）",
+            "lat": 26.57,
+            "lon": 56.25
+          },
+          "headline": "霍尔木兹再发油轮着火与不明投射物命中"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "《海军新闻》报道，法国国防采办局（DGA）、国防创新局（AID）与海军集团在 2026 年欧洲海军展期间宣布，海军集团将为法国海军建造一艘水下作战无人机（UCUV）作战型演示艇，海试计划 2028 年起步，项目由此从技术研究转入演示艇建造。艇长将超过 10 米，用于情报搜集以及防御与进攻任务，可采用空客 A400M 空运，并从港口或水面舰部署；艇上使用海军集团 Steeris OnBoard 自主决策系统，在有人监督下执行通讯受限时的长航时任务。AID 将计划与海底活动及干涉能力的扩散联系起来。工业团队尚未公布，内容被描述为「法国或几乎完全法国」；《海军新闻》称，尽管发布会高调，建造演示艇所需的大部分经费尚未落实，最终预算安排预计 2027 年视总统选举结果而定。11 月 3 日合同覆盖的是演示艇而非量产舰队。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-to-build-ucuv-underwater-combat-drone-demonstrator-for-french-navy/"
+            }
+          ],
+          "tierText": "二档专业解读（DGA）",
+          "domain": "sea",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "海军集团将为法国海军建造水下作战无人机"
+        },
+        {
+          "text": "《海军新闻》报道，法国国防采办局在 2026 年欧洲海军展上正式与海军集团和 MBDA 敲定订单，将法国海军「防卫与干预」级（FDI）护卫舰的防空火力由 16 枚「紫菀」（Aster）导弹增至 32 枚，即垂发单元翻倍。该升级旨在提高 FDI 在高强度海战与饱和攻击中的杀伤力与抗压能力。「紫菀-15」射程超过 30 公里，主要用于拦飞机与掠海反舰导弹；「紫菀-30」防御半径超过 120 公里，先进型还具备一定反弹道导弹能力。首舰「罗纳尔克海军上将」号已于 2025 年 10 月交付，法国海军计划共 5 艘；此前议会在 2026 年预算讨论中已确认最后两艘将按 32 单元建造，前三艘（自首舰起）再作改装。32 单元构型与已出口希腊「基蒙」级及瑞典订购的「吕勒奥」级 FDI 一致。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/france-orders-32-aster-missiles-upgrade-fdi-frigates/"
+            }
+          ],
+          "tierText": "一档事实（法国国防部）",
+          "domain": "missile",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "法国订购将FDI护卫舰紫菀垂发扩至32单元"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "F-16V Block 70 交机恢复节奏：第二批 3 架抵台东、首批 2 架已于 10 月交付，66 架约 80 亿美元订单在技术延期后开始形成稳定交运，洛克希德总装、跨太平洋ferry 与接装训练（初始作战能力）相关保障链仍是观察点（推断）。",
+    "导弹电子与陆地打击：乌方以「海王星」打奥廖尔光电/导弹电子厂，叠加俄方持续的弹道导弹与喷气无人机能源袭击，显示远程对陆巡航弹、光电/功率电子与防空拦截弹（「爱国者」）仍是双方消耗重点（推断）。",
+    "霍尔木兹与封锁执行：两天内 UKMTO 连续记录出港油轮中弹、哈萨卜附近油轮着火撤离，以及美军在阿曼湾击瘫 Huda（称已改道 147 艘、击瘫 5 艘），油轮保费、海峡护航传感、商船合规核验与精确对船打击需求短期敏感（推断）。",
+    "欧洲水下无人与舰载垂发：法国 UCUV 演示艇（逾 10 米、拟 2028 年海试，经费仍待 2027 年落实）叠加 FDI「紫菀」垂发 16 改 32，指向大型水下作战无人机、海底监视/干涉对抗以及深弹仓舰空导弹（Aster 15/30）需求（推断）。"
+  ]
+}
