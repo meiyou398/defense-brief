@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T09:30:00+08:00",
+  "coverage": "约 11月9日上午至 11月10日上午（UTC+8）",
+  "summary": "美、俄、乌三方代表 10–11 日在阿布扎比恢复自 2 月以来首次三方会谈，议题为战后安全安排、降级与人道措施，顿涅茨克领土问题仍是最大分歧。乌方 9 日夜间连打俄纵深：列宁格勒州长证实基里希炼油厂（俄第二大）遇袭起火、当地击落 113 架无人机；乌总参谋部称击中为「伊斯坎德尔-M」生产固体推进剂的莫罗佐夫工厂三座车间。国际原子能机构称扎波罗热核电站一名员工 9 日死于无人机袭击。印太方面，日本与菲律宾签署 43 亿日元（约 2700 万美元）政府安全援助，首次通过该机制移交被列为「防卫装备」的岸基雷达，并提供监视无人机。中东方面，特朗普与卡塔尔首相会面后称恢复对伊军事行动「相当不可能」，但海上封锁继续；伊朗革命卫队海军称已摧毁霍尔木兹南部航道的导航设施。产业侧，美国防部战略资本办公室（OSC）一天内宣布向火箭实验室（1.5 亿美元，Neutron 火箭）和小型无人机商 Neros（4.5 亿美元）提供有条件贷款；陆军称已向 12 个师部中的 11 个列装「发射效应」无人机；美审计署称 F-35 约 2600 万件、价值约 310 亿美元的零件账目不可靠。",
+  "highlights": [
+    {
+      "lead": "阿布扎比会谈",
+      "text": "美俄乌10–11日恢复2月以来首次三方会谈，顿涅茨克仍是分歧焦点。",
+      "item": 1
+    },
+    {
+      "lead": "基里希遇袭",
+      "text": "俄第二大炼油厂起火、州内击落113架无人机；伊斯坎德尔推进剂厂受损。",
+      "item": 2
+    },
+    {
+      "lead": "核电站伤亡",
+      "text": "IAEA：扎波罗热核电站一名员工9日死于无人机袭击，格罗西谴责。",
+      "item": 3
+    },
+    {
+      "lead": "日菲安援",
+      "text": "日本43亿日元援菲，首次经OSA移交防卫装备级岸基雷达与无人机。",
+      "item": 7
+    },
+    {
+      "lead": "对伊表态",
+      "text": "特朗普称恢复对伊军事行动相当不可能，海上封锁继续。",
+      "item": 8
+    },
+    {
+      "lead": "OSC放贷",
+      "text": "美战略资本办公室向火箭实验室贷1.5亿、向Neros贷4.5亿美元。",
+      "item": 10
+    }
+  ],
+  "stats": [
+    {
+      "value": "113",
+      "unit": "架",
+      "label": "列宁格勒州称击落无人机",
+      "item": 2
+    },
+    {
+      "value": "43",
+      "unit": "亿日元",
+      "label": "日本对菲安全援助",
+      "item": 7
+    },
+    {
+      "value": "4.5",
+      "unit": "亿美元",
+      "label": "OSC贷给Neros",
+      "item": 11
+    },
+    {
+      "value": "11/12",
+      "unit": "个师",
+      "label": "陆军发射效应列装",
+      "item": 12
+    },
+    {
+      "value": "310",
+      "unit": "亿美元",
+      "label": "F-35零件账目价值",
+      "item": 13
+    }
+  ],
+  "featured": [
+    1,
+    2
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "美、俄、乌三方代表于 11 月 10–11 日在阿布扎比举行自 2 月以来首次三方会谈，美方由特使威特科夫与库什纳带队，俄方首席谈判代表为总统助理梅金斯基，乌方由乌默罗夫率团。威特科夫此前称议题包括战后安全安排、降级、人道措施与结束战争；BBC 援引美方官员称双方私下对东部领土控制显示出「一点灵活性」，但顿涅茨克问题须与战后「安全架构」一并解决，美方方案包括安全磋商、危机热线、「对等降级措施」，并提出可重启北约—俄罗斯理事会。乌方代表团成员阿拉哈米亚对德国之声说不预期会有突破；德、法、英、意及欧盟、北约官员将与乌方另行会面。",
+          "sourceNote": "BBC；DW；Reuters",
+          "links": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/5f374b32b07b/world/europe/us-hold-trilateral-talks-with-ukraine-russia-abu-dhabi-next-week-us-official-2026-11-02/"
+            }
+          ],
+          "tierText": "二档专业解读（主流媒体转述各方官员；「灵活性」为匿名美方官员说法）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "乌东前线（示意）",
+            "lat": 48.5,
+            "lon": 37.5
+          },
+          "headline": "美俄乌阿布扎比恢复三方会谈"
+        },
+        {
+          "text": "基辅独立报援引列宁格勒州长德罗兹坚科称，乌克兰无人机 11 月 9 日夜间袭击基里希炼油厂（KINEF，俄第二大炼油厂，年加工能力约 2000 万吨、占俄成品油产量逾 6%），厂区起火后已扑灭；州长称全州共击落 113 架无人机，另有残骸坠落在弗谢沃洛日斯克一栋公寓楼致一名女子死亡；美国航天局 FIRMS 卫星火点数据在该厂探测到多个热点。乌总参谋部称同夜击中圣彼得堡附近属俄技集团的莫罗佐夫工厂，该厂为「伊斯坎德尔-M」9M723 导弹的 9Kh820 发动机生产固体推进剂装药，三座生产车间受损，毁伤程度待评估。总参谋部还称 8–9 日在被占顿涅茨克州萨尔塔纳附近击中一处俄方「星链」干扰站，以及托克马克等地弹药库。",
+          "sourceNote": "Kyiv Independent；GeneralStaffUA；GeneralStaffUA",
+          "links": [
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
+            },
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2119735546222141653"
+            },
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2119790259672093174"
+            }
+          ],
+          "tierText": "三档有立场（俄地方官员确认炼油厂起火、卫星火点为一档；莫罗佐夫厂毁伤为乌方战报）",
+          "domain": "space",
+          "location": {
+            "name": "基辅（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "基里希炼油厂与伊斯坎德尔推进剂厂同夜遇袭"
+        },
+        {
+          "text": "国际原子能机构称，扎波罗热核电站一名员工 11 月 9 日在一次无人机袭击中身亡，附近扎波罗热火电厂另一名员工当天也死于无人机袭击；数天前已有一名核电站员工据报死于无人机。总干事格罗西强烈谴责，称此类袭击违反不可或缺的核安全支柱，所有针对核电站人员的袭击必须立即停止。此前一天（8 日）该站曾失去唯一外电约 10 小时（已在 9 日简报述及）。",
+          "sourceNote": "IAEA",
+          "links": [
+            {
+              "name": "IAEA",
+              "url": "https://x.com/iaeaorg/status/2119782756263526785"
+            }
+          ],
+          "tierText": "一档事实（国际原子能机构通报；未归咎袭击方）",
+          "domain": "air",
+          "location": {
+            "name": "扎波罗热（示意）",
+            "lat": 47.84,
+            "lon": 35.14
+          },
+          "headline": "扎波罗热核电站员工死于无人机袭击"
+        },
+        {
+          "text": "乌克兰国防部称，乌克兰与芬兰商定一项约 3 亿欧元的国防工业合作包：其中 2 亿欧元属「无人机协议」（Drone Deal），1 亿欧元属「与乌克兰共建」（Build with Ukraine），重点是联合生产无人与机器人系统，把乌方实战经验与芬兰工业产能结合。乌国防部同日还称，俄军装备损失已越过 5.2 万门火炮系统与 60 万架战术无人机两个门槛（交战方口径）。",
+          "sourceNote": "DefenceU；Ukraine MoD；DefenceU",
+          "links": [
+            {
+              "name": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2119788904337313810"
+            },
+            {
+              "name": "Ukraine MoD",
+              "url": "https://mod.gov.ua/en/news/ukraine-finland-defence-cooperation-300-million"
+            },
+            {
+              "name": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2119814773852282955"
+            }
+          ],
+          "tierText": "三档有立场（乌国防部官方口径；合作金额为官方公布，损失数字为交战方说法）",
+          "domain": "air",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌芬商定约3亿欧元无人与机器人合作"
+        },
+        {
+          "text": "英国皇家海军 11 月 5 日在朴次茅斯正式组建史上首个自主中队「第 1 自主中队」，编制约 180 人（与一艘 23 型护卫舰相当），分两班全天候运行，装备「克拉肯」（Kraken）与「响尾蛇」（Rattler）等无人水面艇，从岸上控制中心操控；该中队取代此前的试验项目「蜂巢计划」（Project Beehive）。英方称「混合海军」四年投资 15 亿英镑，舰队司令穆尔豪斯称此举将使舰队「更致命、更难被打出战斗、适应更快」。另据 TWZ 与《防务新闻》，康斯伯格推出由渔船改装的「北极猎手」无人艇，用于在北极搜索俄潜艇。",
+          "sourceNote": "Naval News（皇家海军新闻稿）；TWZ",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/first-ever-autonomous-royal-navy-squadron-launches-as-part-of-investment-in-hybrid-operations/"
+            },
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines"
+            }
+          ],
+          "tierText": "一档事实（英方官方新闻稿经专业媒体）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英国皇家海军组建首个自主中队"
+        },
+        {
+          "text": "TWZ 报道，一名美国官员证实英国莱肯希思与米尔登霍尔两座皇家空军基地正实施「强化部队防护措施」，但未说明原因与具体措施。此前开源航班追踪账号发现米尔登霍尔的多架 KC-135 加油机与 CV-22B 倾转旋翼机在 9 日临时转场至德国施潘达勒姆、苏格兰普雷斯蒂克等地；莱肯希思当天在脸书呼吁居民举报可疑无人机。TWZ 指出，9 月费尔福德基地曾发生安全事件，警方称涉案者疑协助伊朗情报机构，之后 B-1B 轰炸机匆忙撤离；目前无法确认此次措施是否与之有关。",
+          "sourceNote": "TWZ",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/air/security-levels-at-u-s-bases-in-england-raised-without-explanation"
+            }
+          ],
+          "tierText": "二档专业解读（美方官员确认措施为一档；原因与关联为未证实推测）",
+          "domain": "air",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "美驻英两基地强化防护，飞机临时转场"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "日本与菲律宾 11 月 9 日在马尼拉签署 2026 财年「政府安全援助」（OSA）项目换文，金额 43 亿日元（约 2700 万美元），向菲律宾海军提供一套岸基雷达系统、向菲空军提供监视无人机；日本外务省称该雷达被列为「防卫装备」，是 2023 年 OSA 设立以来首次移交此类装备，也是迄今最大的 OSA 项目。日方称菲律宾扼守南海与吕宋海峡等关键航道。首期 OSA 的 5 套岸基雷达已于 2026 年 1 月运抵、2 月移交。另：台湾国防部 10 日每日空情截至发稿尚未发布（9 日早 6 时数字已在 9 日简报述及）。",
+          "sourceNote": "Philippine News Agency；NHK；Philstar",
+          "links": [
+            {
+              "name": "Philippine News Agency",
+              "url": "https://www.pna.gov.ph/article/japan-to-provide-ph-coastal-radar-drones-under-p172-b-security-grant"
+            },
+            {
+              "name": "NHK",
+              "url": "https://www3.nhk.or.jp/nhkworld/news/20261109de73177/"
+            },
+            {
+              "name": "Philstar",
+              "url": "https://www.philstar.com/headlines/2026/11/09/2569010/first-japans-security-aid-philippines-includes-defense-equipment"
+            }
+          ],
+          "tierText": "一档事实（日菲政府签署文件与外务省声明，经官方通讯社）",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日本首次经OSA向菲移交防卫装备级雷达"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "特朗普 11 月 9 日在白宫与卡塔尔首相穆罕默德会面后在社交媒体称，卡塔尔、沙特、阿联酋、巴林、科威特等国支持维持美国对伊朗的海上封锁；若中东局势变化，美方「已上膛、随时出动」，但目前看来恢复军事行动「相当不可能」。他随后在白宫简报室称冲突有「很大机会」结束，并重申伊朗绝不能拥有核武器「不容谈判」。《国民报》指出，伊朗已实际扼住霍尔木兹海峡通行，冲突已持续九个月。据多家媒体，美方同时推进针对伊朗陆路与里海补给的「铁门」行动。",
+          "sourceNote": "The National；AP",
+          "links": [
+            {
+              "name": "The National",
+              "url": "https://www.thenationalnews.com/news/us/2026/11/09/trump-meets-qatari-pm-and-calls-renewed-military-action-on-iran-quite-unlikely/"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff"
+            }
+          ],
+          "tierText": "三档有立场（美国总统官方表态，经媒体）",
+          "domain": "missile",
+          "location": {
+            "name": "沙特（示意）",
+            "lat": 24.71,
+            "lon": 46.68
+          },
+          "headline": "特朗普称对伊恢复军事行动相当不可能"
+        },
+        {
+          "text": "路透社援引伊朗官方媒体称，一名未具名伊斯兰革命卫队海军官员 11 月 9 日表示，霍尔木兹海峡南部航道的导航辅助设施已被摧毁，当夜没有「未经授权」的船只经该航道通行；网络视频与报道将目标指向阿曼迪达马尔岛上的雷达与通信设施，阿曼方面未公开回应。伊朗媒体还报道 8 日深夜格什姆岛发生爆炸，一名省级官员称美国对格什姆的打击未影响重要基础设施。上述说法均未获独立核实；联合海事信息中心此前已将霍尔木兹威胁维持在「严重」。",
+          "sourceNote": "Arab News",
+          "links": [
+            {
+              "name": "Arab News / Reuters",
+              "url": "https://www.arabnews.com/middle-east/iran-says-no-unauthorized-vessels-transited-strait-of-hormuz-overnight-after-navigation-aids-destroyed-3010655"
+            }
+          ],
+          "tierText": "三档有立场（伊朗官方口径；迪达马尔岛目标指认为四档线索）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "伊朗称摧毁霍尔木兹南部航道导航设施"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "美国「战争部」战略资本办公室（OSC）11 月 9 日宣布与火箭实验室美国公司签署 1.5 亿美元有条件贷款承诺，用于在可复用「中子」（Neutron）火箭首飞后提高发射频率：包括加快火箭交付与处理、扩充用于回收与运输的海上船队、升级复合材料结构与发动机产能，以及缩短发射间隔的基础设施。「中子」近地轨道运力约 1.3 万公斤。OSC 称在正式放款前，公司仍须满足财务、法律、技术与尽调等条件。",
+          "sourceNote": "U.S. Department of War",
+          "links": [
+            {
+              "name": "U.S. Department of War",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4644766/the-department-of-wars-office-of-strategic-capital-signs-150-million-conditiona/"
+            }
+          ],
+          "tierText": "一档事实（美国防部新闻稿）",
+          "domain": "space",
+          "location": null,
+          "headline": "OSC向火箭实验室提供1.5亿美元有条件贷款"
+        },
+        {
+          "text": "《防务新闻》报道，加州小型无人机商 Neros 获 OSC 4.5 亿美元有条件贷款，用于扩大美国本土小型无人机零部件制造；公司另投 1.65 亿美元，总投资 6.15 亿美元。Neros 是五角大楼「无人机主导」（Drone Dominance）竞赛的领先者之一，已扩大自产电机，即将开始表面贴装电子元件生产，目标明年底约 80%（按价值）在同一厂区自制。公司称约 99% 小型无人机在中国生产，此前 OSC 已于 7 月向 PDW 提供 8.2 亿美元贷款。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/"
+            }
+          ],
+          "tierText": "二档专业解读（贷款金额来自 OSC/公司，经专业媒体）",
+          "domain": "air",
+          "location": null,
+          "headline": "Neros获4.5亿美元贷款扩产无人机零部件"
+        },
+        {
+          "text": "Breaking Defense 报道，美国陆军已向 12 个师部中的 11 个以及每个多域特遣部队列装「发射效应」（launched effects）无人机，第 12 个师预计下月开始配发；这是落实国防部长 2025 年「无人机主导」备忘录（要求 2026 年底前完成）。项目经理格雷称大部分为 Griffon Aerospace 的远程型（含 Outlaw），该公司每月可交付数百套，从提出扩产需求到首批交付约三周；载荷涵盖侦察、电子战与动能打击。陆军未公布总交付数量。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority/"
+            }
+          ],
+          "tierText": "二档专业解读（陆军官员表态经专业媒体）",
+          "domain": "air",
+          "location": null,
+          "headline": "美陆军发射效应无人机已列装11个师部"
+        },
+        {
+          "text": "美国政府问责署（GAO）11 月 9 日报告称，F-35 项目约 2600 万件零件、价值约 310 亿美元，分布在全球 700 多处承包商与政府设施，但国防部记录过时、不准确且不完整，实物盘点也未能核实零件是否存在与齐全；截至 2026 年 3 月，联合项目办公室仍不清楚 2023 年报告中价值逾 8500 万美元的丢失零件下落。GAO 提出 4 项建议，国防部全部同意。F-35 全寿命成本估计超过 1.9 万亿美元。",
+          "sourceNote": "GAO-27-108713",
+          "links": [
+            {
+              "name": "GAO-27-108713",
+              "url": "https://www.gao.gov/products/gao-27-108713"
+            }
+          ],
+          "tierText": "一档事实（审计署报告）",
+          "domain": "air",
+          "location": null,
+          "headline": "GAO：F-35约310亿美元零件账目不可靠"
+        },
+        {
+          "text": "TWZ 报道，克拉托斯称其 MQ-58「女武神」（Valkyrie）无人机目前单价约 600 万至 800 万美元（视构型而定，不含部分任务系统），高于公司过去的目标价，但按公开信息仍处于「协同作战飞机」（CCA）类无人机的低价区间；公司视相对低价为应对日益增多竞争设计的关键。同日 Breaking Defense 报道大韩航空航宇部门推进其 CCA 计划。",
+          "sourceNote": "TWZ；Breaking Defense",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans/"
+            }
+          ],
+          "tierText": "二档专业解读（公司口径经专业媒体）",
+          "domain": "air",
+          "location": null,
+          "headline": "MQ-58女武神单价约600万至800万美元"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "政府资本进场无人机与航天：OSC 一天内对火箭实验室（1.5 亿美元）与 Neros（4.5 亿美元）给出有条件贷款，叠加此前 PDW 8.2 亿美元，显示美方正用低成本债务扶持中型可复用运载与「去中国化」小型无人机零部件（电机、贴片电子）产能（推断）。",
+    "无人系统规模化列装：美陆军「发射效应」覆盖 11/12 个师部、Griffon 月产数百套，英国组建首个自主中队、芬乌 3 亿欧元无人与机器人合作，MQ-58 单价 600–800 万美元，指向消耗型无人机、无人艇与低价 CCA 的批量订单（推断）。",
+    "俄能源与导弹供应链被打：基里希炼油厂与「伊斯坎德尔」推进剂厂同夜遇袭，若持续，将影响俄成品油供应与弹道导弹产能；同时阿布扎比会谈与特朗普称对伊军事行动「相当不可能」可能缓和油价风险溢价，但霍尔木兹南航道设施遭袭说明航运风险仍高（推断）。"
+  ]
+}
