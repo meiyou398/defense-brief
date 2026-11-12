@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-12T09:30:00+08:00",
+  "coverage": "约 11月11日上午至 11月12日上午（UTC+8）；美国 11 日为退伍军人节，美方官方发布较少",
+  "summary": "美俄乌阿布扎比会谈第二天不到两小时即结束，双方原则同意一次大规模换俘，但领土和停火仍无突破，美方特使威特科夫和库什纳 12 日赴莫斯科见普京、再到都柏林见泽连斯基。乌方无人机夜袭波罗的海乌斯季卢加港，乌总参称五座油罐（合计 15 万立方米）受损，波罗的海三国一度发布无人机警报；乌方还担心赫尔松对岸奥列希基的临时停火让俄军借机重建阵地。印太方面，台湾国防部称截至 12 日 6 时共机 7 架次（3 架次越过中线）、共舰 7 艘；日本统合幕僚监部通报中国 BZK-005 等无人机两次穿越与那国岛与台湾之间，俄海军潜艇编队西进宗谷海峡；王毅与鲁比奥通话为特朗普赴华出席 APEC 铺路。中东方面，霍尔木兹又有油轮触雷或遇袭，伊朗称浓缩核材料不会运出境，布伦特油价回升至 92.76 美元。产业侧，五角大楼战略资本办公室向火箭实验室、Stoke 和 LeoLabs 各放贷 1.5 亿美元，英国皇家海军计划 2027 年让诺格 Talon Blue 协同作战无人机从航母起飞。",
+  "highlights": [
+    {
+      "lead": "阿布扎比会谈",
+      "text": "三方会谈第二天结束，原则同意大规模换俘，领土停火无突破。",
+      "item": 1
+    },
+    {
+      "lead": "乌斯季卢加",
+      "text": "乌方称无人机击中五座油罐，合计容量15万立方米。",
+      "item": 2
+    },
+    {
+      "lead": "台海动态",
+      "text": "台方称共机7架次、共舰7艘，3架次越过中线。",
+      "item": 5
+    },
+    {
+      "lead": "无人机过航",
+      "text": "日方称BZK-005等两架中国无人机穿越与那国岛与台湾之间。",
+      "item": 6
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "再有油轮触雷或遇袭，伊朗称浓缩核材料不出境。",
+      "item": 10
+    },
+    {
+      "lead": "航天贷款",
+      "text": "五角大楼向火箭实验室、Stoke、LeoLabs共放贷4.5亿美元。",
+      "item": 12
+    }
+  ],
+  "stats": [
+    {
+      "value": "15",
+      "unit": "万立方米",
+      "label": "乌斯季卢加受损油罐容量",
+      "item": 2
+    },
+    {
+      "value": "2.5",
+      "unit": "万人",
+      "label": "波兰拟建美军基地规模",
+      "item": 4
+    },
+    {
+      "value": "37",
+      "unit": "艘",
+      "label": "10月霍尔木兹遇袭船只",
+      "item": 10
+    },
+    {
+      "value": "4.5",
+      "unit": "亿美元",
+      "label": "OSC航天企业贷款",
+      "item": 12
+    },
+    {
+      "value": "150",
+      "unit": "次",
+      "label": "2030年前发射缺口",
+      "item": 12
+    }
+  ],
+  "featured": [
+    1,
+    12
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "美俄乌阿布扎比三方会谈 11 月 11 日第二天不到两小时即结束。美方库什纳称各方同意进行「规模最大的人道换俘」，具体人数次日敲定；俄方代表团团长梅金斯基称换俘是「原则上」达成，乌方团长乌梅罗夫也确认。乌方谈判代表阿拉哈米亚称这轮会谈「是最艰难的之一」，俄方带着「非常严格的指令」；梅金斯基则称「每一寸」土地终将归还俄罗斯。库什纳称他和威特科夫 12 日赴莫斯科会见普京，随后飞往都柏林会见泽连斯基，目标之一是争取让欧洲加入谈判；泽连斯基在都柏林说希望年底前取得具体成果，但很大程度取决于美方是否向俄施压。",
+          "sourceNote": "AP via NBC News；BBC；RFE/RL",
+          "links": [
+            {
+              "name": "AP via NBC News",
+              "url": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/ck792we7zrz4o"
+            },
+            {
+              "name": "RFE/RL",
+              "url": "https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html"
+            }
+          ],
+          "tierText": "二档专业解读（会谈结束与换俘原则一致为各方确认的事实；评价为各方官方口径）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "阿布扎比会谈结束：原则同意大规模换俘"
+        },
+        {
+          "text": "乌总参谋部称，乌军 11 日夜间以无人机打击列宁格勒州乌斯季卢加港：初步信息显示五座成品油储罐（合计容量 15 万立方米）受损并起大火，加氢裂化装置、空冷器、泵站和成品油装船泊位也被击中；乌克兰安全局（SBU）另称同一行动摧毁了一艘携带「口径」和「缟玛瑙」巡航导弹的俄军导弹舰。俄方列宁格勒州州长称共击落 146 架无人机，路透社称港区起火、三人受伤。同日立陶宛、拉脱维亚、爱沙尼亚因来自俄罗斯或白俄罗斯方向的无人机发布避险警报，北约防空战机升空；俄国防部则称打击了敖德萨西南一艘为乌军运送武器的货船和三座变电站，克里维里赫部分地区停电。",
+          "sourceNote": "GeneralStaffUA；Kyiv Post；Al Jazeera",
+          "links": [
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2120560352756699472"
+            },
+            {
+              "name": "Kyiv Post",
+              "url": "https://www.kyivpost.com/post/89842"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region"
+            }
+          ],
+          "tierText": "三档有立场（毁伤与击落数字分别为乌方、俄方口径，导弹舰被毁未经独立核实；波罗的海警报为各国官方通报）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌无人机袭乌斯季卢加港，波罗的海发无人机警报"
+        },
+        {
+          "text": "TWZ 报道，乌方官员对白宫斡旋、由第一夫人梅拉尼娅·特朗普促成的第聂伯河左岸奥列希基临时停火表示后悔：赫尔松州军政长官普罗库金称俄军借停火轮换兵力、重建被毁阵地，并运入无人机、火炮和弹药，「我们花了大约一年清除的东西，他们在停火期间几乎全部恢复了」。他称俄军目前每天对赫尔松及沿岸社区发动约 700–800 次无人机攻击，「肯定会增加」；该镇仍有多达 2000 名居民。",
+          "sourceNote": "TWZ",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/news-features/ukraine-regretting-white-house-brokered-temporary-ceasefire-in-strategic-riverside-town-of-oleshky"
+            }
+          ],
+          "tierText": "三档有立场（专业媒体转述乌方官员说法，俄方重建情况未经独立核实）",
+          "domain": "air",
+          "location": {
+            "name": "赫尔松（示意）",
+            "lat": 46.64,
+            "lon": 32.62
+          },
+          "headline": "乌方后悔奥列希基临时停火"
+        },
+        {
+          "text": "波兰副总理兼国防部长科西尼亚克-卡梅什 10 日在五角大楼会见赫格塞思后称，美方对在波兰设立永久美军基地「亮了绿灯」，最终由白宫决定，预计 12 月初拍板。波方提出比得哥什、波兹南、什切青、弗罗茨瓦夫四个候选地点（均在维斯瓦河以西），基地需容纳多达 2.5 万人；双方还签署了加强国防工业合作的意向声明，赫格塞思称波兰防务开支接近 GDP 的 5%。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december/"
+            }
+          ],
+          "tierText": "三档有立场（「绿灯」为波方表述，五角大楼通报未提基地决定",
+          "domain": "diplomacy",
+          "location": {
+            "name": "波兰（示意）",
+            "lat": 52.23,
+            "lon": 21.01
+          },
+          "headline": "波兰称美方支持设永久基地，12月初定"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，截至 11 月 12 日 6 时侦获共机 7 架次、共舰 7 艘、公务船 2 艘在台湾周边活动，其中 3 架次逾越海峡中线进入西南及东部空域，国军已监控应对。",
+          "sourceNote": "MoNDefense",
+          "links": [
+            {
+              "name": "MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2120682993899409862"
+            }
+          ],
+          "tierText": "三档有立场（台湾国防部单方数据，北京不公布对应数字）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台湾国防部：共机7架次、共舰7艘"
+        },
+        {
+          "text": "日本统合幕僚监部通报：11 月 11 日上午至下午，一架推定中国无人机和一架中国军队 BZK-005 侦察无人机分别从东海飞来，经与那国岛与台湾之间进入太平洋后折返，航空自卫队西南航空方面队战机紧急升空；10 日下午一架中国 Y-9 情报收集机在东海往返飞行，战机同样升空。另外，10 日夜至 11 日，俄海军一艘基洛改进型潜艇、一艘鳄鱼-IV 级坦克登陆舰（舷号 081）和一艘救援拖船西进通过宗谷海峡。",
+          "sourceNote": "日本统合幕僚监部；日本统合幕僚监部；日本统合幕僚监部",
+          "links": [
+            {
+              "name": "日本统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261111_03.pdf"
+            },
+            {
+              "name": "日本统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261111_02.pdf"
+            },
+            {
+              "name": "日本统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261110_01.pdf"
+            }
+          ],
+          "tierText": "一档事实（日本官方通报）",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日方：中国无人机穿越与那国岛与台湾之间"
+        },
+        {
+          "text": "台湾学者林颖佑在《外交官》撰文分析外界所称解放军「无声军演」：他认为，北部、东部、南部三个战区至少四个水面编队（含辽宁舰编队）同时在西太平洋活动，更像以海军为主的跨战区远程部署与联合指挥演练——练习分散成小编队、规避美国及邻国侦察、突破第一岛链——而不一定是专门封锁台湾的战区级联合演习。他建议关注福建舰是否与辽宁舰在西太会合进行双航母演练，以及福建舰是否再次穿越菲律宾周边海峡。",
+          "sourceNote": "The Diplomat",
+          "links": [
+            {
+              "name": "The Diplomat",
+              "url": "https://thediplomat.com/2026/11/beyond-a-taiwan-blockade-the-strategic-implications-behind-the-plas-silent-military-exercise/"
+            }
+          ],
+          "tierText": "二档专业解读（台湾学者观点；部署细节引自台湾国安会与 ISW-AEI）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台湾学者：「无声军演」更像跨战区远程部署"
+        },
+        {
+          "text": "王毅 11 日应约与美国国务卿鲁比奥通电话，新华社称通话「积极和建设性」，王毅表示中美关系稳定势头来之不易，双方应相互支持办好 2026 年 APEC 领导人非正式会议和 G20 峰会。美国国务院称通话应中方请求，双方讨论了特朗普即将赴华出席 APEC 和习近平赴佛罗里达出席 G20，并同意高层对话对推进「和平与去核化」目标的重要性，包括可能的美中三方会晤。",
+          "sourceNote": "中新网/新华社；联合早报（引美国国务院）",
+          "links": [
+            {
+              "name": "中新网/新华社",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730564.shtml"
+            },
+            {
+              "name": "联合早报",
+              "url": "https://www.zaobao.com.sg/news/china/story20261112-9984388"
+            }
+          ],
+          "tierText": "三档有立场（双方各自的官方通报口径）",
+          "domain": "diplomacy",
+          "location": null,
+          "headline": "王毅与鲁比奥通话，为APEC铺路"
+        },
+        {
+          "text": "菲律宾海军陆战队接收两艘美国 MARTAC 公司 T38「魔鬼鳐」无人水面艇，交接仪式上周三在苏比克湾举行，这是 2024 年以来美国第三次向菲军移交无人艇；菲海军无人水面艇一队此前已有 1 艘 T38、4 艘 MANTIS T12 和 4 艘 Triton。厂商资料称 T38 航程可达 2400 海里，可执行侦察、打击和电子战任务，菲陆战队正向吕宋海峡等第一岛链要冲调整部署。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/"
+            }
+          ],
+          "tierText": "二档专业解读（交接为事实，性能为厂商数据）",
+          "domain": "sea",
+          "location": {
+            "name": "菲律宾（示意）",
+            "lat": 14.6,
+            "lon": 120.98
+          },
+          "headline": "菲陆战队接收美制T38无人艇"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "霍尔木兹海峡袭船未停：伊朗陆军海军 11 日称一艘「违规」油轮在海峡东部禁区触雷起火；印度航运部长称一艘载有印度船员的利比里亚籍油轮在海湾被射弹击中，4 名船员受伤。伊朗安全事务负责人称不允许任何浓缩核材料运出伊朗，而美方要求核问题须纳入初步谈判；布伦特原油 11 日收于每桶 92.76 美元，涨 1.39%。华盛顿近东政策研究所数据显示 10 月有 37 艘船遇袭，为开战以来单月最多。美国中央司令部称美军继续保持海峡通航、严格执行对伊朗的海上封锁，并阻止伊斯兰革命卫队经陆路和里海运输武器与资金。",
+          "sourceNote": "Euronews；CNBC；CENTCOM",
+          "links": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/11/oil-markets-rise-as-investors-monitor-shipping-disruption-in-the-strait-of-hormuz"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/11/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes.html"
+            },
+            {
+              "name": "CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2120578655655014848"
+            }
+          ],
+          "tierText": "三档有立场（伊朗触雷说法与美方「保持通航」均为各方口径；油价为市场数据）",
+          "domain": "sea",
+          "location": {
+            "name": "霍尔木兹海峡（示意）",
+            "lat": 26.57,
+            "lon": 56.25
+          },
+          "headline": "霍尔木兹再有油轮触雷遇袭，油价回升"
+        },
+        {
+          "text": "ISW 11 日《朝鲜半岛动态》评估，朝鲜可能正在建造两艘比现役「崔贤」级驱逐舰更大的水面战舰：金正恩 11 月 2 日视察南浦造船厂在建新舰，NK News 卫星图像显示 10 月 8 日至 30 日有大型舰体分段从清津运往罗津组装。ISW 认为朝方转向万吨级导弹巡洋舰，可能是为发展舰射弹道导弹、建立海上二次核打击能力，但大型水面舰缺乏配套护卫将很脆弱。",
+          "sourceNote": "ISW；TheStudyofWar",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://understandingwar.org/research/china-taiwan/korean-peninsula-update-november-11-2026/"
+            },
+            {
+              "name": "TheStudyofWar",
+              "url": "https://x.com/TheStudyofWar/status/2120605423422124340"
+            }
+          ],
+          "tierText": "二档专业解读（ISW 有政策立场；卫星图像为一档线索）",
+          "domain": "space",
+          "location": {
+            "name": "朝鲜（示意）",
+            "lat": 39.04,
+            "lon": 125.76
+          },
+          "headline": "ISW：朝鲜或在建两艘万吨级巡洋舰"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "据 Breaking Defense，五角大楼战略资本办公室（OSC）近期向美国航天企业发放三笔贷款共 4.5 亿美元：本周一向火箭实验室放贷 1.5 亿美元，用于提高可复用「中子」火箭首飞后的发射频率（首飞已推迟到明年）；10 月 26 日向 Stoke Space 放贷 1.5 亿美元，在卡纳维拉尔角建第二个发射台（Nova 火箭计划 2027 年 3 月首飞）；11 月 4 日向空间监视公司 LeoLabs 放贷 1.5 亿美元，部署 Scout 机动雷达并到 2028 年建成两座大型制造厂。Quilty Space 10 月 29 日报告称，到 2030 年发射缺口至少 150 次。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies/"
+            }
+          ],
+          "tierText": "二档专业解读（贷款金额为官方公告，经专业媒体汇总）",
+          "domain": "space",
+          "location": null,
+          "headline": "五角大楼4.5亿美元贷款扶持发射与太空监视"
+        },
+        {
+          "text": "英国第一海务大臣詹金斯上将在奥斯陆国际海权会议上宣布，将在「威尔士亲王」号航母上与诺斯罗普·格鲁曼签署意向声明，在「先锋计划」（Project Vanquish）下为 Talon Blue（美军编号 YFQ-48A）协同作战无人机准备试验，目标 2027 年在英国水域演示，包括从航母起飞。诺格称期待未来 12 个月与皇家海军合作；Talon Blue 上月才宣布首飞。",
+          "sourceNote": "TWZ；UK MoD",
+          "links": [
+            {
+              "name": "TWZ",
+              "url": "https://www.twz.com/news-features/plans-to-fly-talon-blue-cca-drone-from-british-carrier-confirmed-by-northrop-grumman"
+            },
+            {
+              "name": "UK MoD",
+              "url": "https://www.gov.uk/government/speeches/general-sir-gwyn-jenkins-addresses-the-international-sea-power-conference"
+            }
+          ],
+          "tierText": "一档事实（英国海军官方讲话与厂商声明）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英海军计划2027年航母起飞Talon Blue无人机"
+        },
+        {
+          "text": "乌克兰导弹制造商 Fire Point 首席执行官捷列赫对 Breaking Defense 表示，希望 SpaceX 军用「星盾」网络的覆盖范围扩展到乌克兰国境以外 200–300 公里，以便打击俄境内靠近边境的弹道导弹发射装置；目前星盾许可证由乌国防部签发，覆盖仅限乌领土（含被占区）。乌方官员称星盾合同将于 2027 年年中到期，乌方即将与美方就续约条款谈判。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/"
+            }
+          ],
+          "tierText": "三档有立场（企业诉求表述）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "Fire Point呼吁星盾覆盖延伸至俄境内"
+        },
+        {
+          "text": "澳大利亚国防部长 11 日宣布，陆军「重型登陆艇」（LCH）已于 10 月下旬在西澳奥斯塔尔船厂切割首批钢板、按计划建造，此前一个月中型登陆艇（LCM）也已开工。政府已授出逾 50 亿澳元合同建造 18 艘中型和 8 艘重型登陆艇，可运载海马斯火箭炮和艾布拉姆斯坦克，项目将带来 1100 个直接岗位。",
+          "sourceNote": "Naval News（转载澳国防部长新闻稿）",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/"
+            }
+          ],
+          "tierText": "一档事实（政府新闻稿原文）",
+          "domain": "sea",
+          "location": {
+            "name": "澳大利亚（示意）",
+            "lat": -25.3,
+            "lon": 133.8
+          },
+          "headline": "澳大利亚重型登陆艇开工"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "发射与太空态势感知的「政府资本」入场：OSC 4.5 亿美元贷款集中投向可复用中型火箭（中子、Nova）和空间监视雷达（LeoLabs），叠加 Quilty 估算的至少 150 次发射缺口，说明美方把发射运力和太空监视当作产能瓶颈来补，中型可复用火箭、发射场基础设施和地基 SSA 雷达供应链值得跟踪（推断）。",
+    "海上无人化与舰船建造：英国计划 2027 年让 Talon Blue 从航母起飞、美国向菲律宾持续移交 T38 等无人艇、澳大利亚逾 50 亿澳元登陆艇项目开工，加上朝鲜转建万吨级巡洋舰，指向舰载协同作战无人机、远航程无人艇和中小型舰艇建造的持续需求（推断）。",
+    "能源设施与远程打击：乌方无人机重创乌斯季卢加港、Fire Point 要求把星盾覆盖延伸到俄境内，霍尔木兹袭船仍频繁且布伦特回升至 92.76 美元，远程打击无人机、卫星通信、反无人机和航运风险溢价仍是关注点（推断）。"
+  ]
+}
