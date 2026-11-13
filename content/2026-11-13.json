@@ -1,0 +1,375 @@
+{
+  "date": "2026-11-13",
+  "publishedAt": "2026-11-13T09:30:00+08:00",
+  "coverage": "约 11月12日上午至 11月13日上午（UTC+8）",
+  "summary": "美方特使威特科夫和库什纳 12 日先在克里姆林宫会见普京，当晚转赴都柏林西郊凯斯门特军用机场会见泽连斯基；美方和泽连斯基均称下一轮和谈将有欧洲代表直接入场，并将落实开战以来最大规模换俘，但普京重申领土要求、警告西方部队进入乌克兰将导致战事再起，克宫助手乌沙科夫并未确认欧洲一定加入。与此同时，泽连斯基称军用「星盾」卫星通信再次出现系统性限速（161 公里/时），拦截喷气无人机受阻，SpaceX 对《战争地带》否认有任何改动。芬兰国防军证实 11 日芬兰湾一艘俄军舰遇袭，乌安全局称目标为布扬-M 级「纳罗福明斯克」号，爱沙尼亚称舰艇冒烟后驶回圣彼得堡。印太方面，台湾国防部称截至 13 日 6 时共机 30 架次（23 架次越过中线）、共舰 8 艘，较前一日明显上升；日本统合幕僚监部通报 12 日两架推定中国无人机再次穿越与那国岛与台湾之间。中东方面，伊朗称自 11 日夜间起又有四艘油轮触雷或起火，布伦特原油收于 95.82 美元。产业侧，英国宣布采购三艘挪威 P1118 扫雷母舰，国家财富基金向乌克兰背景的 UFORCE 投资 1.13 亿英镑；美海军在中国湖扩大「战斧」战斗部产能。",
+  "highlights": [
+    {
+      "lead": "莫斯科会谈",
+      "text": "美特使见普京后转都柏林见泽连斯基，称下一轮将有欧洲代表，领土仍无突破。",
+      "item": 1
+    },
+    {
+      "lead": "星盾限速",
+      "text": "泽连斯基称星盾被限速至161公里/时，拦截喷气无人机受阻；SpaceX否认。",
+      "item": 2
+    },
+    {
+      "lead": "芬兰湾军舰",
+      "text": "芬兰证实11日一艘俄军舰在芬兰湾遇袭，乌方称目标为纳罗福明斯克号。",
+      "item": 3
+    },
+    {
+      "lead": "台海动态",
+      "text": "台方称共机30架次、共舰8艘，23架次越过中线，较前一日明显上升。",
+      "item": 5
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "伊朗称又有四艘油轮触雷或起火，布伦特收于95.82美元。",
+      "item": 8
+    },
+    {
+      "lead": "扫雷母舰",
+      "text": "英海军采购三艘挪威P1118扫雷母舰，首舰计划2031年交付。",
+      "item": 10
+    }
+  ],
+  "stats": [
+    {
+      "value": "161",
+      "unit": "公里/时",
+      "label": "星盾被称限速",
+      "item": 2
+    },
+    {
+      "value": "30",
+      "unit": "架次",
+      "label": "台方称共机数量",
+      "item": 5
+    },
+    {
+      "value": "23",
+      "unit": "架次",
+      "label": "越过海峡中线",
+      "item": 5
+    },
+    {
+      "value": "95.82",
+      "unit": "美元",
+      "label": "布伦特12日收盘",
+      "item": 8
+    },
+    {
+      "value": "1.13",
+      "unit": "亿英镑",
+      "label": "英国对UFORCE投资",
+      "item": 11
+    }
+  ],
+  "featured": [
+    1,
+    11
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "美方特使史蒂夫·威特科夫和贾里德·库什纳 12 日在克里姆林宫会见普京，当晚飞抵都柏林西郊鲍尔多纳尔的凯斯门特军用机场，向正在出席欧洲政治共同体峰会的泽连斯基通报。威特科夫对俄官方电视台称「欧洲人将参加下一轮会谈」；泽连斯基在会见后说，欧洲将进入谈判团队、「会有声音」，并称美方告知即将进行的换俘将是开战以来规模最大的一次。库什纳称与普京的谈话「非常详细且有成效」，并说普京「愿意试一试」让欧洲入场。但克宫助手尤里·乌沙科夫并未确认欧洲一定加入，并称欧洲目前立场是「无休止战争的配方」。普京重申他所称的俄乌「国家边界」才是有意义的分界，并警告战后若有西方部队进入乌克兰，俄方将视为安全威胁、战争会再起；他还提议参照上月奥列希基安排，在东部科斯佳金尼夫卡（Kostiantynivka）开展联合人道行动，称该市仍有 400 至 500 名居民、排雷约需五天——乌方过去否认俄已完全控制该市，并担心此类临时停火被用来重建阵地。领土问题仍无突破。",
+          "sourceNote": "Defense News；The Kyiv Independent；The Irish Times",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/2026/11/12/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again/"
+            },
+            {
+              "name": "The Kyiv Independent",
+              "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+            },
+            {
+              "name": "The Irish Times",
+              "url": "https://www.irishtimes.com/ireland/2026/11/13/ukraine-dominates-agenda-as-europes-leaders-come-to-dublin/"
+            }
+          ],
+          "tierText": "二档专业解读（行程与公开表态有多方交叉；欧洲是否正式入场及人道提议为各方口径）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "美特使见普京后转都柏林，称下一轮将有欧洲代表"
+        },
+        {
+          "text": "泽连斯基 12 日称，军用「星盾」（Starshield，SpaceX 面向政府客户的星链军用版）再次出现「系统性」限速，被限制在 161 公里/时（100 英里/时），影响整条前线及俄占区行动，使拦截俄方喷气动力无人机的拦截器无法提速。这是一个月内第二次出现类似投诉，10 月的限制后来曾恢复。部分乌方人士怀疑此举是为向乌施压、在领土问题上让步；泽连斯基说，若「美国有人」把乌克兰领土「当成不是乌克兰的」来做决定，「这就说明事情在朝哪个方向走」。SpaceX 官员对《战争地带》否认：「这是不实的。没有任何改动。」《战争地带》称无法独立核实乌方说法。乌国防部还称正与芬兰的 ICEYE 和诺基亚合作发展自主卫星通信，但乌方官员也承认这远不足以替代 SpaceX 系统。",
+          "sourceNote": "The War Zone；Defense News；DefenceU",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/2026/11/12/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again/"
+            },
+            {
+              "name": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2120796371875660102"
+            }
+          ],
+          "tierText": "二档专业解读（限速数字为泽连斯基公开表述；SpaceX 否认；成因未获独立证实）",
+          "domain": "space",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "泽连斯基称星盾再次被限速，SpaceX否认"
+        },
+        {
+          "text": "芬兰国防军 12 日向路透社证实，其部队 11 日在芬兰湾发现「对一艘俄罗斯军舰的打击」，并持续跟踪事态，但未公布位置、时间和侦测方式；发言人强调芬兰未面临直接军事威胁，波罗的海安全局势「稳定」。芬兰高级官员向芬兰广播公司 Yle 称，袭击发生在俄属戈格兰岛（芬兰语苏尔萨里）附近，该岛约在芬兰以南 40 公里、爱沙尼亚以北 55 公里。乌克兰安全局称，作为 11 日夜袭乌斯季卢加港行动的一部分，其有计划地打击了波罗的海舰队布扬-M 级小型导弹舰「纳罗福明斯克」号（可携「口径」和「缟玛瑙」导弹）。爱沙尼亚国防部长赫雷姆对公共广播 ERR 称，约在当地时间 11 日 5 时 30 分发生爆炸，「之后船上冒烟，舰艇本身驶回圣彼得堡方向」。人员伤亡和受损程度仍不明确；芬兰外长瓦尔托宁称波罗的海航行仍然安全。这是对前一日乌方「击毁一艘导弹舰」说法的官方侧证，但「摧毁」并未得到芬兰或爱沙尼亚证实。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News / Reuters",
+              "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/"
+            },
+            {
+              "name": "Yle",
+              "url": "https://yle.fi/a/74-20256496"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmn0d33zz34zo"
+            }
+          ],
+          "tierText": "一档事实（芬兰官方证实发生打击；舰名、弹药与毁伤为乌方及爱沙尼亚转述）",
+          "domain": "missile",
+          "location": {
+            "name": "芬兰（示意）",
+            "lat": 60.17,
+            "lon": 24.94
+          },
+          "headline": "芬兰证实俄军舰在芬兰湾遇袭"
+        },
+        {
+          "text": "乌克兰总参谋部 12 日称，自 10 月 30 日以来，乌军远程打击已触及俄五大炼油厂中的全部五座：鄂木斯克、基里希、梁赞、下诺夫哥罗德和雅罗斯拉夫尔；并称还有更小的设施被打到。这是交战方战损与打击战报，未获俄方或独立机构逐一确认。",
+          "sourceNote": "GeneralStaffUA",
+          "links": [
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2120915222307246103"
+            }
+          ],
+          "tierText": "三档有立场（乌方战报，敌方损失为单方口径）",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌总参称俄五大炼油厂均遭打击"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，截至 11 月 13 日 6 时侦获共机 30 架次、共舰 8 艘、公务船 3 艘在台湾周边活动，其中 23 架次越过海峡中线，进入北部、中部、西南及东部空域，国军已监控应对。与 12 日 6 时的 7 架次（3 架次越中线）、7 艘军舰相比，架次和越线比例均明显上升。",
+          "sourceNote": "MoNDefense",
+          "links": [
+            {
+              "name": "MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2121045382964838592"
+            }
+          ],
+          "tierText": "三档有立场（台湾国防部单方数据，北京不公布对应数字）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台湾国防部：共机30架次、23架次越中线"
+        },
+        {
+          "text": "日本统合幕僚监部 12 日通报：12 日上午，一架推定中国无人机从东海飞来，经与那国岛与台湾之间进入太平洋；同日下午，一架推定中国无人机自太平洋方向飞来，再经同一水道进入东海。航空自卫队西南航空方面队战机紧急升空应对。这是继 11 日 BZK-005 等无人机过航之后，连续第二天在同一水道观测到推定中国无人机。",
+          "sourceNote": "日本统合幕僚监部",
+          "links": [
+            {
+              "name": "日本统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261112_01.pdf"
+            }
+          ],
+          "tierText": "一档事实（日本官方通报）",
+          "domain": "air",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日方：推定中国无人机再穿越与那国岛与台湾之间"
+        },
+        {
+          "text": "《战争之岩》12 日刊出云孙、林碧莹等五名学者关于解放军高层整肃与台海准备的简报：美国战略与国际研究中心 2 月报告称，自 2022 年以来习近平已整肃至少 100 名高级军官，近两年节奏明显加快，近期例子包括张又侠、刘振立，以及曾掌管中央军委办公厅的钟绍军。云孙（史汀生中心）认为，政治效忠被置于专业能力之上，寒蝉效应打击信任与士气；装备现代化仍在继续，解放军仍是一支可观力量，但重建将官团、恢复信任和指挥体系需要更长时间——整肃或许加强了文官控制，但「在此过程中军方被削弱了」。全文其余专家意见为会员专享，此处只转述公开导语。",
+          "sourceNote": "War on the Rocks",
+          "links": [
+            {
+              "name": "War on the Rocks",
+              "url": "https://warontherocks.com/2026/11/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/"
+            }
+          ],
+          "tierText": "二档专业解读（公开导语所引 CSIS 统计与学者判断，非整肃名单的原始文件）",
+          "location": null,
+          "headline": "学者：解放军整肃削弱指挥体系，装备现代化仍在继续"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "伊朗军方和革命卫队海军 12 日称，自 11 日夜间起，霍尔木兹海峡一带又有油轮遇袭或触雷：革命卫队称两艘超级油轮 11 日夜间在其宣布的「未授权航线」上因爆炸失去动力，伊军随后称 12 日下午又有两艘油轮在海峡以东「禁入危险水域」触雷起火；四艘船均未公布船名和船旗，目前尚无独立核对。英国海事贸易行动组织（UKMTO）12 日连续发布 202-26、203-26、204-26 号警告及联合海事信息中心咨询。路透社转述 UKMTO 称，一艘油轮 11 日在哈伊马角西北约 14 海里处遭不明抛射物击中，机舱起火，船员全部撤离。布伦特原油 12 日收涨 3.3%，报 95.82 美元/桶。",
+          "sourceNote": "Anadolu Agency；Reuters via Investing.com；UK_MTO；CNBC",
+          "links": [
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-says-2-oil-tankers-caught-fire-after-hitting-naval-mines-near-strait-of-hormuz/4123019"
+            },
+            {
+              "name": "Reuters via Investing.com",
+              "url": "https://www.investing.com/news/commodities-news/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says-5022725"
+            },
+            {
+              "name": "UK_MTO",
+              "url": "https://x.com/UK_MTO/status/2120868649053626836"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+            }
+          ],
+          "tierText": "三档有立场（触雷说法为伊朗官方口径，未经独立确认；UKMTO 警告与油价为一档）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "伊朗称霍尔木兹再有油轮触雷，油价收涨"
+        },
+        {
+          "text": "美国司法部纽约南区检方对三名据称伊朗背景人员提出八项起诉，指他们策划或协助今年 9 月针对英国费尔福德皇家空军基地（当时驻有支持对伊作战的美军飞机和人员）的未遂袭击。起诉书称，拥有伊朗和伊拉克双重国籍、被指为「真主党旅」指挥官的穆罕默德·巴基尔·萨阿德·达乌德·萨阿迪在纽约狱中候审期间，通过家人通话向身在伊朗的穆罕默德·阿里·哈萨尼和穆赫森·穆哈杰里传递暗语；哈萨尼被指向英国境内联系人付款，用于监视基地、购买面包车和燃油桶等。检方称，9 月下旬至少有两辆装有燃油桶的面包车在接近基地时遇到安全路障，英方后来扣下三辆白色面包车并逮捕相关人员。检方还称三人与近 20 起欧美恐袭或未遂案有关。指控尚未经法院认定。",
+          "sourceNote": "Defense News（转述司法部起诉书）",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford/"
+            }
+          ],
+          "tierText": "一档事实（起诉书文本；指控尚未定罪）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美检方起诉三人涉费尔福德基地袭击未遂"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "英国国防部 12 日在奥斯陆大西洋未来论坛宣布，皇家海军将加入挪威 P1118「标准化舰艇」项目，采购三艘扫雷无人系统母舰（近海支援舰），首舰计划 2031 年交付，并保留再购三艘的选项；国防投资计划为此追加 9000 万英镑。防长斯特里廷和挪威防长达格·桑德维克确认，这与挪威采购 26 型护卫舰的出口安排绑定，英方称该出口是英国有史以来金额最大的战舰出口、可支撑供应链约 4000 个就业岗位。英方还提到，国防部与皇家海军授予 Ocean Infinity 的 9000 万英镑「大西洋网」合同，将用自主和水下无人系统监测北大西洋水下威胁。",
+          "sourceNote": "UK MoD",
+          "links": [
+            {
+              "name": "UK MoD",
+              "url": "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships"
+            }
+          ],
+          "tierText": "一档事实（英国国防部新闻稿）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英海军采购三艘挪威P1118扫雷母舰"
+        },
+        {
+          "text": "英国国家财富基金 12 日宣布，向乌克兰创立、总部在英国的无人系统公司 UFORCE 投资 1.13 亿英镑，作为该公司 7 亿美元（逾 5.25 亿英镑）A 轮融资的一部分，用于在英国扩大工程、训练和制造，并称每艘在英建造艇只 70% 以上的内容将来自英国供应商。防长斯特里廷在「威尔士亲王」号航母上遥控操纵一艘位于葡萄牙附近大西洋、距离超过 1500 英里的 UFORCE MV7（「马古拉」家族）无人艇作演示。公司将以英国为基地，重点服务联合远征部队等北欧盟国。",
+          "sourceNote": "UK MoD",
+          "links": [
+            {
+              "name": "UK MoD",
+              "url": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain"
+            }
+          ],
+          "tierText": "一档事实（英国政府新闻稿）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英国向UFORCE投资1.13亿英镑扩产无人艇"
+        },
+        {
+          "text": "美国高超声速创业公司 Hermeus 与诺斯罗普·格鲁曼 12 日宣布合作：诺格将为 Hermeus 的下一代可重复使用、高马赫无人飞行器提供电子战、传感器、自主套件和其他任务系统的设计、集成与保障。Hermeus 的 Quarterhorse Mk 2.1 验证机已在 5 月首次突破音障，正在研制的 Mk 2.2 目标是超过 2 马赫；公司还披露可从 Quarterhorse 空射的小型冲压发动机平台 Ramjet-X。双方称目标是向美军交付可实际部署的高超音速或接近高超音速无人飞行器，具体合同金额和列装时间表未公布。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman"
+            }
+          ],
+          "tierText": "二档专业解读（公司与主承包商公告，经专业媒体转述）",
+          "domain": "missile",
+          "location": null,
+          "headline": "Hermeus与诺格合作研制高马赫无人机"
+        },
+        {
+          "text": "美国海军空战中心武器分部（NAWCWD）在中国湖重启并扩大「战斧」巡航导弹 WDU-36/B 战斗部装填产能：该部今年秋季已用原有 150 加仑搅拌机完成 7 枚首件战斗部，并在 11 月 9 日为重建后的发动机装配区新 300 加仑搅拌机剪彩，计划约 2027 年 6 月达到生产速率，成为雷神等工业伙伴之外的海军自有补充来源。新闻稿回顾，海军 8 月刚向雷神授予 229 亿美元合同以加快「战斧」生产；战斗部壳体由通用动力军械与战术系统加工，目前由 L3Harris 装填，NAWCWD 已与 L3Harris 签署多年公私合作，计划承担一部分装填。",
+          "sourceNote": "Naval News（转载 NAWCWD 新闻稿）",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-expands-tomahawk-warhead-production-capacity-at-china-lake/"
+            }
+          ],
+          "tierText": "一档事实（海军实验室官方新闻稿）",
+          "domain": "missile",
+          "location": null,
+          "headline": "美海军在中国湖扩大战斧战斗部产能"
+        },
+        {
+          "text": "波兰 SATIM 公司 12 日宣布获得波兰国防部合同，为其「MikroSAR」对地观测计划提供合成孔径雷达（SAR）图像自动分析软件；该星座由芬兰 ICEYE 与波兰 PGZ 下属通信厂联合推进。SATIM 称其方案对多数目标类别识别准确率达 90%–95%，约 300 类对象（含舰艇、飞机和车辆）。该公司与莱茵金属合作支持德国 SPOCK-1 侦察项目的自动分析流水线，已进入作战试验阶段。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/"
+            }
+          ],
+          "tierText": "二档专业解读（合同为公司声明，准确率亦为厂商自述）",
+          "domain": "sea",
+          "location": {
+            "name": "波兰（示意）",
+            "lat": 52.23,
+            "lon": 21.01
+          },
+          "headline": "波兰SATIM获得国防部雷达图像分析合同"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "卫星通信成为战场瓶颈，也是谈判杠杆：乌方称星盾再次被限速至 161 公里/时、拦截喷气无人机受阻，SpaceX 否认改动；乌方同时推进与 ICEYE、诺基亚的自主卫星通信，但承认无法替代。军用低轨通信、抗干扰终端、以及可部分备份星盾的卫星与数据链，仍是关键跟踪方向（推断）。",
+    "英国把乌克兰前线经验直接做成产能：国家财富基金 1.13 亿英镑进入 UFORCE（A 轮 7 亿美元的一部分），英建艇只超 70% 本地配套；同时采购三艘挪威扫雷母舰并加码 9000 万英镑「大西洋网」水下监视。无人艇、扫雷母舰、水下传感与中小船厂订单是清晰的需求方向（推断）。",
+    "巡航导弹战斗部和高速无人飞行器在补产能：海军在中国湖自建「战斧」装填线，对应 8 月 229 亿美元加速合同；Hermeus 与诺格合作给高马赫无人机加电子战和传感器。霍尔木兹袭船未停、布伦特收于 95.82 美元，航运风险溢价、反水雷和远程对地/反舰弹药仍值得关注（推断）。"
+  ]
+}
