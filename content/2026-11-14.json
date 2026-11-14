@@ -1,0 +1,423 @@
+{
+  "date": "2026-11-14",
+  "publishedAt": "2026-11-14T09:30:00+08:00",
+  "coverage": "约 11月13日上午至 11月14日上午（UTC+8）",
+  "summary": "俄国防部称 12 日夜至 13 日晨拦截 1198 架乌克兰远程无人机，乌总参称击中伏尔加格勒炼油厂、并用「海王星」导弹打击顿河畔罗斯托夫的无人机生产设施；俄方同夜袭击基辅一家医院和敖德萨港。外交上，库什纳称下一轮和谈将纳入欧洲、讨论更广泛的战后欧洲安全安排，克宫则称要先看到欧方「诚意」。英国方面，美空军证实莱肯希思基地出现疑似未授权无人机，此前美军在英基地因伊朗威胁提升戒备，一名美军中校在英国因涉嫌为俄情报机构工作被捕。印太方面，台湾国防部称截至 14 日 6 时共机 10 架次（4 架次越过中线）、共舰 8 艘，较前一日的 30 架次明显回落；日本统合幕僚监部通报中国 052D 驱逐舰和 901 型补给舰穿越冲绳本岛与宫古岛之间，并公布 10 月紧急升空 135 次（对中国 94 次）。中东方面，伊斯兰革命卫队称又有两艘油轮在霍尔木兹海峡触雷起火，美中央司令部则驳斥其「击毁巴林预警雷达」的说法。产业侧，B-21 完成首次武器投放，五角大楼把首席数字与人工智能办公室改名「超级智能办公室」；美国本土 13 日因 L3Harris 运营的空管通信网络故障实施全国停飞四个多小时，约 5000 个航班取消。",
+  "highlights": [
+    {
+      "lead": "千架无人机",
+      "text": "俄方称拦截1198架乌无人机，乌方称击中伏尔加格勒炼油厂。",
+      "item": 1
+    },
+    {
+      "lead": "和谈扩容",
+      "text": "库什纳称下轮和谈纳入欧洲，克宫要求欧方先显示诚意。",
+      "item": 2
+    },
+    {
+      "lead": "英国基地",
+      "text": "莱肯希思现疑似无人机，美军中校在英涉嫌为俄刺探被捕。",
+      "item": 3
+    },
+    {
+      "lead": "台海动态",
+      "text": "台方称共机10架次、4架次越线，较前一日30架次明显回落。",
+      "item": 5
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "革命卫队称又有两艘油轮触雷起火，美方驳斥击毁雷达说法。",
+      "item": 9
+    },
+    {
+      "lead": "全国停飞",
+      "text": "美空管通信网络故障致全国停飞四小时多，约5000航班取消。",
+      "item": 15
+    }
+  ],
+  "stats": [
+    {
+      "value": "1198",
+      "unit": "架",
+      "label": "俄方称拦截无人机",
+      "item": 1
+    },
+    {
+      "value": "10",
+      "unit": "架次",
+      "label": "台方称共机数量",
+      "item": 5
+    },
+    {
+      "value": "135",
+      "unit": "次",
+      "label": "日本10月紧急升空",
+      "item": 6
+    },
+    {
+      "value": "8.75",
+      "unit": "亿欧元",
+      "label": "意大利GCAP年支出",
+      "item": 4
+    },
+    {
+      "value": "5000",
+      "unit": "个",
+      "label": "美停飞取消航班",
+      "item": 15
+    }
+  ],
+  "featured": [
+    1,
+    10
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "俄国防部称，12 日夜至 13 日晨在 15 个以上地区拦截 1198 架乌克兰远程无人机，是乌方迄今规模最大的一波之一；伏尔加格勒州州长称当地 4 人死亡，美联社汇总俄三地官员说法共 7 人死亡、17 人受伤。乌总参谋部称击中卢克石油伏尔加格勒炼油厂（年加工能力约 1500 万吨）并引发大火，另称海军用「海王星」导弹打击了顿河畔罗斯托夫的无人机生产设施、仓库和维修中心。俄方同夜袭击基辅一家医院（起火，1 人受伤），敖德萨 2 人死亡，扎波罗热一名 17 岁少年遇难；俄国防部还称在黑海打击了一艘为乌军运送武器的货船（未经独立核实）。",
+          "sourceNote": "AP；Al Jazeera；GeneralStaffUA；GeneralStaffUA",
+          "links": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-putin-trump-zelenskyy-europe-157d168cb7ff9cae318cbf6cecb3988f"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push"
+            },
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2121278291135135754"
+            },
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2121259053435298144"
+            }
+          ],
+          "tierText": "三档有立场（双方战果与拦截数均为交战方口径，伤亡为地方官员通报）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄称拦截1198架乌无人机，伏尔加格勒炼油厂起火"
+        },
+        {
+          "text": "库什纳 12 日深夜在 X 上称，俄乌已同意让下一轮谈判扩大到欧洲国家，「以便在处理俄乌领土问题的同时，讨论更广泛的战后欧洲安全安排」，并称正推动可能让「数千人」团聚的开战以来最大规模换俘。泽连斯基称议程将包括「某种降级、某种停火」。克宫 13 日表示，接纳欧盟入场前要先看到其「诚意」；欧盟外交与安全政策高级代表卡拉斯称俄罗斯不希望谈判桌上有「强者」。半岛电视台援引未经证实的报道称，俄方提出了涉及欧洲安全的要求，包括芬兰退出北约、北约承诺不在波罗的海地区驻军。分析人士 Rob Lee 称，乌军步兵仍在科斯佳金尼夫卡东南和东部据守，「控制」难以界定——这与普京所称俄方控制该市并提议人道行动的说法相左。",
+          "sourceNote": "The Guardian；DW；Al Jazeera；Rob Lee （X）",
+          "links": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push"
+            },
+            {
+              "name": "Rob Lee",
+              "url": "https://x.com/RALee85/status/2121319905903730937"
+            }
+          ],
+          "tierText": "二档专业解读（公开表态有多方交叉；俄方对欧安全要求为未证实报道）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "库什纳称和谈纳入欧洲，克宫要先看诚意"
+        },
+        {
+          "text": "美空军向《战争地带》证实，13 日晚（当地时间）安保部队处置了英国莱肯希思皇家空军基地上空的「疑似未授权无人机活动」，「人员、飞机和设施均未受影响」；英国国防部称事件已解决、正在核实情况。此前据《华尔街日报》报道，米尔登霍尔和莱肯希思因伊朗方面的威胁已将戒备提升至 FPCON Charlie（第二高级），本周一至少 10 架 KC-135 加油机飞离米尔登霍尔。同期，美陆军确认本周在英国被捕的军人为 41 岁中校布兰登·卡罗尔·泰纳，他依英国 2023 年《国家安全法》被捕，涉嫌协助俄罗斯情报机构，由伦敦反恐警方主导调查；联邦调查局局长帕特尔称 FBI 在过去 21 个月进行了 167 起反间谍和间谍案逮捕。",
+          "sourceNote": "The War Zone；Defense News",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/13/us-army-names-officer-held-on-allegations-of-espionage/"
+            }
+          ],
+          "tierText": "一档事实（美空军、英国防部和美陆军的官方回应；间谍案为指控，尚未定罪）",
+          "domain": "air",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "莱肯希思现疑似无人机，美军中校涉俄间谍案被捕"
+        },
+        {
+          "text": "意大利国防部本周提交议会的 2026 年国防预算文件显示，意方今年在英日意第六代战斗机项目 GCAP 上支出 8.75 亿欧元（约 9.7 亿美元），高于去年的 6.25 亿欧元，也远高于去年文件预测的 2.75 亿欧元；文件预计 2027 年支出 6.96 亿欧元。相反，与莱茵金属合作的新主战坦克、步兵战车及「公羊」坦克升级今年仅支出 1.77 亿欧元，低于去年的 2.81 亿欧元和此前预测的 4.25 亿欧元；该计划原定交付 1050 辆 Lynx 和 272 辆 Panther，总值 230 亿欧元，防长克罗塞托 7 月称将压缩 18% 成本。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/"
+            }
+          ],
+          "tierText": "一档事实（意大利国防预算文件，经专业媒体披露）",
+          "domain": "air",
+          "location": null,
+          "headline": "意大利GCAP支出升至8.75亿欧元，陆军车辆缩水"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，11 月 13 日 6 时至 14 日 6 时，侦获共机 10 架次（其中 4 架次越过中线进入中部、西南及东部空域）、共舰 8 艘及公务船 3 艘在台海周边活动。前一日（12 日 6 时至 13 日 6 时）为共机 30 架次、越线 23 架次，本日架次明显回落，舰艇数持平。",
+          "sourceNote": "台湾国防部 Taiwan MND；前一日通报",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://www.mnd.gov.tw/news/plaact/88211"
+            },
+            {
+              "name": "前一日通报",
+              "url": "https://www.mnd.gov.tw/news/plaact/88209"
+            }
+          ],
+          "tierText": "一档事实（台湾国防部每日官方数据，台方口径）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台湾国防部：共机10架次、4架次越中线"
+        },
+        {
+          "text": "日本统合幕僚监部 13 日通报，12 日下午 4 时许，海上自卫队在冲绳县久米岛以西约 60 公里发现南下的中国海军旅洋 III 级（052D）导弹驱逐舰（舷号 121）和福池级（901 型）高速综合补给舰（舷号 901），随后两舰经冲绳本岛与宫古岛之间驶向太平洋，日方出动 P-1 和 P-3C 监视。同日公布的速报显示，2026 年 10 月航空自卫队紧急升空 135 次，为本财年最高，其中针对中国 94 次、俄罗斯 40 次；本财年 4 至 10 月累计 577 次（中国 379 次）。",
+          "sourceNote": "日本统合幕僚监部 Japan Joint Staff；紧急升空速报",
+          "links": [
+            {
+              "name": "日本统合幕僚监部 Japan Joint Staff",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261113_01.pdf"
+            },
+            {
+              "name": "紧急升空速报",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261113_06.pdf"
+            }
+          ],
+          "tierText": "一档事实（日本防卫省官方通报，升空数为速报值）",
+          "domain": "missile",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日方：中国驱逐舰和补给舰穿越宫古海峡"
+        },
+        {
+          "text": "日本驻菲律宾大使北川克郎与菲外长拉扎罗本周一签署协议，日本将通过「政府安全保障能力强化支援」（OSA）向菲军提供最高 2700 万美元的装备，包括交给菲海军的一套海岸防御雷达，以及交给菲空军的无人机（型号和数量未公开）。这是日菲之间首次移交无人机；日方同时在讨论把即将退役的阿武隈级护卫舰转给菲海军。",
+          "sourceNote": "USNI News",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/13/japan-pledges-drones-coastal-defense-radar-in-latest-philippine-defense-package"
+            }
+          ],
+          "tierText": "二档专业解读（转述日本外务省和驻菲使馆公告）",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日本向菲律宾提供海岸雷达和无人机"
+        },
+        {
+          "text": "美太平洋舰队潜艇部队司令卡瓦诺少将在美国海军潜艇联盟年会上称，中国海军在不到 4 年内让 8 艘 093B 型（商 III）攻击核潜艇服役，美方评估这一建造速度至少可维持十年，期间可能有 20 至 40 艘商 III 或改进型服役；商 III 配备 24 单元垂直发射系统，静音和推进有明显改进，可视为全新级别。他还提到 095 型的 X 形舵和泵喷推进、俄罗斯北风之神级战略核潜艇、「波塞冬」核动力无人潜航器，以及朝鲜新战略核潜艇，称水下威胁「正在快速增长」。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/"
+            }
+          ],
+          "tierText": "二档专业解读（美军将领公开讲话，属美方评估）",
+          "domain": "missile",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "美潜艇司令：中国4年服役8艘093B"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "伊斯兰革命卫队海军 13 日晚称，又有两艘「违规」油轮（其中一艘为超级油轮）在霍尔木兹海峡南部试图走「未授权航线」时触雷爆炸起火，称两船关闭了雷达和导航系统；当天早些时候其还称一艘液化气运输船触雷爆炸。均未公布船名，尚无独立核实。革命卫队另称为报复锡里克一座通信塔遭袭，击毁了美军在巴林的一部预警雷达；美中央司令部回应称伊方只是向巴林发射了两架单向攻击无人机，均被美军击落，无人员伤亡或损失。路透社援引华盛顿近东政策研究所数据称，11 月前 10 天至少 10 艘船遇袭，10 月为 37 起，是开战以来单月最高。",
+          "sourceNote": "Anadolu Agency；gCaptain/Reuters；CENTCOM",
+          "links": [
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-says-2-oil-tankers-strike-mines-catch-fire-in-strait-of-hormuz/4124771"
+            },
+            {
+              "name": "gCaptain/Reuters",
+              "url": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/"
+            },
+            {
+              "name": "CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2121225254446018729"
+            }
+          ],
+          "tierText": "三档有立场（伊方战果和美方反驳均为交战方口径；船只身份未核实）",
+          "domain": "sea",
+          "location": {
+            "name": "霍尔木兹海峡（示意）",
+            "lat": 26.57,
+            "lon": 56.25
+          },
+          "headline": "革命卫队称两艘油轮触雷，美方驳斥雷达说法"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "美空军部 13 日宣布，B-21「突袭者」上周从加州爱德华兹空军基地起飞，完成首次常规武器投放试验，标志该机从飞行测试转入武器平台阶段；空军称试验依托 B-21 数字孪生环境中数千小时的虚拟建模，验证了其开放式系统架构，项目仍按计划在 2027 年让飞机进驻南达科他州埃尔斯沃思空军基地。",
+          "sourceNote": "U.S. Air Force；The War Zone",
+          "links": [
+            {
+              "name": "U.S. Air Force",
+              "url": "https://www.af.mil/News/Article-Display/Article/4647490/b-21-raider-demonstrates-weapon-release-capability-validating-foundational-role/"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon"
+            }
+          ],
+          "tierText": "一档事实（美空军官方新闻稿）",
+          "domain": "air",
+          "location": null,
+          "headline": "B-21完成首次武器投放"
+        },
+        {
+          "text": "美国「战争部」13 日宣布，把首席数字与人工智能办公室（CDAO）更名为「超级智能办公室」（SIO），启用新域名 si.mil，称是执行特朗普关于从「传统人工智能」转向「超级智能」术语的指示；该办公室继续负责 Maven 智能系统和战争数据平台，现有项目和招标不受影响。同日美空军发布《2026 年部队设计》，取代 2024 年版，强调把自主、传感器和指挥控制与飞机整合，以在拒止环境中协同作战。",
+          "sourceNote": "U.S. Department of War；Defense News",
+          "links": [
+            {
+              "name": "U.S. Department of War",
+              "url": "https://www.war.gov/News/Releases/Release/Article/4647618/department-of-war-redesignates-cdao-as-super-intelligence-office/"
+            },
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/"
+            }
+          ],
+          "tierText": "一档事实（美方官方新闻稿）",
+          "domain": "air",
+          "location": null,
+          "headline": "五角大楼AI办公室更名超级智能办公室"
+        },
+        {
+          "text": "《美国海军学会新闻》在巴黎欧洲海军展上梳理称，美海军拟引入外国设计的新一代护卫舰，目前有六个候选：英国巴布科克 31 型、西班牙纳凡蒂亚 F-110、意大利芬坎蒂尼 FREMM EVO、土耳其伊斯坦布尔级、韩国忠南级和日本三菱重工最上级出口型。按白宫 8 月造船备忘录的「芬兰模式」，前两艘可在外国船厂开建；赫格塞斯和代理海军部长曹鸿的竞标方案本周四已提交白宫。但参众两院的 2027 财年国防授权法草案都写入了禁止海军购买外国建造战舰的条款。",
+          "sourceNote": "USNI News",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/13/the-new-six-frigates"
+            }
+          ],
+          "tierText": "二档专业解读（专业媒体综合采访，候选名单非官方公布）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "美海军外国护卫舰设计六强浮现"
+        },
+        {
+          "text": "美国「战争部」11 月 13 日合同公告：诺斯罗普·格鲁曼获 7960 万美元合同修改，为美空军 F-16 提供有源相控阵（AESA）雷达，合同累计面值增至 20.6 亿美元；诺格另获约 2000 万美元 RQ-4「全球鹰」保障合同修改，涉及对韩国和日本的对外军售。雷神获 4210 万美元修改，把「下一代干扰机-中波段」第五批低速率初始生产转为中波段扩展构型。陆军向 Kraus Hamdani 航空授予约 1490 万美元合同，采购营级侦察无人机系统（11 家投标）。",
+          "sourceNote": "U.S. Department of War Contracts",
+          "links": [
+            {
+              "name": "U.S. Department of War Contracts",
+              "url": "https://www.war.gov/News/Contracts/Contract/Article/4648154/contracts-for-nov-13-2026/"
+            }
+          ],
+          "tierText": "一档事实（官方合同公告）",
+          "domain": "air",
+          "location": {
+            "name": "韩国（示意）",
+            "lat": 37.57,
+            "lon": 126.98
+          },
+          "headline": "诺格获F-16有源相控阵雷达合同修改"
+        },
+        {
+          "text": "美参议院拨款委员会 12 日公布的商务、司法和科学拨款案，给商务部太空商务办公室 2027 财年拨款 5000 万美元，挽救其民用空间交通协调系统（TraCSS）；政府原只申请 1100 万美元、其中仅 100 万美元用于该项目，基本等于搁置。众议院版本同样为 5000 万美元，两院仍需协商定稿。另据天体物理学家麦克道尔，SpaceX「星舰」第 15 次试飞于世界时 13 日 22 时 47 分（北京时间 14 日 6 时 47 分）发射，飞船进入近圆轨道（约 276 公里）并部署 26 颗星链卫星，助推器取消塔架回收、在墨西哥湾着陆。",
+          "sourceNote": "Breaking Defense；Jonathan McDowell （X）",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program/"
+            },
+            {
+              "name": "Jonathan McDowell",
+              "url": "https://x.com/planet4589/status/2121412618514739506"
+            }
+          ],
+          "tierText": "二档专业解读（拨款案为国会文本经专业媒体报道；星舰轨道数据为独立跟踪）",
+          "domain": "space",
+          "location": {
+            "name": "北京（示意）",
+            "lat": 39.9,
+            "lon": 116.4
+          },
+          "headline": "参院拨款救民用太空交通系统，星舰15飞入轨"
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "items": [
+        {
+          "text": "美国联邦航空局（FAA）13 日美东时间 15 时 53 分因多个航路交通管制中心通信故障，下令全国所有机场停飞，持续四个多小时后解除，FlightAware 数据显示当日约 5000 个航班取消。《华尔街日报》称故障出在 L3Harris 运营、承载管制员与飞行员无线电频率的电信网络；CBS 援引消息称是该网络更新后重启崩溃。国土安全部长马林称「没有迹象表明是恶意攻击」，人工智能空管系统供应商也否认与其有关。这是史上第三次全国停飞（前两次为 2001 年「9·11」和 2023 年 1 月）。",
+          "sourceNote": "FAA；The War Zone；ABC News",
+          "links": [
+            {
+              "name": "FAA",
+              "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/faa-orders-ground-stop-for-all-flights-across-the-u-s"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://www.goodmorningamerica.com/news/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled-138125140"
+            }
+          ],
+          "tierText": "二档专业解读（停飞为官方事实；L3Harris 网络为原因属媒体援引消息人士，尚未官方确认）",
+          "location": null,
+          "headline": "空管通信故障致美国全国停飞四小时"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "关键通信基础设施的脆弱性被放大：美国全国停飞据报源于 L3Harris 运营的空管电信网络更新后崩溃，此前交通部长已警告该系统是「40 年前的架构」。空管通信冗余、网络现代化和关键基础设施韧性相关订单可能加速，同时承包商的执行风险也值得关注（推断）。",
+    "水下与海上态势感知需求持续：美方评估中国未来十年可能新增 20 至 40 艘商 III 级或改进型攻击核潜艇，日本向菲律宾提供海岸雷达和无人机，美海军准备引入外国护卫舰设计。反潜、水下传感、海岸监视雷达、中小型水面舰和无人机仍是印太方向的明确需求（推断）。",
+    "美方在远程打击、电子战与人工智能上持续投入：B-21 完成首次武器投放，F-16 有源相控阵雷达合同累计 20.6 亿美元，下一代干扰机继续生产，五角大楼人工智能机构更名「超级智能办公室」并延续 Maven；参议院为民用空间交通协调拨款 5000 万美元、星舰第 15 次试飞部署 26 颗星链。航电雷达、电子战、军用人工智能数据平台和太空态势感知值得跟踪（推断）。"
+  ]
+}
