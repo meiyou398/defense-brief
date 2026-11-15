@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-15",
+  "publishedAt": "2026-11-15T09:30:00+08:00",
+  "coverage": "约 11月14日上午至 11月15日上午（UTC+8），周末官方发布较少",
+  "summary": "泽连斯基称美方谈判代表首次提出「若乌克兰加入北约，是否从顿巴斯撤军」的设想，并表示若有具体方案将交付全民公投；美方未证实，库什纳随后呼吁谈判「保密」，《华盛顿邮报》称俄方在本周谈判中重提让北约兵力退回 1997 年状态的要求。乌总参称 13 日打击萨马拉州输油枢纽和利佩茨克-2 机场。印太方面，台湾国防部称截至 15 日 6 时仅侦获共机 1 架次、共舰 8 艘，而美国智库 ISW 评估解放军未宣布的「隔离台湾」式大型演练仍在进行，辽宁舰编队已在海上约一个月。中东方面，伊朗海军称又一艘油轮在霍尔木兹海峡以东触雷起火，美中央司令部则称在美方保护下海湾伙伴已经海峡运出逾 17 亿桶原油。产业侧，星舰第 15 次试飞的飞船「Ship 42」返回星舰基地着陆，是航天飞机之后首次回收轨道级上面级；美海军称首艘哥伦比亚级战略核潜艇重回 2028 年交付轨道，潜艇维修延误天数降至 780 天。",
+  "highlights": [
+    {
+      "lead": "顿巴斯换北约",
+      "text": "泽连斯基称美方首提入约换撤军，方案将交公投。",
+      "item": 1
+    },
+    {
+      "lead": "深打油气",
+      "text": "乌总参称打击萨马拉输油站和利佩茨克-2机场。",
+      "item": 2
+    },
+    {
+      "lead": "台海动态",
+      "text": "共机仅1架次，但ISW称隔离台湾式演练仍在进行。",
+      "item": 4
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "伊朗称又一油轮触雷，美方称护航下运出逾17亿桶。",
+      "item": 7
+    },
+    {
+      "lead": "星舰回收",
+      "text": "Ship 42返回着陆，首次回收轨道级上面级。",
+      "item": 10
+    },
+    {
+      "lead": "潜艇工业",
+      "text": "哥伦比亚级重回2028交付，维修延误降至780天。",
+      "item": 11
+    }
+  ],
+  "stats": [
+    {
+      "value": "1",
+      "unit": "架次",
+      "label": "台方称共机数量",
+      "item": 4
+    },
+    {
+      "value": "17",
+      "unit": "亿桶",
+      "label": "美保护下运出原油",
+      "item": 7
+    },
+    {
+      "value": "4000",
+      "unit": "辆",
+      "label": "乌今年采购全地形车",
+      "item": 3
+    },
+    {
+      "value": "780",
+      "unit": "天",
+      "label": "美潜艇维修延误",
+      "item": 11
+    },
+    {
+      "value": "8000",
+      "unit": "吨",
+      "label": "SCX 26排水量",
+      "item": 12
+    }
+  ],
+  "featured": [
+    1,
+    10
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "泽连斯基 13 日晚对记者表示（其办公室 14 日公布），美方特使库什纳和威特科夫在都柏林会面后首次提出：「如果乌克兰加入北约，乌克兰会从顿巴斯撤出吗？」他说若收到包含安全保障、不限制乌军规模和重建资金的具体方案，将交由全民公投决定。美方未证实，一名美国官员对 BBC 称「许多想法仍在讨论，任何最终协议须双方同意」；库什纳随后呼吁谈判「保密」，批评外界报道「极端化」方案。《华盛顿邮报》获得的俄方谈判要点显示，俄方在本周阿布扎比谈判中重提 2021 年底的要求，要北约兵力部署退回到 1997 年东扩前的状态。",
+          "sourceNote": "BBC；POLITICO Europe；The Washington Post",
+          "links": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo"
+            },
+            {
+              "name": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/"
+            },
+            {
+              "name": "The Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/"
+            }
+          ],
+          "tierText": "一档事实（泽连斯基公开讲话；美方未证实其内容，俄方要点为《华邮》获得的文件）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "泽连斯基：美方首提顿巴斯换北约"
+        },
+        {
+          "text": "乌总参谋部称，乌军 13 日再次打击萨马拉州普罗斯韦特附近的萨马拉输油站（多条干线管道在此汇合并调配出口级「乌拉尔」原油），设施内多个油罐起火；另称已确认 13 日对利佩茨克州「利佩茨克-2」军用机场的打击结果，命中一座特种保障装备机库、一座航空燃料罐和机场指挥所。14 日晚至 15 日凌晨，俄方用喷气式「沙希德」等无人机袭击乌多地，第聂伯市交通基础设施和克罗皮夫尼茨基一处工业设施被击中（地方官员称第聂伯暂无伤亡）；开源账号称乌方同夜又向俄伏尔加河流域发动大规模无人机袭击（未证实）。",
+          "sourceNote": "GeneralStaffUA；NV；Osinttechnical",
+          "links": [
+            {
+              "name": "GeneralStaffUA",
+              "url": "https://x.com/GeneralStaffUA/status/2121544990065152018"
+            },
+            {
+              "name": "NV",
+              "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-14-na-15-listopada-vsi-podrobici-onlayn-50659241.html"
+            },
+            {
+              "name": "Osinttechnical",
+              "url": "https://x.com/Osinttechnical/status/2121762176293625963"
+            }
+          ],
+          "tierText": "三档有立场（打击战果为乌方口径；袭俄无人机群为四档线索）",
+          "domain": "air",
+          "location": null,
+          "headline": "乌称打击萨马拉输油站和利佩茨克机场"
+        },
+        {
+          "text": "乌克兰国防部称，在乌克兰防务联络小组（UDCG）会议前，乌防长赫马拉与英国防大臣斯特里廷讨论了下一批援助、航空弹药和加快交付反喷气式无人机系统，双方正推动两国军工企业合资；乌方感谢英国提供 LMM 导弹。乌国防采购局称 2026 年已签约采购 4000 多辆全地形车（去年 500 辆）、1500 辆摩托车，并首次采购 2000 多辆越野小车，通过 Prozorro 竞争性招标约 40 个标段节省逾 32 亿格里夫纳。",
+          "sourceNote": "DefenceU；DefenceU",
+          "links": [
+            {
+              "name": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2121616281509986346"
+            },
+            {
+              "name": "DefenceU",
+              "url": "https://x.com/DefenceU/status/2121584179930616258"
+            }
+          ],
+          "tierText": "三档有立场（乌国防部官方口径）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "乌英谈军工合资，乌今年购全地形车逾4000辆"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部称，11 月 14 日 6 时至 15 日 6 时，侦获共机 1 架次（进入东部空域）、共舰 8 艘及公务船 3 艘在台海周边活动，架次为近日低点（前一日为 10 架次）。但美国智库 ISW 13 日评估，解放军「极可能」仍在进行一场未宣布的大型演练，模拟在台海有事时隔离台湾、阻止外部介入：台安全会议秘书长吴钊燮 12 日称台湾周边舰船数量自 3 日以来减少，但东部、北部、南部战区的大型海军编队仍在台湾以东；辽宁舰编队已在海上约一个月，其余编队至少两周。大陆《环球时报》11 日社论称相关活动是「中国主权范围内的正当安排」，解放军在台周边的存在正从「阶段性」转向「全天候」。",
+          "sourceNote": "台湾国防部 Taiwan MND；MND （English）；ISW China & Taiwan Update；ISW （X）",
+          "links": [
+            {
+              "name": "台湾国防部 Taiwan MND",
+              "url": "https://www.mnd.gov.tw/news/plaact/88214"
+            },
+            {
+              "name": "MND",
+              "url": "https://www.mnd.gov.tw/news/plaact/88215"
+            },
+            {
+              "name": "ISW China & Taiwan Update",
+              "url": "https://understandingwar.org/research/china-taiwan/china-taiwan-update-november-13-2026/"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2121588964100620702"
+            }
+          ],
+          "tierText": "一档事实（台方每日通报为台湾官方数据；ISW 为二档解读、带美方政策立场；《环球时报》为大陆官方口径）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "共机仅1架次，ISW称隔离台湾演练未停"
+        },
+        {
+          "text": "日本统合幕僚长内仓浩昭与美印太司令帕帕罗 13 日举行日美联合高级领导人研讨会（J-SLS），讨论加强同盟威慑与应对能力。同期，美海军弗吉尼亚级攻击核潜艇「北达科他」号（SSN-784）完成在朴次茅斯海军船厂的维修后，母港改为珍珠港，加入太平洋潜艇部队第 1 潜艇中队。",
+          "sourceNote": "JapanJointStaff；DVIDS",
+          "links": [
+            {
+              "name": "JapanJointStaff",
+              "url": "https://x.com/JapanJointStaff/status/2121580056934064371"
+            },
+            {
+              "name": "DVIDS",
+              "url": "https://www.dvidshub.net/news/579349/uss-north-dakota-ssn-784-changes-homeport-pearl-harbor"
+            }
+          ],
+          "tierText": "一档事实（日美官方发布）",
+          "domain": "missile",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "日美高层研讨，北达科他号转驻珍珠港"
+        },
+        {
+          "text": "海军分析人士 H I Sutton 更新报道：一艘此前未公开的中国隐身双体船出现在至少两个中国港口，周边立有「禁止拍照」标识；该船上层大部分为大型机库，外形类似美国 M80「短剑」特种作战艇和法国已退役的「剑鱼」扫雷艇。他判断最可能是无人装备母船，历史卫星图像显示其自 2021/22 年起即在测试，可能为单艘试验船。",
+          "sourceNote": "Covert Shores （H I Sutton）",
+          "links": [
+            {
+              "name": "Covert Shores",
+              "url": "https://www.hisutton.com/Chinese-SF-Catamaran.html"
+            }
+          ],
+          "tierText": "二档专业解读（照片与卫星图为事实，用途为分析判断）",
+          "domain": "space",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "中国隐身双体船曝光，疑为无人装备母船"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "伊朗正规军海军 14 日称，一艘「违规」油轮清晨在霍尔木兹海峡以东「禁航区」关闭追踪识别系统航行时触雷起火、失去动力，未公布船名、船旗和位置；此前革命卫队海军 13 日称一艘液化气船和两艘油轮在海峡南部触雷。上述说法均未获 UKMTO、美方或独立来源证实。ISW 称伊方此举意在动摇船东对美国护航的信心，迫使船只改走伊朗领海，且未见伊朗成功重新布雷的迹象；美中央司令部 14 日称，在美方保护下海湾伙伴已经霍尔木兹海峡运出逾 17 亿桶原油。",
+          "sourceNote": "Tasnim；ISW （X）；CENTCOM",
+          "links": [
+            {
+              "name": "Tasnim",
+              "url": "https://www.tasnimnews.ir/en/news/2026/11/14/3747988/tanker-catches-fire-after-hitting-sea-mine-in-strait-of-hormuz"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2121724865086382447"
+            },
+            {
+              "name": "CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2121652499002040660"
+            }
+          ],
+          "tierText": "三档有立场（伊方触雷说法和美方运量均为各自官方口径，ISW 为二档解读）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "伊朗称又一油轮触雷，美称运出逾17亿桶"
+        },
+        {
+          "text": "ISW 称，也门胡塞武装声称 13 日用无人机袭击利雅得哈立德国王国际机场和东西输油管道一座泵站，并打击沙特吉赞省边境的沙特部队；沙特 14 日在利雅得附近和南部拦截胡塞无人机。胡塞武装还向拉赫季省和亚丁省的也门政府军集结区和武器库发射弹道导弹。",
+          "sourceNote": "ISW （X）；ISW （X）",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2121740208282734996"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2121706894368629065"
+            }
+          ],
+          "tierText": "二档专业解读（胡塞战果为其自称，拦截为沙特方说法）",
+          "domain": "missile",
+          "location": {
+            "name": "也门（示意）",
+            "lat": 15.37,
+            "lon": 44.19
+          },
+          "headline": "胡塞称袭击利雅得机场和输油管道"
+        },
+        {
+          "text": "国际原子能机构总干事格罗西称，本周因军事活动导致乌克兰电网不稳定，乌境内多座核电站部分运行机组数次降功率运行。",
+          "sourceNote": "IAEA （X）",
+          "links": [
+            {
+              "name": "IAEA",
+              "url": "https://x.com/iaeaorg/status/2121541443244458388"
+            }
+          ],
+          "tierText": "一档事实（国际组织官方声明）",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "IAEA：电网不稳致乌核电机组降功率"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "独立航天跟踪者麦克道尔称，星舰第 15 次试飞的飞船「Ship 42」在飞行 22 小时 32 分后，于世界时 14 日 21 时 20 分（北京时间 15 日 5 时 20 分）成功降落在星舰基地发射塔，是航天飞机之后首次回收轨道级上面级；同批部署的 26 颗星链卫星（31-2 组）轨道为 262×272 公里、倾角 30.5 度。俄方 14 日从东方航天发射场用联盟-2-1b/弗雷加特火箭发射 KOEN 和 Kinosputnik 商业成像卫星及数颗立方星。",
+          "sourceNote": "Jonathan McDowell （X）；Jonathan McDowell （X）；Jonathan McDowell （X）",
+          "links": [
+            {
+              "name": "Jonathan McDowell",
+              "url": "https://x.com/planet4589/status/2121717075437588971"
+            },
+            {
+              "name": "Jonathan McDowell",
+              "url": "https://x.com/planet4589/status/2121717793066262824"
+            },
+            {
+              "name": "Jonathan McDowell",
+              "url": "https://x.com/planet4589/status/2121561709810762078"
+            }
+          ],
+          "tierText": "一档事实（独立轨道跟踪数据）",
+          "domain": "space",
+          "location": {
+            "name": "北京（示意）",
+            "lat": 39.9,
+            "lon": 116.4
+          },
+          "headline": "星舰飞船返回着陆，首次回收轨道上面级"
+        },
+        {
+          "text": "美海军潜艇项目主管高谢中将在潜艇联盟年会上称，首艘哥伦比亚级战略核潜艇「哥伦比亚特区」号（SSBN-826）今年初一度有拖到 2030 年后交付的风险，经 24 小时轮班、加薪和船厂改造，每周工时已达年初的近 2.5 倍，重回 2028 年交付轨道，预计 2027 年完成耐压壳合拢。他还称潜艇维修延误从 2024、2025 财年各约 1400 天降至 2026 财年 780 天，预计 2027 财年降到约 500 天；美国政府问责局 8 月称 2016-2025 财年公共船厂仅 11% 的潜艇维修按期完成。",
+          "sourceNote": "Naval News；Breaking Defense",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/submarine-maintenance-delays-saw-significant-improvements-in-fy26-sub-czar-says/"
+            }
+          ],
+          "tierText": "二档专业解读（专业媒体转述美海军官员讲话）",
+          "domain": "space",
+          "location": null,
+          "headline": "哥伦比亚级重回2028交付，维修延误降至780天"
+        },
+        {
+          "text": "法国海军集团在巴黎欧洲海军展推出「SCX 26」概念水面战舰：全长 170 米、宽 24 米、排水量 8000 吨，核心舰员 150 人、可另载 100 名任务人员，柴电燃联合推进、最高航速 30 节，配备可海上再装填的垂直发射系统，后部设有专门的航空和无人机控制区，定位为可支援大量海上无人装备的重武装多用途战舰，而非英国式「混合舰队」的轻型指挥舰。",
+          "sourceNote": "Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub/"
+            }
+          ],
+          "tierText": "二档专业解读（厂商概念设计，非订单）",
+          "domain": "sea",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "海军集团推出8000吨SCX 26概念战舰"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "和谈议题从停火转向「欧洲安全架构」：美方试探「顿巴斯换北约」、俄方重提北约退回 1997 年，短期内难以达成协议，欧洲防务预算与乌克兰本土军工合资（如英乌合作、反喷气无人机系统）仍是确定性较高的方向（推断）。",
+    "美国潜艇工业基地在改善但仍是瓶颈：哥伦比亚级靠 24 小时轮班和加薪才追回进度，维修延误降至 780 天；中国疑似无人装备母船和法国 SCX 26 都指向「有人舰+无人装备」的混合舰队。造船产能、潜艇零部件、无人水面/水下装备及其母船值得跟踪（推断）。",
+    "重复使用运载能力再进一步：星舰飞船首次从轨道返回并被回收，若可常态化将显著降低大规模星座部署成本，对卫星制造、星间链路和太空态势感知形成持续需求（推断）。"
+  ]
+}
