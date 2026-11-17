@@ -1,0 +1,412 @@
+{
+  "date": "2026-11-17",
+  "publishedAt": "2026-11-17T09:30:00+08:00",
+  "coverage": "约 11月16日上午至 11月17日上午（UTC+8）",
+  "summary": "乌军无人机 16 日凌晨击中刻赤大桥公路桥拱，17 日凌晨再次来袭，克里米亚俄方负责人阿克肖诺夫称交通暂停；俄国防部称 15 日至 16 日夜间拦截 1336 架乌军无人机，创其公布的单夜纪录。欧盟 16 日新增制裁 12 人和 101 个实体，其中近 50 家俄罗斯银行和金融机构。中方宣布习近平将于 19 日在深圳与普京、特朗普举行中俄美元首会晤，为三国元首首次同场会面。霍尔木兹海峡又有油轮被不明飞行物击中起火，美军第三艘航母「罗斯福」号已进入中东。产业侧，参议院拨款委员会公布约 1.1 万亿美元 2027 财年国防拨款草案，「火神」火箭失败加剧美军发射运力担忧。",
+  "highlights": [
+    {
+      "lead": "刻赤大桥",
+      "text": "乌无人机击中公路桥拱，17日凌晨再遭袭。",
+      "item": 1
+    },
+    {
+      "lead": "无人机纪录",
+      "text": "俄称单夜拦截1336架乌军无人机。",
+      "item": 2
+    },
+    {
+      "lead": "欧盟制裁",
+      "text": "新增12人和101个实体，含近50家俄银行。",
+      "item": 3
+    },
+    {
+      "lead": "深圳会晤",
+      "text": "习近平19日在深圳与普京、特朗普会晤。",
+      "item": 5
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "又一艘油轮被不明飞行物击中起火。",
+      "item": 7
+    },
+    {
+      "lead": "国防拨款",
+      "text": "参院草案约1.1万亿美元，金穹94亿美元。",
+      "item": 12
+    }
+  ],
+  "stats": [
+    {
+      "value": "1336",
+      "unit": "架",
+      "label": "俄称单夜拦截无人机",
+      "item": 2
+    },
+    {
+      "value": "50",
+      "unit": "家",
+      "label": "欧盟新制裁俄银行约数",
+      "item": 3
+    },
+    {
+      "value": "17",
+      "unit": "座",
+      "label": "美陆军急建掩体",
+      "item": 9
+    },
+    {
+      "value": "472",
+      "unit": "亿美元",
+      "label": "参院草案弹药拨款",
+      "item": 12
+    },
+    {
+      "value": "175",
+      "unit": "具",
+      "label": "狮子鱼累计订购",
+      "item": 14
+    }
+  ],
+  "featured": [
+    1,
+    12
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌军一架固定翼单向攻击无人机 16 日约 5 时 38 分（当地时间）击中刻赤大桥公路桥一处拱架，俄电视画面和卫星图像都显示桥拱受损变形，约 2000 辆车滞留；俄方当天下午恢复单向交替通行。17 日凌晨大桥再次遭袭，阿克肖诺夫在电报上称「交通暂停」，第二次打击的损伤尚不清楚，乌方暂未认领。战争研究所认为，这是乌军系统性切断俄军经克里米亚的地面交通线的一部分。",
+          "sourceNote": "The War Zone；The War Zone；ISW；GeoConfirmed",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia"
+            },
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2122492197488501052"
+            },
+            {
+              "name": "GeoConfirmed",
+              "url": "https://x.com/GeoConfirmed/status/2122442272037872125"
+            }
+          ],
+          "tierText": "二档专业解读（桥拱受损有卫星图像和地理定位支撑；第二次打击效果未证实，ISW 偏支持乌方）",
+          "domain": "space",
+          "location": null,
+          "headline": "刻赤大桥桥拱受损，一天内两次遭袭"
+        },
+        {
+          "text": "俄国防部称其防空系统 15 日至 16 日夜间在多个地区拦截或摧毁 1336 架乌军无人机，超过其 10 月 29 日公布的 1254 架单夜纪录，24 小时累计 2049 架。乌总参谋部同日称打击了克拉斯诺达尔边疆区的伊利斯基炼油厂和罗斯托夫州亚速市一处约 7000 立方米的油库。",
+          "sourceNote": "The War Zone；乌总参谋部 General Staff of Ukraine；乌克兰国防部 Defence of Ukraine",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught"
+            },
+            {
+              "name": "乌总参谋部 General Staff of Ukraine",
+              "url": "https://x.com/GeneralStaffUA/status/2122302640692355514"
+            },
+            {
+              "name": "乌克兰国防部 Defence of Ukraine",
+              "url": "https://x.com/DefenceU/status/2122318456884207871"
+            }
+          ],
+          "tierText": "三档有立场（双方战果均为交战方官方口径，未经独立核实）",
+          "domain": "air",
+          "location": null,
+          "headline": "俄称单夜拦截1336架无人机，乌称打击炼厂"
+        },
+        {
+          "text": "欧盟理事会 16 日对 12 人和 101 个实体实施资产冻结，其中近 50 家俄罗斯银行和金融机构，并涉及炼油厂运营方、圣彼得堡石油码头、阿联酋和香港等地的影子船队中间商以及 Wildberries、Ozon 相关人士；卡拉斯称第 22 轮制裁方案将在近日提出。同日欧盟委员会按最高 900 亿欧元的「乌克兰支持贷款」向乌拨付 17.1 亿欧元，用于无人机、弹药和防空。",
+          "sourceNote": "欧盟理事会 Council of the EU；EEAS；乌克兰国防部 Defence of Ukraine",
+          "links": [
+            {
+              "name": "欧盟理事会 Council of the EU",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-eu-lists-113-individuals-and-entities-to-further-restrict-russia-s-ability-to-finance-its-war-of-aggression/"
+            },
+            {
+              "name": "EEAS",
+              "url": "https://www.eeas.europa.eu/eeas/foreign-affairs-council-press-conference-high-representative-kaja-kallas-6_en"
+            },
+            {
+              "name": "乌克兰国防部 Defence of Ukraine",
+              "url": "https://x.com/DefenceU/status/2122413150888751307"
+            }
+          ],
+          "tierText": "一档事实（欧盟法律文件已在官方公报发布）",
+          "domain": "air",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "欧盟制裁近50家俄银行，再拨乌17.1亿欧元"
+        },
+        {
+          "text": "爱沙尼亚总理米哈尔称，14 日夜间有人企图在无人机制造商 Threod Systems 厂房制造爆炸并纵火，系俄军总参情报总局（GRU）指使；警方已拘留 8 名嫌疑人，无人受伤，生产线未受影响。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/estonian-drone-company-targeted-in-sabotage-attempt-as-part-of-russias-hybrid-war-against-europe-prime-minister-michal/"
+            }
+          ],
+          "tierText": "二档专业解读（归因来自爱沙尼亚政府，俄方未回应）",
+          "domain": "air",
+          "location": null,
+          "headline": "爱沙尼亚称GRU指使破坏无人机厂"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "中国外交部 16 日宣布，习近平将于 11 月 19 日在深圳与俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤；发言人毛宁称这是三国元首首次面对面会晤，将就维护世界和平和大国战略稳定深入交换意见。美方官员此前表示特朗普希望谈削减核武库和伊朗局势。",
+          "sourceNote": "中国外交部 MFA China；外交部记者会 MFA briefing；CNA",
+          "links": [
+            {
+              "name": "中国外交部 MFA China",
+              "url": "https://www.mfa.gov.cn/mfa_eng/xw/wsrc/202611/t20261116_12059663.html"
+            },
+            {
+              "name": "外交部记者会 MFA briefing",
+              "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202611/t20261116_12060306.html"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/east-asia/donald-trump-xi-jinping-vladimir-putin-china-meeting-6553826"
+            }
+          ],
+          "tierText": "一档事实（会晤时间地点为官方公告；议题表述为各方官方口径）",
+          "domain": "missile",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "中俄美元首19日深圳会晤"
+        },
+        {
+          "text": "《防务新闻》援引多位分析人士称，自 2025 年 11 月高市早苗「存亡危机事态」涉台表态引发争端以来，中国把相当一部分远海部署放在日本西南诸岛附近，包括实弹演习、无人机任务和航母编队航行；台湾国安会秘书长 11 月初曾追踪到台湾附近 100 多艘中国军方相关船只。分析人士认为这是对日本的长期施压，但没有违反国际海洋法。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/asia-pacific/2026/11/16/china-has-normalized-naval-presence-near-japan-since-political-spat-of-2025/"
+            }
+          ],
+          "tierText": "二档专业解读（以日台分析人士观点为主，未含中方回应）",
+          "domain": "sea",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "分析：中国远海部署持续对日施压"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "英国海上贸易行动办公室（UKMTO）发布 207-26 号警告：16 日 05:58（UTC）一艘油轮在霍尔木兹海峡出港航行时被不明飞行物击中，机舱起火，船员全部安全。开源分析人士认出该船为巴拿马籍「ON PHOENIX」号；15 日阿布扎比国家石油公司相关油轮「Al Dhannah」号也被击中舵机舱。伊朗革命卫队称两艘油轮在海峡南部触雷沉没，并称南部航道「已全部布雷」，均未获证实。",
+          "sourceNote": "UKMTO；The Maritime Executive；MarineRadar",
+          "links": [
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261116-ukmto_warning_207-26.pdf"
+            },
+            {
+              "name": "The Maritime Executive",
+              "url": "https://maritime-executive.com/article/two-tankers-hit-near-strait-of-hormuz-one-disabled"
+            },
+            {
+              "name": "MarineRadar",
+              "url": "https://www.marineradar.com/trends/tanker-struck-in-strait-of-hormuz-engine-fire-reported-2026-11-16"
+            }
+          ],
+          "tierText": "一档事实（UKMTO 警告；船名为开源识别，伊方说法为三档）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "霍尔木兹又一油轮被击中起火"
+        },
+        {
+          "text": "美军中央司令部称「西奥多·罗斯福」号航母 15 日在印度洋航行，已进入中央司令部责任区；美国海军学会新闻称该舰 15 日编入第五舰队，成为在中东的第三艘美国航母，「林肯」号最后一批护航舰已返回本土。",
+          "sourceNote": "美军中央司令部 CENTCOM；USNI News",
+          "links": [
+            {
+              "name": "美军中央司令部 CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2122406505630601535"
+            },
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home"
+            }
+          ],
+          "tierText": "一档事实（美军官方）",
+          "domain": "sea",
+          "location": {
+            "name": "印度（示意）",
+            "lat": 28.61,
+            "lon": 77.21
+          },
+          "headline": "罗斯福号入中东，美军三航母在区"
+        },
+        {
+          "text": "美国陆军发布紧急征询通知，要在以色列（10 座）、沙特（5 座）和黎巴嫩（2 座）建 17 座可抗间瞄火力的预制钢筋混凝土掩体，取代改装集装箱掩蔽所，要求下单后 45 天内完工，报价期仅 3 天，企业回复截止 11 月 25 日。此前伊朗导弹和无人机已在海湾多处美军基地造成至少 23 人死亡。",
+          "sourceNote": "Defense News；The War Zone",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon"
+            }
+          ],
+          "tierText": "二档专业解读（转述陆军采购通知原文）",
+          "domain": "missile",
+          "location": {
+            "name": "以色列（示意）",
+            "lat": 32.08,
+            "lon": 34.78
+          },
+          "headline": "美陆军紧急建17座混凝土掩体"
+        },
+        {
+          "text": "战争研究所评估，也门政府方面部队战线过长、协调不力，可能让胡塞武装加快向亚丁推进，为夺取全也门创造条件；此前政府军已从红海沿岸阵地后撤。",
+          "sourceNote": "ISW",
+          "links": [
+            {
+              "name": "ISW",
+              "url": "https://x.com/TheStudyofWar/status/2122502493934363036"
+            }
+          ],
+          "tierText": "二档专业解读（ISW 评估，有政策立场）",
+          "domain": "land",
+          "location": {
+            "name": "也门（示意）",
+            "lat": 15.37,
+            "lon": 44.19
+          },
+          "headline": "ISW：胡塞或加速向亚丁推进"
+        },
+        {
+          "text": "美国参议院拨款委员会能源与水资源拨款草案的说明文件出现新核弹编号 B94，并为其增拨 7710.8 万美元，未给出细节。《战区》推测它可能是正在研制的「空射核威慑系统」钻地核弹；这是继潜射导弹弹头 W93 之后的首个新编号。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/nuclear/mysterious-new-b94-nuclear-bomb-designation-emerges-first-in-decades"
+            }
+          ],
+          "tierText": "二档专业解读（金额来自国会文件，用途为推测）",
+          "domain": "missile",
+          "location": null,
+          "headline": "新核弹编号B94现身参院拨款文件"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "参议院拨款委员会公布约 1.1 万亿美元的 2027 财年国防拨款草案，把白宫原想走预算和解的约 690 亿美元并入基础预算：含「金穹」导弹防御 94 亿美元、国防自主作战组（DAWG）30 亿美元、弹药 472 亿美元（其中 406 亿美元用于 AMRAAM、PAC-3 MSE、PrSM 等多年期合同），并增拨 41 亿美元多买 25 架 F-35。特朗普政府要求的是 1.5 万亿美元。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/"
+            }
+          ],
+          "tierText": "二档专业解读（数字来自委员会摘要）",
+          "domain": "missile",
+          "location": null,
+          "headline": "参院公布1.1万亿美元国防拨款草案"
+        },
+        {
+          "text": "ULA「火神」火箭 15 日升空约 10 分钟后发生异常，40 颗亚马逊 Leo 卫星全部损失。《突破防务》称，这可能让火神停飞数月，进一步推迟其重返国家安全发射任务；太空军 10 月 1 日前已把 6 次原定由火神执行的任务改派给 SpaceX，蓝色起源新格伦仍因 5 月发射台爆炸停飞，若问题出在 BE-4 发动机，新格伦也会受牵连。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity/"
+            }
+          ],
+          "tierText": "二档专业解读（故障原因 ULA 尚未公布）",
+          "domain": "space",
+          "location": null,
+          "headline": "火神失败加剧美军发射运力担忧"
+        },
+        {
+          "text": "无人艇和无人潜航器订单集中：美国海军再向 HII 订购 82 具「狮子鱼」小型无人潜航器，累计 175 具、可扩至 200 具；国防创新单元授予 Saronic 原型合同，为海军陆战队研制自主低可探测补给艇；韩国 HD 现代重工与 Anduril 在蔚山下水 600 吨级无人水面艇「ASV Alpha」，约 12 个月建成，2027 年初赴美测试。",
+          "sourceNote": "Naval News；Naval News；Naval News",
+          "links": [
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/"
+            },
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/diu-awards-saronic-contract-to-deliver-autonomous-low-profile-vessel-for-usmc-contested-logistics/"
+            },
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/hd-hhi-anduril-launch-600-ton-asv-alpha/"
+            }
+          ],
+          "tierText": "二档专业解读（多据企业公告，合同金额未披露）",
+          "domain": "sea",
+          "location": {
+            "name": "韩国（示意）",
+            "lat": 37.57,
+            "lon": 126.98
+          },
+          "headline": "无人潜航器、无人艇订单集中落地"
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "items": [
+        {
+          "text": "《特定常规武器公约》会议 16 日起在日内瓦讨论是否就致命性自主武器系统启动具有法律约束力的谈判；128 个缔约国中多数支持，但美国、俄罗斯和以色列反对，认为现有国际人道法已足够。",
+          "sourceNote": "Defense News （Reuters）",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/"
+            }
+          ],
+          "tierText": "二档专业解读（据外交官和人权团体）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "俄罗斯（示意）",
+            "lat": 55.76,
+            "lon": 37.62
+          },
+          "headline": "美俄反对启动自主武器公约谈判"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "参议院草案把金穹、DAWG 和多年期弹药合同放进基础预算，金额虽低于政府要求，但让导弹防御、自主作战和 PAC-3、AMRAAM 等弹药产线有了更稳的拨款预期；最终数字还要与众议院协调。",
+    "火神停飞叠加新格伦停飞，美国国家安全发射更依赖 SpaceX，中型运力缺口是发射、卫星制造和星座部署节奏的主要风险。",
+    "无人潜航器、无人水面艇订单从原型走向批量（狮子鱼累计 175 具），韩美造船加自主软件的组合值得跟踪；霍尔木兹油轮再遇袭、美陆军紧急加固掩体，说明海湾航运和基地防护需求短期不会降温。"
+  ]
+}
