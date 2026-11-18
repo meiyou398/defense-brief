@@ -1,0 +1,408 @@
+{
+  "date": "2026-11-18",
+  "publishedAt": "2026-11-18T09:30:00+08:00",
+  "coverage": "约 11月17日上午至 11月18日上午（UTC+8）",
+  "summary": "开源图像显示，乌军隔夜打击后刻赤大桥公路桥一孔桥面连同拱架坍塌，公路交通中断，铁路桥仍在但拱架受损；泽连斯基称这是持续数周行动的第七阶段。英国在布鲁塞尔的乌克兰防务联络小组会议上宣布 2.4 亿英镑冬季防空援助，含 1000 余枚近程防空导弹和十余部雷达，并与瑞典、乌克兰签署为已采购的「鹰狮」战机配备武器的意向书。日本防卫省称两架疑似俄军飞机 17 日凌晨短暂进入福冈县冲之岛西北领空，台湾国防部亦侦获两架俄军机进入其防空识别区，随后有开源记录两架图-95 与两架伊尔-76 抵达岘港。中东方面，美军称拦截了射向巴林的伊朗单向攻击无人机，UKMTO 再报霍尔木兹附近油轮遇袭。产业侧，北约启动 11 国「星升」卫星发射合作，芬兰 Iceye 出价 20 亿欧元竞购意大利火箭商 Avio。",
+  "highlights": [
+    {
+      "lead": "刻赤大桥",
+      "text": "公路桥一孔坍塌，交通中断，铁路拱架受损。",
+      "item": 1
+    },
+    {
+      "lead": "英国援乌",
+      "text": "冬季防空2.4亿英镑，含1000余枚导弹和十余部雷达。",
+      "item": 2
+    },
+    {
+      "lead": "俄机过境",
+      "text": "疑似俄机短暂进入日本领空并过台湾识别区，图-95抵岘港。",
+      "item": 4
+    },
+    {
+      "lead": "巴林拦截",
+      "text": "美军称拦截射向巴林的伊朗无人机，否认雷达被击中。",
+      "item": 8
+    },
+    {
+      "lead": "星升计划",
+      "text": "北约11国启动卫星发射合作，韩国加入，美国为联系成员。",
+      "item": 11
+    },
+    {
+      "lead": "竞购火箭",
+      "text": "芬兰Iceye出价20亿欧元收购意大利火箭商Avio。",
+      "item": 12
+    }
+  ],
+  "stats": [
+    {
+      "value": "1000",
+      "unit": "枚",
+      "label": "英援乌近程防空导弹",
+      "item": 2
+    },
+    {
+      "value": "9",
+      "unit": "架次",
+      "label": "台公布18日共机",
+      "item": 5
+    },
+    {
+      "value": "2.4",
+      "unit": "亿英镑",
+      "label": "英国冬季防空援助",
+      "item": 2
+    },
+    {
+      "value": "20",
+      "unit": "亿欧元",
+      "label": "Iceye竞购Avio出价",
+      "item": 12
+    },
+    {
+      "value": "11",
+      "unit": "国",
+      "label": "北约星升参加国",
+      "item": 11
+    }
+  ],
+  "featured": [
+    1,
+    4
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "开源图像显示，乌军 17 日凌晨对刻赤大桥的后续打击已把公路桥一孔桥面连同拱架打塌，公路交通中断。乌总参谋部称铁路桥仍在，但拱架受损；泽连斯基说这是乌安全局与总参谋部持续数周行动的第七阶段，公路段主要由「帕利亚尼察」无人机打击，铁路段使用「海王星」导弹、「鲁塔」无人机和 FP-5，并有「火烈鸟」巡航导弹实施末段制导打击。「火烈鸟」战斗部约 2500 磅，相关视频《战区》尚未独立核实。俄方称将修复大桥，塞瓦斯托波尔当局称城市补给仍可维持，眼下只能改走铁路。",
+          "sourceNote": "The War Zone；The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span"
+            },
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia"
+            }
+          ],
+          "tierText": "二档专业解读（公路桥坍塌有开源图像和乌方声明；铁路受损程度与航道是否被残骸封锁尚不完全清楚）",
+          "domain": "missile",
+          "location": null,
+          "headline": "刻赤大桥公路桥一孔坍塌，铁路拱架受损"
+        },
+        {
+          "text": "英国国防部 17 日在布鲁塞尔举行的第 37 次乌克兰防务联络小组会议上宣布，向乌提供价值 2.4 亿英镑的冬季防空援助，包括 1000 余枚近程防空导弹及发射装置、十余部防空雷达，用于对付俄军喷气动力「见证者」类无人机，交货自 12 月中旬开始；这是预算中 5 亿英镑紧急防空拨款的一部分，英国入冬前已向乌提供 400 枚地空导弹。同日英、瑞典与乌克兰签署意向书，为乌已采购的「鹰狮」战机配备弹药、设备和备件；乌国防部长赫马拉还提出，2027 年要把无人机供应量再翻一番，使其占武器需求一半以上，并希望在欧洲联合生产。",
+          "sourceNote": "英国国防部 UK MoD；英国国防部 DefenceHQ；乌克兰国防部 Defence of Ukraine；乌克兰国防部 Defence of Ukraine",
+          "links": [
+            {
+              "name": "英国国防部 UK MoD",
+              "url": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support"
+            },
+            {
+              "name": "英国国防部 DefenceHQ",
+              "url": "https://x.com/DefenceHQ/status/2122734533636391411"
+            },
+            {
+              "name": "乌克兰国防部 Defence of Ukraine",
+              "url": "https://x.com/DefenceU/status/2122717274133987553"
+            },
+            {
+              "name": "乌克兰国防部 Defence of Ukraine",
+              "url": "https://x.com/DefenceU/status/2122699784435769648"
+            }
+          ],
+          "tierText": "一档事实（英、乌官方）",
+          "domain": "missile",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英国向乌提供2.4亿英镑防空援助并签鹰狮意向书"
+        },
+        {
+          "text": "法国国际广播电台援引多名未具名消息人士称，至少自 2026 年夏季起，法军以非作战任务在乌克兰维修装备并开展训练，行动代号「意志」（Volia），由一名法国将军负责，对外挂在波兰「红隼」训练任务之下；报道称巴黎因战争环境未派文职技术人员，且未按宪法要求向议会通报。另有媒体称已证实「数十名」法军在乌，英国亦有非作战人员据报在乌活动。法国官方尚未公开确认。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/"
+            }
+          ],
+          "tierText": "三档有立场（主要依据匿名消息，法国官方未公开确认）",
+          "location": {
+            "name": "法国（示意）",
+            "lat": 48.86,
+            "lon": 2.35
+          },
+          "headline": "法媒称法军以非作战任务在乌维修训练"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "日本防卫省称，两架疑似俄军飞机于 17 日凌晨短暂进入福冈县冲之岛西北日本领空，第一架约 4:07 至 4:10，第二架约 4:09 至 4:12（当地时间），航空自卫队西部航空方面队战斗机紧急升空并发出警告，东京已向莫斯科提出抗议。台湾国防部称当日清晨侦获两架俄军机自东北进入防空识别区，经台湾东侧后由台东以南离开。开源记录显示，另有两架图-95MS 与两架伊尔-76 于 17 日出现在越南岘港；韩国联合参谋本部称有飞机进入韩国防空识别区，但未侵犯领空。日、台官方均未公布机型，俄、越官方截至发稿未见证实。此次活动发生在中俄美元首 19 日深圳会晤前约 48 小时。",
+          "sourceNote": "The War Zone；日本统合幕僚监部 Japan Joint Staff；台湾国防部 MoNDefense",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts"
+            },
+            {
+              "name": "日本统合幕僚监部 Japan Joint Staff",
+              "url": "https://x.com/JapanJointStaff/status/2122577724355248281"
+            },
+            {
+              "name": "台湾国防部 MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2122541696621965600"
+            }
+          ],
+          "tierText": "一档事实（领空和防空识别区部分为日、台官方；岘港降落为开源目击，俄越官方未证实）",
+          "domain": "air",
+          "location": {
+            "name": "日本（示意）",
+            "lat": 35.68,
+            "lon": 139.69
+          },
+          "headline": "疑似俄机进入日本领空，图-95随后抵岘港"
+        },
+        {
+          "text": "台湾国防部通报，截至 18 日 6 时（台北时间）侦获解放军军机 9 架次、军舰 6 艘、公务船 2 艘在台海周边活动，9 架次中有 8 架次越过海峡中线，进入西南、东部及中部防空识别区；17 日同期数字为军机 5 架次、军舰 6 艘、公务船 2 艘，5 架次全部越线进入西南及东部防空识别区。日本统合幕僚监部 16 日公布：当天下午一架运-9 信息收集机在长崎县男女群岛以南至奄美大岛西北往返飞行，航空自卫队紧急升空；解放军海军 052D 型驱逐舰「121」与福池级补给舰「890」经冲绳本岛与宫古岛之间海域北上，海自进行了警戒监视。",
+          "sourceNote": "台湾国防部 MoNDefense；台湾国防部 MoNDefense；日本统合幕僚监部；日本统合幕僚监部",
+          "links": [
+            {
+              "name": "台湾国防部 MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2122859280626036764"
+            },
+            {
+              "name": "台湾国防部 MoNDefense",
+              "url": "https://x.com/MoNDefense/status/2122516675828535582"
+            },
+            {
+              "name": "日本统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261116_02.pdf"
+            },
+            {
+              "name": "日本统合幕僚监部",
+              "url": "https://www.mod.go.jp/js/pdf/2026/p20261116_01.pdf"
+            }
+          ],
+          "tierText": "一档事实（台、日官方）",
+          "domain": "sea",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台公布18日9架次共机，日方通报运-9与舰艇"
+        },
+        {
+          "text": "《防务新闻》报道，澳大利亚与菲律宾于 15 日签署新的防务合作安排，覆盖情报共享、军事训练、无人机转让、海上活动和军事基础设施，意在减少部队部署的行政障碍，并为澳方在菲军事设施投资、以菲律宾为向前部署与后勤节点铺路。菲国防部长特奥多罗称协议主要加强「西菲律宾海」和菲律宾领土上的威慑，而非专门针对台海；分析人士指出，这与澳大利亚 2026 年国防战略中的拒止和北向投送方向一致，但澳军规模决定其只能部署较小分队。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/"
+            }
+          ],
+          "tierText": "二档专业解读（协议 15 日签署，细节来自防长表态和媒体报道）",
+          "domain": "sea",
+          "location": {
+            "name": "澳大利亚（示意）",
+            "lat": -25.3,
+            "lon": 133.8
+          },
+          "headline": "澳菲签署新防务安排，为澳军向前部署铺路"
+        },
+        {
+          "text": "英国国防部称，约 90 名廓尔喀步枪团人员本月在北海道与日本北部方面队约 800 人举行旗舰双边演习「警觉群岛」，重点交流乌克兰战场经验和使用无人系统，以落实广岛协议下更频繁、更复杂的联合训练。英方并重申以「北约优先、但不唯北约」处理印太与欧洲安全的联动，同时提及全球作战航空计划等产业合作。",
+          "sourceNote": "英国国防部 UK MoD",
+          "links": [
+            {
+              "name": "英国国防部 UK MoD",
+              "url": "https://www.gov.uk/government/news/uk-and-japan-strengthen-defence-ties-with-major-exercise--2"
+            }
+          ],
+          "tierText": "一档事实（英国官方）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英日在北海道举行「警觉群岛」联合演习"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "美军中央司令部 17 日称，伊朗革命卫队当天向巴林方向发射的多架单向攻击无人机已被拦截，并指革命卫队所称「无人机击中巴林一处美军基地雷达」为不实消息。同日中央司令部公布，「西奥多·罗斯福」号与「乔治·华盛顿」号航母 17 日在阿拉伯海同行，显示目前在中东的美国航母仍保持多舰存在。",
+          "sourceNote": "美军中央司令部 CENTCOM；美军中央司令部 CENTCOM",
+          "links": [
+            {
+              "name": "美军中央司令部 CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2122656792358289747"
+            },
+            {
+              "name": "美军中央司令部 CENTCOM",
+              "url": "https://x.com/CENTCOM/status/2122736347332911582"
+            }
+          ],
+          "tierText": "一档事实（美军官方；伊方击中雷达的说法未被证实）",
+          "domain": "sea",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美军称拦截射向巴林的伊朗无人机"
+        },
+        {
+          "text": "英国海上贸易行动办公室续报霍尔木兹和亚丁湾险情：208-26 号警告称，16 日 19:00（UTC）一艘油轮在阿曼哈萨卜以北约 7 海里处遇袭，机舱起火，船员安全，这与前一日 05:58 的 207-26 号警告不是同一时段；209-26 号为补报，13 日一艘油轮在阿拉伯湾东行、即将进入霍尔木兹前被不明飞行物击中，船员安全；210-26 号称，17 日 12:50（UTC）一艘货船在也门穆卡拉西南约 50 海里处遭携带武器和梯具的小艇尝试登船，船上武装保安鸣枪警告后，小艇返回母船。",
+          "sourceNote": "UKMTO；UKMTO；UKMTO；UKMTO",
+          "links": [
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261116-ukmto_warning_208-26.pdf"
+            },
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261117-ukmto_warning_209-26.pdf"
+            },
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261117-ukmto_warning_210-26.pdf"
+            },
+            {
+              "name": "UKMTO",
+              "url": "https://x.com/UK_MTO/status/2122703877438861624"
+            }
+          ],
+          "tierText": "一档事实（UKMTO 官方警告）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "UKMTO再报霍尔木兹油轮遇袭和亚丁湾登船企图"
+        },
+        {
+          "text": "《防务新闻》报道，特朗普希望在 19 日深圳三方会晤中讨论削减核武库，但分析人士认为难有可核查的突破：美俄《新削减战略武器条约》已于今年 2 月到期，两国 1972 年以来首次不再受数量上限约束，各自库存约 4000 枚，中国为数百枚且仍在扩充，北京尚未正式把战略军控列入议程。更可能的成果是重申「核战争打不赢也打不得」，或就人工智能介入核指挥控制发表政治表态；俄方迄未接受「必须由人作核决策」的表述。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/"
+            }
+          ],
+          "tierText": "二档专业解读（会晤尚未举行，前景评估来自军控学者）",
+          "domain": "missile",
+          "location": {
+            "name": "北京（示意）",
+            "lat": 39.9,
+            "lon": 116.4
+          },
+          "headline": "特朗普拟在深圳会晤谈核裁军，分析称难有突破"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "北约 17 日宣布开始落实多国「星升」（Starlift）卫星发射项目：比利时、加拿大、芬兰、德国、意大利、荷兰、挪威、瑞典、土耳其、英国 10 个盟国，再加上韩国，承诺通过北约支援与采购局出资，协助参加国向商业运载火箭和发射场预订发射窗口，以提高进入太空的弹性、响应速度并控制成本；具体金额未公布。法国、匈牙利、卢森堡和美国未出现在当天名单中，北约官员事后向媒体表示，美国以联系成员身份参与并提供发射领域经验。韩国国防部确认已于 10 月 29 日在布鲁塞尔签署谅解备忘录。",
+          "sourceNote": "Breaking Defense；韩国国防部 ROK MND",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/nato-kicks-off-11-nation-starlift-satellite-launch-program/"
+            },
+            {
+              "name": "韩国国防部 ROK MND",
+              "url": "https://x.com/ROK_MND/status/2122629608919155174"
+            }
+          ],
+          "tierText": "二档专业解读（北约声明与韩国官方；美国联系成员身份由北约官员向媒体说明）",
+          "domain": "space",
+          "location": {
+            "name": "芬兰（示意）",
+            "lat": 60.17,
+            "lon": 24.94
+          },
+          "headline": "北约启动11国「星升」卫星发射合作"
+        },
+        {
+          "text": "芬兰雷达卫星公司 Iceye 17 日对意大利火箭制造商 Avio 提出 20 亿欧元现金收购要约（每股 41 欧元，较前一日收盘溢价 21.3%），并承诺五年内再向 Avio 在意大利的业务投资 10 亿欧元，以扩大「织女星」火箭客户群；芬兰国防部长哈卡宁表示，若成交将提升芬兰和欧洲防务的自主保障。Avio 董事会已开始评估，持股约 18% 的莱昂纳多称「感到惊喜」。Avio 还是导弹固体发动机重要供应商，并在美国弗吉尼亚州赫特建厂，为扩展型制导火箭弹和精确打击导弹生产发动机，收购还需意大利和美国政府批准。",
+          "sourceNote": "Defense News；Breaking Defense",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/"
+            },
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/"
+            }
+          ],
+          "tierText": "二档专业解读（公司与政府表态，交易尚未完成）",
+          "domain": "space",
+          "location": {
+            "name": "芬兰（示意）",
+            "lat": 60.17,
+            "lon": 24.94
+          },
+          "headline": "Iceye出价20亿欧元竞购意大利火箭商Avio"
+        },
+        {
+          "text": "韩华防务称，已于 15 日（周日）在密西西比近海一艘试验船上，用托盘式多联装发射器成功试射两枚「天武」火箭弹，该发射器可配属有人舰或无人艇。美国海军近年推动载荷与平台解耦的集装箱化、托盘化打击，海军作战部长考德尔曾公开要求「只要装进集装箱，就要能在多种平台上作战」。韩华表示，这次试验数据将用于后续分散式海上作战和远征打击概念。",
+          "sourceNote": "Defense News；Naval News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/"
+            },
+            {
+              "name": "Naval News",
+              "url": "https://www.navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher/"
+            }
+          ],
+          "tierText": "二档专业解读（公司公告；美海军集装箱化方针来自此前公开讲话）",
+          "domain": "sea",
+          "location": null,
+          "headline": "韩华在海上托盘发射器试射「天武」火箭弹"
+        },
+        {
+          "text": "英国国防部 17 日宣布，再拨 2500 万英镑为驻爱沙尼亚、担负北约东翼防务的部队增购数百架单向攻击和第一人称视角无人机，并把情报监视侦察无人机数量增加一倍，同时配备单兵和车载电子战、多光谱伪装及轻型 4×4 车辆，计划到 2027 年 4 月装备第 4 轻装旅。这笔经费来自「RAPSTONE」项目下 5000 万英镑的快速杀伤力投资，英方强调要把乌克兰战场经验更快转化为装备。",
+          "sourceNote": "英国国防部 UK MoD",
+          "links": [
+            {
+              "name": "英国国防部 UK MoD",
+              "url": "https://www.gov.uk/government/news/army-buys-hundreds-more-drones-and-electronic-warfare-kit-in-25-million-boost-to-strengthen-britains-defences-on-natos-eastern-flank"
+            }
+          ],
+          "tierText": "一档事实（英国官方）",
+          "domain": "air",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英国再拨2500万英镑为驻爱沙尼亚部队增购无人机"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "Iceye 以 20 亿欧元竞购 Avio，若获意、美批准，将把欧洲合成孔径雷达星座与「织女星」入轨能力和导弹固体发动机并到同一集团，对欧洲侦察与弹药产线的自主保障有直接影响；Avio 在美国为精确打击导弹和扩展型制导火箭弹建厂，并购审查本身也是风险点。",
+    "韩华海上托盘试射「天武」，以及美国海军公开的集装箱化方针，说明远程火箭和巡飞弹药正被做成可快速搬上有人舰与无人艇的模块；相关发射器、战斗部和管理软件比新造舰更值得跟踪。",
+    "北约「星升」把 11 国的发射订座集中到商业市场，美国只以联系成员参与，叠加「火神」失利后的运力紧张，欧洲和韩国的发射场与中型火箭需求会上升；英国 2.4 亿英镑防空包和 2500 万英镑东翼无人机订单，则继续指向近程防空导弹、雷达和整机无人机的短期产能。"
+  ]
+}
