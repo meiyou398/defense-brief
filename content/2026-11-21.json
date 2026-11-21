@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-21",
+  "publishedAt": "2026-11-21T09:30:00+08:00",
+  "coverage": "约 11月20日上午至 11月21日上午（UTC+8）",
+  "summary": "俄军在普京扬言对刻赤大桥遇袭作出「更痛苦」报复之后，对乌克兰发动开战以来规模最大的空袭之一，乌空军称过夜遭84枚巡航导弹、404架无人机以及弹道导弹和「锆石」反舰导弹打击，总理科列茨基称8人死亡、28人受伤，基辅三座第聂伯河桥梁受损；波兰国防部确认至少一枚Kh-101巡航导弹坠入境内，另有两处疑似导弹和喷气无人机残骸，总理图斯克称之为对北约的「蓄意挑衅」，欧盟同日再动员10亿欧元军事援助。美国会预算办公室评估，海军2027财年30年造船计划年均造船拨款约538亿至540亿美元（2026年美元），比近五年拨款均值高约41%，比海军自身估计高约18%。美财长贝森特称，特朗普与习近平在深圳达成共识，重大军事行动中的人工智能决策必须有人介入。",
+  "highlights": [
+    {
+      "lead": "对乌空袭",
+      "text": "俄过夜发射84枚巡航导弹和404架无人机，乌称8死，基辅三座桥梁受损。",
+      "item": 1
+    },
+    {
+      "lead": "侵入波兰",
+      "text": "波国防部确认Kh-101坠入境内，另两处发现疑似导弹和喷气无人机。",
+      "item": 2
+    },
+    {
+      "lead": "造船账单",
+      "text": "预算办公室称海军30年计划年均约540亿美元，比海军估计高约18%。",
+      "item": 10
+    },
+    {
+      "lead": "军事AI",
+      "text": "贝森特称特朗普与习近平同意，重大军事行动须有人介入决策。",
+      "item": 5
+    },
+    {
+      "lead": "霍尔木兹",
+      "text": "一艘油轮在哈萨卜以北约8海里处被不明弹体击中船首起火。",
+      "item": 7
+    },
+    {
+      "lead": "蒲城无人机",
+      "text": "卫星图显示一架外形类似MQ-25的不明无人机出现在蒲城试飞中心。",
+      "item": 4
+    }
+  ],
+  "stats": [
+    {
+      "value": "84",
+      "unit": "枚",
+      "label": "乌称遭巡航导弹打击",
+      "item": 1
+    },
+    {
+      "value": "404",
+      "unit": "架",
+      "label": "乌称遭无人机打击",
+      "item": 1
+    },
+    {
+      "value": "8",
+      "unit": "人",
+      "label": "乌总理公布死亡人数",
+      "item": 1
+    },
+    {
+      "value": "540",
+      "unit": "亿美元",
+      "label": "海军造船计划年均估值",
+      "item": 10
+    },
+    {
+      "value": "2",
+      "unit": "架次",
+      "label": "台公布21日共机",
+      "item": 3
+    }
+  ],
+  "featured": [
+    1,
+    2
+  ],
+  "sections": [
+    {
+      "title": "俄乌 / 欧洲",
+      "items": [
+        {
+          "text": "乌克兰空军称，俄军在周四夜间至周五凌晨对基辅和另外九个州发动大规模空袭，发射84枚Kh-101、「口径」和「伊斯坎德尔-K」巡航导弹，以及「伊斯坎德尔-M」、S-400弹道导弹和「锆石」反舰导弹，并派出404架无人机，其中123架为喷气动力「沙赫德」。防空系统摧毁或压制了3枚弹道导弹或「锆石」、79枚巡航导弹和380架无人机（含102架喷气机），弹着点记在23处。总理科列茨基称全境8人死亡、28人受伤，其中基辅6死15伤；导弹损坏了波迪尔-沃斯克列先斯基、达尔尼茨基和南桥三座第聂伯河桥梁，哈尔科夫一家急救医院和利沃夫斯克尼利夫火车站也遭袭。这是在普京19日扬言对刻赤大桥遇袭作出「更痛苦」报复数小时之后发生的；此前周四白天的无人机袭击还造成奥地利和荷兰驻基辅使馆受损，使馆人员无恙。",
+          "sourceNote": "Kyiv Post；乌克兰国防部 Defence of Ukraine；Euronews",
+          "links": [
+            {
+              "name": "Kyiv Post",
+              "url": "https://www.kyivpost.com/post/90693"
+            },
+            {
+              "name": "乌克兰国防部 Defence of Ukraine",
+              "url": "https://x.com/DefenceU/status/2123737661655351709"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/video/2026/11/20/ukraine-russian-strikes-damage-austrian-and-dutch-embassies-in-kyiv"
+            }
+          ],
+          "tierText": "一档事实 / 三档有立场（伤亡、桥梁和使馆受损有乌方官员与当事国外交部门公开说明；俄方发射与拦截数字来自乌空军，属交战方口径，尚未经独立逐项核实）",
+          "domain": "missile",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "俄对乌发动大规模空袭，基辅三座桥梁受损，乌称8死"
+        },
+        {
+          "text": "波兰国防部20日确认，俄军对乌大规模空袭期间有三件目标侵入波兰领空：比乌戈莱县新利波维茨为一枚已定位的Kh-101巡航导弹，桑河畔鲁德尼克附近为疑似导弹，雅罗斯瓦夫县莫沃迪奇附近为喷气无人机；波方称境内无人伤亡，也没有关键基础设施受损。当晚波兰F-16和瑞典鹰狮战斗机升空警戒，荷兰加油机和瑞典萨博预警机也参与，热舒夫亚先卡机场的爱国者系统和波普拉德、Pilica+等防空部队进入战备，机场塔台一度疏散。副总理兼国防部长科西尼亚克-卡梅什和总理图斯克均称，此事与「意愿联盟」当天空军演习「联盟26.2」在新登巴举行「并非偶然」，并称之为俄方挑衅；北约秘书长吕特与图斯克通话后表示北约战机已紧急起飞，并将于21日访华沙。欧盟理事会同日通过两项决定，再动员10亿欧元欧洲和平基金，以联合采购方式向乌克兰提供无人机、防空、弹药、电子战、雷达和火工品，计划在2027年底前交付，属于9月25日政治协议中66亿欧元总额的一部分。",
+          "sourceNote": "波兰国防部 Polish Ministry of National Defence；The Guardian；欧盟理事会 Council of the EU",
+          "links": [
+            {
+              "name": "波兰国防部 Polish Ministry of National Defence",
+              "url": "https://www.gov.pl/web/obrona-narodowa/wicepremier-w-kosiniak-kamysz-o-naruszeniu-polskiej-przestrzeni-powietrznej"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+            },
+            {
+              "name": "欧盟理事会 Council of the EU",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/20/european-peace-facility-council-mobilises-additional-1-billion-in-new-military-aid-to-ukraine/"
+            }
+          ],
+          "tierText": "一档事实 / 三档有立场（波国防部确认Kh-101坠地位置及另两处现场；「蓄意挑衅」和与演习有关的判断是波方与北约官员口径；欧盟10亿欧元为理事会正式决定）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "波兰（示意）",
+            "lat": 52.23,
+            "lon": 21.01
+          },
+          "headline": "波兰确认Kh-101坠入境内，欧盟再动员10亿欧元军援"
+        }
+      ]
+    },
+    {
+      "title": "中国 / 印太 / 台海",
+      "items": [
+        {
+          "text": "台湾国防部21日通报，自20日6时至21日6时，侦获共机2架次、共舰6艘及公务船1艘在台海周边活动，其中2架次均进入西南及东部空域；同期侦获中共空飘气球4颗。国军称已运用任务机、舰及岸置导弹系统监控应处。与前一日（8架次共机、其中6架次越线，共舰7艘、公务船2艘）相比，机舰活动明显回落。",
+          "sourceNote": "中华民国国防部 Taiwan MND",
+          "links": [
+            {
+              "name": "中华民国国防部 Taiwan MND",
+              "url": "https://www.mnd.gov.tw/news/plaact/88312"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.mnd.gov.tw/En/Publication/88313"
+            }
+          ],
+          "tierText": "一档事实（官方日报，数字为台方侦获口径）",
+          "domain": "missile",
+          "location": {
+            "name": "台湾周边（示意）",
+            "lat": 23.7,
+            "lon": 121.0
+          },
+          "headline": "台公布21日2架次共机、6艘共舰，均进入西南及东部空域"
+        },
+        {
+          "text": "《战区》依据Vantor商业卫星图像和开源地图截图称，陕西蒲城一处较少为人所知的试飞中心近日出现一架外形类似美军MQ-25「魟鱼」的不明无人机，翼展约66英尺、机长约49英尺，比MQ-25大约小两成；机头更尖、进气口在背部，并非简单仿制。长期观察中国航空的安德烈亚斯·鲁普雷希特认为，它可能走与波音相近的路线，发展可兼负侦察监视任务的舰载无人加油机；《战区》也指出，它同样可能是一架多用途无人作战飞机或协同作战无人机，目前尚不能确定任务。同场在2026年4月的图像中还出现过彩虹-7隐身飞翼无人机和「九天」无人机母机。这与中国正在把歼-35、歼-15T和空警-600以及舰载攻-21隐身无人作战飞机纳入航母和两栖攻击舰航空联队的努力同一方向，但仍只是外形判断。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center"
+            }
+          ],
+          "tierText": "二档专业解读（商业卫星图像可核对外形和大致尺寸；用途仍是分析推断，不是官方确认）",
+          "domain": "space",
+          "location": null,
+          "headline": "蒲城试飞中心出现外形类似MQ-25的不明中国无人机"
+        },
+        {
+          "text": "美国财政部长贝森特周五对CNBC表示，特朗普与习近平在深圳会晤时达成一项他称为此行重要成果的共识：军事用途的「超级智能」决策必须有人介入，重大军事行动不得由系统自主发起。他同时称，两国在人工智能上的竞争不会改变这一约定，并说美国仍把H200作为允许对华许可出口的最高端英伟达芯片，认为中方自研芯片「可能还落后多年」。这项口头转述并未附带可核查的联合文本或执行机制，约束力仍待观察。",
+          "sourceNote": "Defense News（路透）",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/"
+            }
+          ],
+          "tierText": "三档有立场（协议内容目前只有美方官员转述，未见双方联署文本）",
+          "domain": "industry",
+          "location": null,
+          "headline": "贝森特称特朗普与习近平同意重大军事AI决策须有人介入"
+        },
+        {
+          "text": "美国海军学会新闻20日报道，美菲海军陆战队本月5日在巴拉望岛阿波拉万一处面向南海的海滩，于「群岛沿海防御连续体」演练中架设了「地面海上系统-轻型」监视雷达。该雷达由古野系统改进而来，按型号可在约24至96海里范围内探测和跟踪船只，是美海军陆战队兵力设计中的岸基传感器之一，美方希望沿第一岛链铺开感知网。这是演练部署而非宣布永久设站，但对南海近岸感知和岸导协同仍有指向意义。",
+          "sourceNote": "USNI News",
+          "links": [
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/20/u-s-philippine-marines-set-up-surveillance-radar-in-palawan"
+            }
+          ],
+          "tierText": "二档专业解读（演练本身有公开报道；雷达性能数字来自对该型装备的说明，并非此次部署的实测数据）",
+          "domain": "sea",
+          "location": {
+            "name": "南海（示意）",
+            "lat": 12.0,
+            "lon": 114.0
+          },
+          "headline": "美菲海军陆战队在巴拉望演练部署岸基监视雷达"
+        }
+      ]
+    },
+    {
+      "title": "中东 / 导弹 / 核",
+      "items": [
+        {
+          "text": "英国海事贸易行动署20日连续发布两份警告：214-26号称，当天15时（世界时）一艘正在向外驶出霍尔木兹海峡的油轮，在阿曼哈萨卜以北约8海里处被不明弹体击中左舷船首并起火，当时未报人员伤亡或环境损害；213-26号称，当天11时02分（世界时）一艘在国际公认通航走廊向东行驶的散货船，在也门穆卡拉西南约95海里处遭一艘载有6名武装人员的深蓝色快艇靠近，快艇连开四枪，船上武装安保回以警告射击后快艇离去，船体和船员均未受伤。行动署建议过往船只谨慎航行并报告可疑活动，威胁来源仍在调查。",
+          "sourceNote": "UKMTO",
+          "links": [
+            {
+              "name": "UKMTO",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261120-ukmto_warning_214-26.pdf"
+            },
+            {
+              "name": "原文",
+              "url": "https://www.ukmto.org/-/media/ukmto/products/20261120-ukmto_warning_213-26.pdf"
+            }
+          ],
+          "tierText": "一档事实（官方海事警告，依据公司安保和船长报告，攻击方身份未认定）",
+          "domain": "sea",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "霍尔木兹附近油轮被不明弹体击中起火，也门近海再报武装快艇"
+        },
+        {
+          "text": "国际原子能机构总干事格罗西在理事会会议上通报伊朗核问题后，美国、英国、法国和德国发表联合声明，要求伊朗恢复与机构的全面合作，并警告目前除布什尔核电站外，检查人员无法进入相关设施，机构已难以核实已申报核材料是否仍用于和平目的。格罗西呼吁以可操作的技术步骤逐步恢复视察，并称任何外交安排都需要机构核查作为基础。这是在伊核设施早前遭袭、视察中断，以及特朗普称对伊下一步要等到明年再决定的背景下发出的。",
+          "sourceNote": "Iran International；Anadolu Agency；国际原子能机构 IAEA",
+          "links": [
+            {
+              "name": "Iran International",
+              "url": "https://www.iranintl.com/en/202611209892"
+            },
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/politics/return-to-diplomacy-negotiations-on-iran-s-nuclear-program-imperative-un-nuclear-watchdog/4129361"
+            },
+            {
+              "name": "国际原子能机构 IAEA",
+              "url": "https://x.com/iaeaorg/status/2123702902459896251"
+            }
+          ],
+          "tierText": "二档专业解读 / 三档有立场（格罗西在理事会上的通报和西方四国要求为公开表态；伊方仍不承认需恢复原有视察安排）",
+          "domain": "diplomacy",
+          "location": {
+            "name": "伊朗（示意）",
+            "lat": 32.4,
+            "lon": 53.7
+          },
+          "headline": "美英法德要求伊朗恢复与原子能机构全面合作"
+        },
+        {
+          "text": "军控网站Arms Control Wonk的萨姆·莱尔根据行星实验室图像撰文称，宁边原有铀浓缩厂旁正在加建一小块厂房，宽约8至10米，9月中旬施工时内部几乎没有隔墙，更像是放置离心机的空间，而不是办公室。文章估计，若按江界（Kangson）附楼的密度填满离心机，大约可增加每年8000千克分离功，约合每年37千克高浓铀；作者认为这是用途的最大可能，但并不能确定。总干事格罗西在相关评论中特别指向「原先那座」工厂。这与金正恩今年6月关于继续扩大核材料产能的表态方向一致，但增量本身不大，更说明现有产线仍在补强。",
+          "sourceNote": "Arms Control Wonk",
+          "links": [
+            {
+              "name": "Arms Control Wonk",
+              "url": "https://www.armscontrolwonk.com/archive/1222510/keeping-up-with-the-kangs-a-small-addition-to-yongbyons-original-uep/"
+            }
+          ],
+          "tierText": "二档专业解读（卫星图像可核对施工和外形；离心机数量与高浓铀产量是基于其他厂房密度的推算）",
+          "domain": "industry",
+          "location": null,
+          "headline": "卫星图显示宁边原有铀浓缩厂旁正在加建小厂房"
+        }
+      ]
+    },
+    {
+      "title": "太空 / 无人机 / 国防产业",
+      "items": [
+        {
+          "text": "美国会预算办公室19日发布的评估称，海军2027财年30年造船计划若落实，造船相关拨款年均约538亿至540亿美元（2026年美元），比近五年年均约381亿美元的拨款高约41%，比海军对新建舰艇的自身估计高约18%。按办公室口径，仅新建作战和支援舰30年合计约1.47万亿美元，高于海军的1.23万亿美元；另有年均约46亿美元用于核动力舰换料、舾装和作战序列之外的辅助舰，这些并不写在海军这份计划的正文里。计划要把战斗舰艇从目前的286艘增至2056年的398艘，采购371艘新的作战和后勤支援舰、58艘新辅助舰和29艘二手辅助舰、72艘中型无人水面艇，并新增15艘核动力导弹战列舰，后者被指显著抬高了大型水面舰费用。办公室警告，即便未来30年一直拿到近五年这种自1980年代以来最高的造船拨款，仍买不起计划中的全部舰艇；舰载火力还会在2035年前先降后升，维修延误也会限制实际可部署兵力。",
+          "sourceNote": "Breaking Defense；Navy Times；USNI News",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo/"
+            },
+            {
+              "name": "Navy Times",
+              "url": "https://www.navytimes.com/news/your-navy/2026/11/20/navys-2027-shipbuilding-plan-would-cost-54b-a-year-federal-agency-says/"
+            },
+            {
+              "name": "USNI News",
+              "url": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds"
+            }
+          ],
+          "tierText": "一档事实 / 二档专业解读（数字来自国会预算办公室正式评估；对能否负担和火力变化的判断是办公室的分析结论）",
+          "domain": "missile",
+          "location": null,
+          "headline": "预算办公室称海军30年造船计划年均约540亿美元"
+        },
+        {
+          "text": "正在代理海军部副部长、等待参议院确认的威廉·托蒂20日在参议院军事委员会听证会上说，海军的协同作战飞机不必等到F/A-XX第六代舰载战斗机交付，可以先与现有的F-35C搭配，作为航母航空联队的低成本可消耗力量；同时也强调F/A-XX本身仍不可少，不能让F-35成为航母上的最后一种有人战机。他称相关项目「仍处在起步阶段」。海军已在2025年9月让Anduril、波音、通用原子和诺斯罗普·格鲁曼开展舰载协同作战飞机概念设计，第一型舰载固定翼无人机仍将是MQ-25加油机；波音已在今年9月赢得F/A-XX竞标。",
+          "sourceNote": "The War Zone",
+          "links": [
+            {
+              "name": "The War Zone",
+              "url": "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter"
+            }
+          ],
+          "tierText": "二档专业解读（托蒂在听证会上的表态是公开的；项目仍处早期，尚未等于已经定型或批量采购）",
+          "domain": "sea",
+          "location": null,
+          "headline": "海军称协同作战飞机可先与F-35C搭配"
+        },
+        {
+          "text": "德国联邦国防军采购局称，斯塔克公司的Virtus和赫尔辛公司的HX-2两型单向攻击无人机，在11月9日当周的实弹试验中通过考核，试验在梅彭武器弹药试验中心进行，检验能否可靠命中指定目标和战斗部在撞击时是否有效，但尚未完成全部鉴定，也未公布发射次数和命中率。采购局预计今年年内开始首批交付并组织训练，陆军计划从2027年起首先装备驻立陶宛的第45装甲旅。这批采购来自今年2月25日预算委员会批准的两份各约2.68亿欧元合同，另有可能再各增约10亿欧元的选择权，取决于技术成熟度和议会后续批准。",
+          "sourceNote": "Defense News",
+          "links": [
+            {
+              "name": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/"
+            }
+          ],
+          "tierText": "二档专业解读（采购局公布了试验结果和列装时间表；具体性能和交付数量仍未披露）",
+          "domain": "air",
+          "location": {
+            "name": "德国（示意）",
+            "lat": 52.52,
+            "lon": 13.4
+          },
+          "headline": "德国两型攻击无人机通过实弹试验，拟年内首批交付"
+        },
+        {
+          "text": "美国自主软件公司Auterion与乌克兰无人机制造商Skyfall宣布，将在「与乌克兰共建」框架下成立合资公司Skyfall X Auterion，在德国新建工厂、为乌克兰大规模生产无人机，先从「伯劳」FPV平台入手，再扩展到拦截机以及中程和远程打击型，每架机器采用Skyfall机体加Auterion航电和操作系统。公司称把产线放在德国是为了避开空袭范围，同时每周把前线反馈送回设计端；首席执行官洛伦茨·迈尔称，双方已向乌军交付逾5万架带末端制导和目标识别的无人机。路透社援引一名业界人士称，德国政府可能先以数亿欧元量级资助对乌供货，然后再供应德军。瑞典初创公司北欧防空同日发布K200拦截无人机，称其用于拦截包括俄「杰兰-3a」在内的喷气自杀无人机，已在乌克兰设立办公室准备测试，战斗部约500克，未命中时可再次接战。",
+          "sourceNote": "Breaking Defense",
+          "links": [
+            {
+              "name": "Breaking Defense",
+              "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall/"
+            },
+            {
+              "name": "原文",
+              "url": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests/"
+            }
+          ],
+          "tierText": "二档专业解读（合资与产品路线来自公司公告；德方资助规模目前只是业界转述，K200尚未进入乌方实战验证）",
+          "domain": "air",
+          "location": {
+            "name": "乌克兰（示意）",
+            "lat": 50.45,
+            "lon": 30.52
+          },
+          "headline": "德乌拟在德国建无人机厂，瑞典发布K200"
+        },
+        {
+          "text": "英国国防部20日宣布，本土企业即日起可申请最高4500万英镑的资本补助，用于新建生产炸药、推进剂和其他含能材料的工厂。这是国防部含能材料计划的首个资助窗口，属于政府15亿英镑「常开」弹药产能承诺和「未来工厂」倡议的一部分，官方称将创造1000多个技术岗位，并支持在英国至少新建六座火工品和弹药工厂，以降低对海外供应商的依赖。国防采购大臣卢克·波拉德说，乌克兰战争证明必须能够迅速生产和补充弹药；随后还有两轮竞争性窗口。",
+          "sourceNote": "英国国防部 UK MoD",
+          "links": [
+            {
+              "name": "英国国防部 UK MoD",
+              "url": "https://www.gov.uk/government/news/grants-up-to-45-million-boost-uk-growth-as-ministry-of-defence-funds-national-munitions-production"
+            }
+          ],
+          "tierText": "一档事实（官方招标与政策宣布；具体落点和中标企业尚未公布）",
+          "domain": "industry",
+          "location": {
+            "name": "英国（示意）",
+            "lat": 51.51,
+            "lon": -0.13
+          },
+          "headline": "英国开放最高4500万英镑补助，用于新建弹药工厂"
+        }
+      ]
+    }
+  ],
+  "invest": [
+    "国会预算办公室把海军30年造船账单又抬高了一截：年均约540亿美元，比海军自己写的数字高出一成八，15艘核动力导弹战列舰是重要加价项。即便维持近几年来已是1980年代以来最高的造船拨款，计划仍买不齐。这与参议院近日用削减造船来补弹药的方向叠在一起，说明「把舰队做大」和「先把导弹填满」还在争同一笔钱，对造船厂是规划风险，对导弹、固体发动机和无人舰供应商则是更明确的中期需求。",
+    "欧洲正在把巡飞弹、FPV和廉价拦截弹往量产上推：德国两型攻击无人机通过实弹试验、拟年内交付，Auterion与Skyfall要在德国建厂并已声称交付逾5万架，瑞典K200瞄准喷气「沙赫德」，英国则拿出最高4500万英镑补助去建火工品厂。对弹药、含能材料、反无人机拦截弹和可在欧洲落地的无人机产线，这是持续的订单和产能主题，而不是一次性新闻。",
+    "中国在蒲城试飞的类MQ-25无人机，连同攻-21舰载隐身无人作战飞机，说明航母航空联队的无人加油、侦察和协同作战飞机仍是投入方向；美国海军则明确协同作战飞机可以先挂在F-35C上，不必空等F/A-XX。对舰载无人机、自主控制和航空发动机供应商，两岸和美方都还在加码概念验证，但离稳定的大批量采购仍早。空军一份理论上价值161亿美元、为期15年的先进推进不定交付合同已经发给58家公司，目前每家只拿到1000美元入门金额，更宜看成通道而不是已经落地的大单。"
+  ]
+}
